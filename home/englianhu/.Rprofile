@@ -195,9 +195,10 @@ if(!suppressPackageStartupMessages(require('openxlsx2'))) {
 #library(prettycode, exclude = c('!', 'print'))
 
 suppressPackageStartupMessages(require('dplyr'))
-conflicted::conflict_prefer('print', 'base', quiet = TRUE)
-conflicted::conflict_prefer('filter', 'dplyr', quiet = TRUE)
-conflicted::conflict_prefer('select', 'dplyr', quiet = TRUE)
+conflicted::conflicts_prefer(dplyr::filter, .quiet = TRUE)
+conflicted::conflicts_prefer(dplyr::select, .quiet = TRUE)
+conflicted::conflicts_prefer(base::print, .quiet = TRUE)
+conflicted::conflicts_prefer(base::load, .quiet = TRUE)
 
 pkgs <- c('MASS', 'conflicted', 'prettycode', 'crayon', 'progress', 'rhub', 'plyr', 'purrr', 'readr', 'tidyr', 'pryr', 'broom', 'formattable', 'git2r', 'knitr', 'kableExtra', 'data.table', 'tibble', 'tibbletime', 'magrittr', 'forecast', 'fable', 'fabletools', 'usethis', 'tidytuesdayR')
 suppressPackageStartupMessages(load_pkg(pkgs))
