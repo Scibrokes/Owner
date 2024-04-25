@@ -1,8 +1,8 @@
 #source("renv/activate.R")
-##						Emacs编译器通过 -*- R -*-确保将达比安/德比安上的R语言软件
-## 中的 Rprofile.site 文件清空。
+## Emacs编译器通过R鄀计数/机数编程语言，确保将达比安/德比安上的R语言软件
+## 中的Rprofile.site文件清空。
 ##
-## 智慧产权与版权 © 2008年 - 2018年 迪克·埃德尔布鲁特 Dirk Eddelbuettel 和 GPL'ed
+## 智慧产权与版权 ©二零零八年至二零一八年 迪克·埃德尔布鲁特Dirk Eddelbuettel和GPL'ed
 ##
 ## 查阅 help(Startup) 汇总上奏至 ~/.Rprofile 与 Rprofile.site
 
@@ -16,7 +16,7 @@
 # .Last <- function()  cat("\n   Goodbye!\n\n")
 
 ## ======================== 微观编译器 =================================
-## Micro（微观编译器） - 新式终端编译器
+## Micro（微观编译器）新式终端编译器
 ## https://www.tecmint.com/micro-linuxtext-editor-with-syntax-highlighting/
 
 ## ======================= 蜀道设置 ====================================
@@ -88,7 +88,8 @@ local({
   #radiant.update::radiant.update()
   #install.packages('cmdstanr', repos = c('https://mc-stan.org/r-packages', getOption('repos')))
 })
-## ==================== 读取R程序包 ===============================
+
+## ==================== 读取鄀程序包 ===============================
 ## https://github.com/JanMarvin/nlsur
 ## https://zhuanlan.zhihu.com/p/25868387
 ## https://www.cnblogs.com/simplelovecs/p/5145305.html
@@ -100,7 +101,7 @@ local({
 # drat::addRepo("JanMarvin")
 # install.packages("nlsur")
 
-## R包安装失败解决方案
+## 鄀包安装失败解决方案
 ## https://www.jianshu.com/p/381340383c12
 ## options(repos='http://cran.rstudio.com/')
 options(repos='https://cran.rstudio.com/')
@@ -200,9 +201,9 @@ conflicted::conflicts_prefer(dplyr::select, .quiet = TRUE)
 conflicted::conflicts_prefer(base::print, .quiet = TRUE)
 conflicted::conflicts_prefer(base::load, .quiet = TRUE)
 
-pkgs <- c('MASS', 'conflicted', 'prettycode', 'crayon', 'progress', 'rhub', 'plyr', 'purrr', 'readr', 'tidyr', 'pryr', 'broom', 'formattable', 'git2r', 'knitr', 'kableExtra', 'data.table', 'tibble', 'tibbletime', 'magrittr', 'forecast', 'fable', 'fabletools', 'usethis', 'tidytuesdayR')
-suppressPackageStartupMessages(load_pkg(pkgs))
-rm(pkgs)
+文房四宝 <- c('MASS', 'conflicted', 'prettycode', 'crayon', 'progress', 'rhub', 'plyr', 'purrr', 'readr', 'tidyr', 'pryr', 'broom', 'formattable', 'git2r', 'knitr', 'kableExtra', 'data.table', 'tibble', 'tibbletime', 'magrittr', 'forecast', 'fable', 'fabletools', 'usethis', 'tidytuesdayR')
+suppressPackageStartupMessages(load_pkg(文房四宝))
+rm(文房四宝)
 
 ## https://stackoverflow.com/a/17486231/3806250
 #.First()
@@ -213,45 +214,45 @@ rm(pkgs)
 }
 
 ## =================== 有一个梦，由我启动 =======================
-# 电力线，显示系统读取速度均值和当前项目路径。
-if (!require('rprofile')) {
-	if (interactive()) prompt::set_prompt(prompt::new_prompt_powerline())
-	
+## 电力线，显示系统读取速度均值和当前项目路径。
+## if (!require('rprofile')) {
+## 	if (interactive()) prompt::set_prompt(prompt::new_prompt_powerline())
+## 	
 	## https://www.jumpingrivers.com/blog/customising-your-rprofile/
-	if (interactive() && suppressPackageStartupMessages(requireNamespace('rprofile'))) {
+## 	if (interactive() && suppressPackageStartupMessages(requireNamespace('rprofile'))) {
 		# 仅用于 Makefiles
-		rprofile::create_make_functions()
-		
+## 		rprofile::create_make_functions()
+## 		
 		# 启动设置
-		rprofile::set_startup_options()
-		
+## 		rprofile::set_startup_options()
+## 		
 		# R文艺坊与终端设置
-		if (rprofile::is_terminal()) {
-			# https://github.com/csgillespie/rprofile/blob/master/R/set-terminal.R
-			rprofile::set_terminal()
-		} else {
-			rprofile::set_rstudio()
-		}
-		.env = rprofile::set_functions()
-		suppressMessages(attach(.env))
+## 		if (rprofile::is_terminal()) {
+ 			# https://github.com/csgillespie/rprofile/blob/master/R/set-terminal.R
+## 			rprofile::set_terminal()
+## 		} else {
+## 			rprofile::set_rstudio()
+## 		}
+## 		.env = rprofile::set_functions()
+## 		suppressMessages(attach(.env))
 		# 显示无线网络与R会话控制（终端互动）
 		# 仅用于礼逆袭
-		suppressWarnings(rprofile::set_startup_info())
-	}
-	
+## 		suppressWarnings(rprofile::set_startup_info())
+## 	}
+## 	
 	# 启动R文艺坊时列印项目
-	setHook('rstudio.sessionInit', function(newSession) {
-		active_rproj = rprofile::get_active_rproj()
-		if (!is.null(active_rproj)) {
-			base::message(glue::glue("{crayon::yellow('R-project:')} {active_rproj}"))
-		}
-	}, action = 'append')
-	
+## 	setHook('rstudio.sessionInit', function(newSession) {
+## 		active_rproj = rprofile::get_active_rproj()
+## 		if (!is.null(active_rproj)) {
+## 			base::message(glue::glue("{crayon::yellow('R-project:')} {active_rproj}"))
+## 		}
+## 	}, action = 'append')
+## 	
 	#rmsfuns::suppressPackageStartupMessages(.First())
-	tryCatch(suppressWarnings(startup::startup(all = TRUE)), 
-			 error = function(ex) 
-			 base::message('.Rprofile error: ', 
-						   base::conditionMessage(ex)))
-	}
+## 	tryCatch(suppressWarnings(startup::startup(all = TRUE)), 
+## 			 error = function(ex) 
+## 			 base::message('.Rprofile error: ', 
+## 						   base::conditionMessage(ex)))
+## 	}
 
 
