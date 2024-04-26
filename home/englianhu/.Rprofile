@@ -113,10 +113,10 @@ if(!suppressPackageStartupMessages(require('BBmisc'))) {
                    lib = .pth[1], INSTALL_opts = '--no-lock')
 }; suppressPackageStartupMessages(require('BBmisc'))
 
-if(!suppressPackageStartupMessages(require('rmsfuns'))) {
-  install.packages('rmsfuns', dependencies = TRUE, 
-                   lib = .pth[1], INSTALL_opts = '--no-lock')
-}; suppressPackageStartupMessages(require('rmsfuns'))
+## if(!suppressPackageStartupMessages(require('rmsfuns'))) {
+##   install.packages('rmsfuns', dependencies = TRUE, 
+##                    lib = .pth[1], INSTALL_opts = '--no-lock')
+## }; suppressPackageStartupMessages(require('rmsfuns'))
 
 if(!suppressPackageStartupMessages(require('drat'))) {
   install.packages('drat', dependencies = TRUE, 
@@ -202,7 +202,8 @@ conflicted::conflicts_prefer(base::print, .quiet = TRUE)
 conflicted::conflicts_prefer(base::load, .quiet = TRUE)
 
 文房四宝 <- c('MASS', 'conflicted', 'prettycode', 'crayon', 'progress', 'rhub', 'plyr', 'purrr', 'readr', 'tidyr', 'pryr', 'broom', 'formattable', 'git2r', 'knitr', 'kableExtra', 'data.table', 'tibble', 'tibbletime', 'magrittr', 'forecast', 'fable', 'fabletools', 'usethis', 'tidytuesdayR')
-suppressPackageStartupMessages(load_pkg(文房四宝))
+## suppressPackageStartupMessages(load_pkg(文房四宝))
+suppressAll(suppressPackageStartupMessages(lib(文房四宝)))
 rm(文房四宝)
 
 ## https://stackoverflow.com/a/17486231/3806250
