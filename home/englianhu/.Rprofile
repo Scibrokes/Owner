@@ -139,8 +139,8 @@ if(!suppressPackageStartupMessages(require('Ipaper'))) {
   # install.packages('../Ipaper_0.1.5.9000.tar.gz', repos = NULL, type = 'source', dependencies = TRUE)
   # $sudo apt install -y libfftw3-dev
 }; suppressPackageStartupMessages(require('Ipaper'))
-conflicted::conflicts_prefer(plyr::ldply, .quiet = TRUE)
-conflicted::conflicts_prefer(Ipaper::is_empty, .quiet = TRUE)
+conflicted::conflicts_prefers(plyr::ldply, .quiet = TRUE)
+conflicted::conflicts_prefers(Ipaper::is_empty, .quiet = TRUE)
 
 if(!suppressPackageStartupMessages(require('miniCRAN'))) {
   ## https://andrie.github.io/miniCRAN/articles/miniCRAN-introduction.html
