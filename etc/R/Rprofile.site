@@ -50,22 +50,24 @@ Sys.setenv(RETICULATE_PYTHON = '/home/englianhu/anaconda3/bin/python3',
 ## -------------------------------------------------------------------------
 
 ## We set the cloud mirror, which is 'network-close' to everybody, as default
-local({
+# local({
   #r <- getOption('repos')
   #r['CRAN'] <- 'https://cloud.r-project.org'
   #options(repos = r)
   
   ## https://radiant-rstats.github.io/docs/install.html
-  options(repos = c(CRAN = 'https://cloud.r-project.org', 
-                    RSM = 'https://radiant-rstats.github.io/minicran', 
-                    Omega = 'http://www.omegahat.net/R', 
-                    CINC = 'https://cinc.rud.is', 
-                    RForge = 'https://www.rforge.net',
-                    RForge_R = 'http://R-Forge.R-project.org', 
-                    RSpatial = 'https://rspatial.r-universe.dev', 
-                    Stan = 'https://mc-stan.org/r-packages', 
-                    MSFT = 'http://cran.microsoft.com', 
-                    ROpenSci = 'https://ropensci.r-universe.dev'))
+  options(repos = c(
+    RStudio = 'https://cran.rstudio.com', 
+    CRAN = 'https://cloud.r-project.org', 
+    RSM = 'https://radiant-rstats.github.io/minicran', 
+    Omega = 'http://www.omegahat.net/R', 
+    CINC = 'https://cinc.rud.is', 
+    RForge = 'https://www.rforge.net', 
+    RForge_R = 'http://R-Forge.R-project.org', 
+    RSpatial = 'https://rspatial.r-universe.dev', 
+    Stan = 'https://mc-stan.org/r-packages', 
+    MSFT = 'http://cran.microsoft.com', 
+    ROpenSci = 'https://ropensci.r-universe.dev'))
   ## https://www.cynkra.com/opensource
   # Cynkra = 'https://github.com/cynkra'
   #install.packages('remotes')

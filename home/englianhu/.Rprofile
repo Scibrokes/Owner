@@ -66,28 +66,30 @@ Sys.setenv(RETICULATE_PYTHON = '/home/englianhu/anaconda3/bin/python3',
 
 ## ------------------------ 镜像设置 ------------------------------
 ## 咱们设置云端镜像，以贴近众用户。
-local({
+# local({
   #r <- getOption('repos')
   #r['CRAN'] <- 'https://cloud.r-project.org'
   #options(repos = r)
   
   ## https://radiant-rstats.github.io/docs/install.html
-  options(repos = c(CRAN = 'https://cloud.r-project.org', 
-                    RSM = 'https://radiant-rstats.github.io/minicran', 
-                    Omega = 'http://www.omegahat.net/R', 
-                    CINC = 'https://cinc.rud.is', 
-                    RForge = 'https://www.rforge.net', 
-                    RSpatial = 'https://rspatial.r-universe.dev', 
-                    Stan = 'https://mc-stan.org/r-packages', 
-                    MSFT = 'http://cran.microsoft.com', 
-                    ROpenSci = 'https://ropensci.r-universe.dev'))
+  options(repos = c(
+	  RStudio = 'https://cran.rstudio.com', 
+	  CRAN = 'https://cloud.r-project.org', 
+	  RSM = 'https://radiant-rstats.github.io/minicran', 
+	  Omega = 'http://www.omegahat.net/R', 
+	  CINC = 'https://cinc.rud.is', 
+	  RForge = 'https://www.rforge.net', 
+	  RSpatial = 'https://rspatial.r-universe.dev', 
+	  Stan = 'https://mc-stan.org/r-packages', 
+	  MSFT = 'http://cran.microsoft.com', 
+	  ROpenSci = 'https://ropensci.r-universe.dev'))
   ## https://www.cynkra.com/opensource
   # Cynkra = 'https://github.com/cynkra'
   #install.packages('remotes')
   #remotes::install_github('radiant-rstats/radiant.update', upgrade = 'never')
   #radiant.update::radiant.update()
   #install.packages('cmdstanr', repos = c('https://mc-stan.org/r-packages', getOption('repos')))
-})
+# })
 
 ## ==================== 读取鄀程序包 ===============================
 ## https://github.com/JanMarvin/nlsur
@@ -104,7 +106,7 @@ local({
 ## 鄀包安装失败解决方案
 ## https://www.jianshu.com/p/381340383c12
 ## options(repos='http://cran.rstudio.com/')
-options(repos='https://cran.rstudio.com/')
+# options(repos='https://cran.rstudio.com/')
 
 suppressPackageStartupMessages(require('utils'))
 
@@ -128,7 +130,7 @@ if(!suppressPackageStartupMessages(require('devtools'))) {
                    lib = .pth[1], INSTALL_opts = '--no-lock')
   devtools::install_github('r-lib/devtools')
 }; suppressPackageStartupMessages(require('devtools'))
-conflicted::conflict_prefer('check', 'devtools', quiet = TRUE)
+conflicted::conflict_prefers(devtools::check, .quiet = TRUE)
 
 if(!suppressPackageStartupMessages(require('Ipaper'))) {
   devtools::install_github('kongdd/Ipaper')
@@ -137,7 +139,7 @@ if(!suppressPackageStartupMessages(require('Ipaper'))) {
   # install.packages('../Ipaper_0.1.5.9000.tar.gz', repos = NULL, type = 'source', dependencies = TRUE)
   # $sudo apt install -y libfftw3-dev
 }; suppressPackageStartupMessages(require('Ipaper'))
-conflicted::conflict_prefer('ldply', 'plyr', quiet = TRUE)
+conflicted::conflicts_prefer(plyr::ldply, .quiet = TRUE)
 conflicted::conflicts_prefer(Ipaper::is_empty, .quiet = TRUE)
 
 if(!suppressPackageStartupMessages(require('miniCRAN'))) {
