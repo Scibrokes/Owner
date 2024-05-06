@@ -648,7 +648,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 [^5]: \- 參照以上**《阿虎家譜》**<br>-[《小虎🐯隊-2019精選集 (上)》🎼](https://youtu.be/lN2HqdKvRSs)<br>- ["狗"與"犬"有區別嗎？](https://baike.baidu.com/tashuo/browse/content?id=f5a54d49931410bdb8ec540c)：《爾雅·釋獸》載，[*「熊🐻虎🐯醜，其子狗。」*]{style="color:#F6A217"} "醜"意思是"類"，這句話的意思是：熊虎類的<ruby>崽<rp>(</rp><rt>zǎi</rt><rp>)</rp></ruby>稱為狗。清代大學者郝懿行解釋《爾雅》的書《爾雅義疏》，[*「今東齊、遼東人通呼虎🐯之子為羔，羔即狗之轉。」*]{style="color:#F6A217"}<br>- [中國哲學書電子化計劃：「<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>」](https://ctext.org/dictionary.pl?if=gb&char=%E8%B1%BF&remap=gb)：[*「<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>：熊🐻虎🐯之子。」*]{style="color:#F6A217"}
 
-[^6]: 2008年加入西世康首周培訓時，培訓師Tan Tee Wei(諧音：陳蒂薇)問我怎麽稱呼，有沒有昵名之類的，然後想了幾天後就自詡Ryo，就因為小學中學時期喜歡《街頭霸王》的<ruby>龍<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby>（龍 Ryu）和升龍拳、《拳王》的<ruby>草<rp>(</rp><rt>くさ</rt><rp>)</rp>薙<rp>(</rp><rt>なぎ</rt><rp>)</rp>京<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>（京 Kyo），因為「<ruby>拾<rp>(</rp><rt>🇹🇼閩曰：khioh</rt><rp>)</rp></ruby>」字感覺像“拾金不昧”、“遭人嫌棄的養子”、“不是親生的養子”（1983年出生的四哥聯豐嬰兒時期，家慈李仁曾送與大姨媽李英當兒子，祖母顏為得知趕緊到外祖母家載孫子回家。後來小姨媽李美蘭花錢RM8000為大姨媽買了個1988年出生的印度裔嬰兒當兒子。而小時候90年代追《包青天》有集「貍貓換太子」）；[*就不想用Ryu和Kyo，聯合起來自詡Ryo*]{style="color:#F6A217"}，剛好就和《拳王》（最初出現於1992年《龍虎の拳》的角色）中的<ruby>阪<rp>(</rp><rt>さか</rt><rp>)</rp>崎<rp>(</rp><rt>ざき</rt><rp>)</rp>亮<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby> Ryo命名（絕技“真・天地覇煌拳”以速度取勝，不過最喜歡豪鬼的"瞬獄殺”，類似目前科研的高頻量化交易），Ryo 朗朗上口，記得西世康Jason問過Ryo中文怎麽寫，而我淺笑回答可以自定義為“良”、“量”、“亮”等漢字而故意不定位，不使用中文漢字，而使用外來語リョウ，1997年想學佐治.索羅斯當個金融業大玩家，當時完全沒聽說過任何量化圈的人物，2005年在赫薩貿易工作時只知道老外很厲害使用電腦編程和數學和統計學交易掙錢卻沒導師無從學起，甚至不曉得俗稱“量化”，只知道以數學和統計學在交易市場掙錢。<br><br>2019年到樂發阿裏彩票工作時，公司只允許使用別名，表格上本想用「<ruby>叡<rp>(</rp><rt>ruì</rt><rp>)</rp></ruby>歐”卻忘了曹叡的叡字怎麽寫（就“叡”字少見，不過想到司馬掌權就不使用“叡”字）、然後“磊歐”為人“光明磊落”、“明人不做暗事”之意，正合個人的為人處事。從Caspo辭職回國就是立誌學好在拉曼學院修讀大學時所知道的統計學以數據的多寡加上統計建模在交易市場上掙錢，俗稱Dixon&Coles1997提及的“大數定律”與“極大似然估計”，而非2006年在🇸🇬新加坡喜來登和囂張🇸🇬歐陽金泰面試時誇誇其談。2008年至2012年在西世康工作一心只想科研數學、建立量化避險基金，不靠奉承；有天光頭上司Christopher欲提拔邀出席公司年宴當面，被我拒絕難堪後當面不知所措心慌。）不能朗朗上口、而“龍”字太普遍，然後就使用“雷歐”（考量到《飛躍青春》的王雷、🇸🇬新加坡行動黨⚡️、🇪🇺歐盟、最主要是同是量化避險基金“雷達利歐”簡稱為“雷歐”）翻譯原本的Ryo，然後同組有位“娟娟”（🇸🇬歐陽金泰妻子名叫“曉娟”）、“大龍”、“雷著”（2012年在馬電訊工作過濾海外轉播節目有出戲叫《飛躍情春》由長得像🇸🇬歐陽金泰的🇨🇳中國藝人王雷飾演，男主角的結局是悲情槍決死刑），和華財一樣超短光頭發型的雷著身份證姓名：王雷。“瑞歐”則是目前不速之客🇸🇪瑞典國鳥烏鴉時常飛來而命名。<br><br>2007年到 🇸🇬新加坡喜來登酒店大廳面試Caspo新寶工作時，歐陽金泰和歐陽金喜倆問:“有沒有一個比較容易記的名字、稱號或別名？”，當時回復：“沒有!”，然後在Caspo工作時，同事上司老板們都稱“Lian Hu”。
+[^6]: 2008年加入西世康首周培訓時，培訓師Tan Tee Wei(諧音：陳蒂薇)問我怎麽稱呼，有沒有昵名之類的，然後想了幾天後就自詡Ryo，就因為小學中學時期喜歡《街頭霸王》的<ruby>龍<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby>（龍 Ryu）和升龍拳、《拳王》的<ruby>草<rp>(</rp><rt>くさ</rt><rp>)</rp>薙<rp>(</rp><rt>なぎ</rt><rp>)</rp>京<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>（京 Kyo），因為「<ruby>拾<rp>(</rp><rt>🇹🇼閩曰：khioh</rt><rp>)</rp></ruby>」字感覺像“拾金不昧”、“遭人嫌棄的養子”、“不是親生的養子”（1983年出生的四哥聯豐嬰兒時期，家慈李仁曾送與大姨媽李英當兒子，祖母顏為得知趕緊到外祖母家載孫子回家。後來小姨媽李美蘭花錢RM8000為大姨媽買了個1988年出生的印度裔嬰兒當兒子。而小時候90年代追《包青天》有集「貍貓換太子」）；[*就不想用Ryu和Kyo，聯合起來自詡Ryo*]{style="color:#F6A217"}，剛好就和《拳王》（最初出現於1992年《龍虎の拳》的角色）中的<ruby>阪<rp>(</rp><rt>さか</rt><rp>)</rp>崎<rp>(</rp><rt>ざき</rt><rp>)</rp>亮<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby> Ryo命名（絕技“真・天地覇煌拳”以速度取勝，不過最喜歡豪鬼的"瞬獄殺”，類似目前科研的高頻量化交易），Ryo 朗朗上口，記得西世康Jason問過Ryo中文怎麽寫，而我淺笑回答可以自定義為“良”、“量”、“亮”等漢字而故意不定位，不使用中文漢字，而使用外來語リョウ，1997年想學佐治.索羅斯當個金融業大玩家，當時完全沒聽說過任何量化圈的人物，2005年在赫薩貿易工作時只知道老外很厲害使用電腦編程和數學和計數學交易掙錢卻沒導師無從學起，甚至不曉得俗稱“量化”，只知道以數學和計數學在交易市場掙錢。<br><br>2019年到樂發阿裏彩票工作時，公司只允許使用別名，表格上本想用「<ruby>叡<rp>(</rp><rt>ruì</rt><rp>)</rp></ruby>歐”卻忘了曹叡的叡字怎麽寫（就“叡”字少見，不過想到司馬掌權就不使用“叡”字）、然後“磊歐”為人“光明磊落”、“明人不做暗事”之意，正合個人的為人處事。從Caspo辭職回國就是立誌學好在拉曼學院修讀大學時所知道的計數學以數據的多寡加上計數建模在交易市場上掙錢，俗稱Dixon&Coles1997提及的“大數定律”與“極大似然估計”，而非2006年在🇸🇬新加坡喜來登和囂張🇸🇬歐陽金泰面試時誇誇其談。2008年至2012年在西世康工作一心只想科研數學、建立量化避險基金，不靠奉承；有天光頭上司Christopher欲提拔邀出席公司年宴當面，被我拒絕難堪後當面不知所措心慌。）不能朗朗上口、而“龍”字太普遍，然後就使用“雷歐”（考量到《飛躍青春》的王雷、🇸🇬新加坡行動黨⚡️、🇪🇺歐盟、最主要是同是量化避險基金“雷達利歐”簡稱為“雷歐”）翻譯原本的Ryo，然後同組有位“娟娟”（🇸🇬歐陽金泰妻子名叫“曉娟”）、“大龍”、“雷著”（2012年在馬電訊工作過濾海外轉播節目有出戲叫《飛躍情春》由長得像🇸🇬歐陽金泰的🇨🇳中國藝人王雷飾演，男主角的結局是悲情槍決死刑），和華財一樣超短光頭發型的雷著身份證姓名：王雷。“瑞歐”則是目前不速之客🇸🇪瑞典國鳥烏鴉時常飛來而命名。<br><br>2007年到 🇸🇬新加坡喜來登酒店大廳面試Caspo新寶工作時，歐陽金泰和歐陽金喜倆問:“有沒有一個比較容易記的名字、稱號或別名？”，當時回復：“沒有!”，然後在Caspo工作時，同事上司老板們都稱“Lian Hu”。
 
 [^7]: 2001/2002年（中四中五時期）每次暑假都會到怡保路匯豐銀行後面的住宅區（家人賃租的公寓），然後學習電腦Photoshop、Front Page、玩Play Station電玩、追幽遊白書、街頭霸王、高達戰士系列等動漫影片。中學時期同學們都玩網上聊天的IRC，因為大姐二姐平時使用電郵，當時90年代是雅虎年代，也註冊了個郵箱（忘了什麽雅虎郵箱號了），之後經中學同學慧燕介紹到巴生中路《大人餐廳》打工時，平時會查詢郵箱。後來因為追《G高達戰士》到結局時，喜歡悲情的東方不敗的多蒙京二（自幼看瓊瑤戲就愛哭，也喜歡抒情歌曲），就以《幽遊白書》靈丸的<ruby>幽<rp>(</rp><rt>ゆう</rt><rp>)</rp>助<rp>(</rp><rt>すけ</rt><rp>)</rp></ruby>Yusuke、Kyoji、Ryunosuke（目前忘了是哪個電玩或者動漫角色，應該是《<ruby>龍<rp>(</rp><rt>りゅう</rt><rp>)</rp>狼<rp>(</rp><rt>ろう</rt><rp>)</rp>伝<rp>(</rp><rt>でん</rt><rp>)</rp></ruby>》的「<ruby>竜<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>」天地誌狼，印象中《幽遊白書》有人物叫“幽助”為“幽之助”，類似比達叫“孫悟空”為“卡卡羅特”）、<ruby>野<rp>(</rp><rt>の</rt><rp>)</rp>原<rp>(</rp><rt>はら</rt><rp>)</rp>新<rp>(</rp><rt>しん</rt><rp>)</rp>之<rp>(</rp><rt>の</rt><rp>)</rp>助<rp>(</rp><rt>すけ</rt><rp>)</rp></ruby>（新之助 Shinnosuke）聯合，自詡“Ryusuke Kenji”。
 
@@ -658,7 +658,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 [^10]: 1997年上中學後，有位為人不拘泥於小節的好哥兒們同學陳友良[樣子就像改變全世界的蘋果公司創辦人斯蒂芬·喬佈斯/意大利足球明星範切斯特·托蒂](https://www.bilibili.com/video/BV1BN411o7ff)（中一中二不同班關系還不錯、中三同班同學好哥兒們。由於友良同學、偉明同學、進祥同學、表弟國添、堂哥順昌都有黑幫背景，平時上課時間都喜歡和友良一塊兒曠課暢談黑幫）中一時一認識就稱AHU (阿<ruby>滬<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>)，而日後的同事們都是一認識就稱AHU (阿<ruby>滬<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>)。
 
-[^11]: 2010年左右在西世康工作，自從提交企劃書，巴西不能幫萬佛寺乩童張家坤（大約2002年中學畢業後認識，當時人稱《萬佛寺》的濟公師傅，經過二哥同學張誌強介紹二哥和媽媽認識後，二哥和媽媽再介紹給我認識，大約2002年第一次在《萬佛寺》問神時，乩童張家坤第一眼見到我就晴天霹靂跪地求饒扮女生說話）就開始說會爭取到立博交易部門。有天三姐拿著《人生契約》連同媽媽和我到華財家問神。（上文談及查《三世書》並輯寫✍🏻《人生契約》的乩童華財，打從1984年一出世就被批命），[*也就是長大後再次遇見華財後，華財眼眶紅紅滿眼是眼淚說吃乩童這行飯不容易得承擔責任。妹妹才開始在不知情的情況下稱「🇭🇰<ruby>富<rp>(</rp><rt>fū</rt><rp>)</rp>仔<rp>(</rp><rt>zái</rt><rp>)</rp></ruby>)」*]{style="color:#F6A217"}，家人也在不知情的情況下開始改口稱"爸爸"為「<ruby>老<rp>(</rp><rt>🇹🇼閩曰：lǎo</rt><rp>)</rp>爸<rp>(</rp><rt>🇹🇼閩曰：běi</rt><rp>)</rp></ruby>」（發音類似:劉備），從此就家事不順。<br><br>《聖經》記載著世界上只有一個神明，自從西世康辭職再找萬佛寺乩童張家坤時，當時見面他說剩一個人、另一次說會死、另一次說腦袋裏空白啥都想不到、再另一次說得行善捐款之類每次說法不同，許多奇奇怪怪的話，然後我就開始摸索，在Mindpearl工作時視頻有人查出骨哥華財的法力在十秒內可以查詢到任何事物（而2007年在Caspo時，《離島特警》亡命之徒Billy仔🇸🇬歐陽金泰說他自己：「如果遲三秒，命仔會被奪走！」），直到7LiveAsia時才聽Kevin說:"如果要相信張家坤，就要相信到劉華財死掉為止才結束，世上只有一個神明，一山不能容二虎。"，後來Juno閑聊時：」你需要先死掉才能找到工作「完全不明白，微博有人發過動態圖的帖子就是一男一女各在兩座山上，中間隔著懸崖，一直有男生像精子一樣跨不過懸崖到對岸獲得美人歸而喪命，而最後一位男的成功跨過懸崖男女倆在一起時，女的卻掉下懸崖死了只剩一個人。後來被中邪的家人（自從在Fujixerox工作時，當時每天上班見到經理長得像乩童張家坤的Jacky Chai Yun Cheah當小醜，只有乩童張家坤和劉華財同步的話，乩童張家坤或劉華財就會成了小醜或失心瘋，直到辭職那天他就會雙眼通紅滿眼是眼淚，在Mindpearl辭職那天人事部經理也一樣雙眼通紅滿眼眼淚。當時為了測試7LiveAsia之說，以身試法說RHU花園的乩童劉華財我死掉為止才能重生，結果到RHU花園的乩童家驗證後見到劉華財失心瘋胡言亂語躲躲藏藏還出門逃跑，還下家人降頭，在被綁架的前幾周胸口痛得死去活來，被綁架的前幾天差點像Brad余素偉說過出門會消失不見）綁架到療養院，管理員聊起《換命之說》才知道何謂換命，結果死了兩個人（一個像當時報警瓜雪一位警長蔡細歷不受理、也像Christopher的爸爸；另一位像乩童張家坤）和邪不能勝正才出來後。自從諸事不順未到7LiveAsia前一直要張家坤死而以身試法在臉譜使用張家坤姓名，之後一位長得像乩童張家坤🇹🇼臺籍呂聯富臉譜公然發帖保一家大小後，2017年在柔佛工作時一曲[《剛好遇見你》🎼](https://www.youtube.com/watch?v=aa2AhDaK_iY)讓家慈往生成為先慈，成了劉張鬥法的犧牲品，而🇨🇳中國以國母葬禮儀式，遠在🇨🇳大勢舉國哀悼（當時網上還有許多媒體直播視頻，🇨🇳隆重舉辦國喪儀式）；一曲[《改寫人生》🎼](https://www.youtube.com/watch?v=wbyLBHPDuNI&ab_channel=%E8%9E%ADCHIMUSIC)訴盡《三打白骨精》中的人妖白骨精華財和《萬佛寺》乩童張家坤、《西靈宮》齊天大聖、《眾仙洞》大師兄的恩怨與替死鬼... 無心插柳柳成蔭，個人博文會記載以前的經歷和統計推算，事出必有因、一些玄學、道學、佛法、聖經、可蘭經、前因後果、奇門遁甲、三黃五帝、The Narnia、魔戒三部曲、盤古女媧、兵馬俑、幽靈、魔鬼、天界、人間、地獄、數學、春秋戰國、夢裏會周公、西遊記、天文地理文學古詩屈原數學物理瘟疫朝代興衰全都有關系、神經網絡、中藥、西藥、地球上第一個行政機構朝廷政府是從中國黃河文明開始、虞夏商周、封神榜、姜太公、管仲樂毅、吳王闔閭Democrats、越王臥薪嘗膽、楚漢相爭、古代西大美女、中國象棋、西洋棋、鬼谷子孫臏龐涓、孫子兵法、諾亞方舟、春江鴨先知、隱馬爾科夫領域、GPX零的領域、萬物一物克一物、規律、大數定律等。
+[^11]: 2010年左右在西世康工作，自從提交企劃書，巴西不能幫萬佛寺乩童張家坤（大約2002年中學畢業後認識，當時人稱《萬佛寺》的濟公師傅，經過二哥同學張誌強介紹二哥和媽媽認識後，二哥和媽媽再介紹給我認識，大約2002年第一次在《萬佛寺》問神時，乩童張家坤第一眼見到我就晴天霹靂跪地求饒扮女生說話）就開始說會爭取到立博交易部門。有天三姐拿著《人生契約》連同媽媽和我到華財家問神。（上文談及查《三世書》並輯寫✍🏻《人生契約》的乩童華財，打從1984年一出世就被批命），[*也就是長大後再次遇見華財後，華財眼眶紅紅滿眼是眼淚說吃乩童這行飯不容易得承擔責任。妹妹才開始在不知情的情況下稱「🇭🇰<ruby>富<rp>(</rp><rt>fū</rt><rp>)</rp>仔<rp>(</rp><rt>zái</rt><rp>)</rp></ruby>)」*]{style="color:#F6A217"}，家人也在不知情的情況下開始改口稱"爸爸"為「<ruby>老<rp>(</rp><rt>🇹🇼閩曰：lǎo</rt><rp>)</rp>爸<rp>(</rp><rt>🇹🇼閩曰：běi</rt><rp>)</rp></ruby>」（發音類似:劉備），從此就家事不順。<br><br>《聖經》記載著世界上只有一個神明，自從西世康辭職再找萬佛寺乩童張家坤時，當時見面他說剩一個人、另一次說會死、另一次說腦袋裏空白啥都想不到、再另一次說得行善捐款之類每次說法不同，許多奇奇怪怪的話，然後我就開始摸索，在Mindpearl工作時視頻有人查出骨哥華財的法力在十秒內可以查詢到任何事物（而2007年在Caspo時，《離島特警》亡命之徒Billy仔🇸🇬歐陽金泰說他自己：「如果遲三秒，命仔會被奪走！」），直到7LiveAsia時才聽Kevin說:"如果要相信張家坤，就要相信到劉華財死掉為止才結束，世上只有一個神明，一山不能容二虎。"，後來Juno閑聊時：」你需要先死掉才能找到工作「完全不明白，微博有人發過動態圖的帖子就是一男一女各在兩座山上，中間隔著懸崖，一直有男生像精子一樣跨不過懸崖到對岸獲得美人歸而喪命，而最後一位男的成功跨過懸崖男女倆在一起時，女的卻掉下懸崖死了只剩一個人。後來被中邪的家人（自從在Fujixerox工作時，當時每天上班見到經理長得像乩童張家坤的Jacky Chai Yun Cheah當小醜，只有乩童張家坤和劉華財同步的話，乩童張家坤或劉華財就會成了小醜或失心瘋，直到辭職那天他就會雙眼通紅滿眼是眼淚，在Mindpearl辭職那天人事部經理也一樣雙眼通紅滿眼眼淚。當時為了測試7LiveAsia之說，以身試法說RHU花園的乩童劉華財我死掉為止才能重生，結果到RHU花園的乩童家驗證後見到劉華財失心瘋胡言亂語躲躲藏藏還出門逃跑，還下家人降頭，在被綁架的前幾周胸口痛得死去活來，被綁架的前幾天差點像Brad余素偉說過出門會消失不見）綁架到療養院，管理員聊起《換命之說》才知道何謂換命，結果死了兩個人（一個像當時報警瓜雪一位警長蔡細歷不受理、也像Christopher的爸爸；另一位像乩童張家坤）和邪不能勝正才出來後。自從諸事不順未到7LiveAsia前一直要張家坤死而以身試法在臉譜使用張家坤姓名，之後一位長得像乩童張家坤🇹🇼臺籍呂聯富臉譜公然發帖保一家大小後，2017年在柔佛工作時一曲[《剛好遇見你》🎼](https://www.youtube.com/watch?v=aa2AhDaK_iY)讓家慈往生成為先慈，成了劉張鬥法的犧牲品，而🇨🇳中國以國母葬禮儀式，遠在🇨🇳大勢舉國哀悼（當時網上還有許多媒體直播視頻，🇨🇳隆重舉辦國喪儀式）；一曲[《改寫人生》🎼](https://www.youtube.com/watch?v=wbyLBHPDuNI&ab_channel=%E8%9E%ADCHIMUSIC)訴盡《三打白骨精》中的人妖白骨精華財和《萬佛寺》乩童張家坤、《西靈宮》齊天大聖、《眾仙洞》大師兄的恩怨與替死鬼... 無心插柳柳成蔭，個人博文會記載以前的經歷和計數推算，事出必有因、一些玄學、道學、佛法、聖經、可蘭經、前因後果、奇門遁甲、三黃五帝、The Narnia、魔戒三部曲、盤古女媧、兵馬俑、幽靈、魔鬼、天界、人間、地獄、數學、春秋戰國、夢裏會周公、西遊記、天文地理文學古詩屈原數學物理瘟疫朝代興衰全都有關系、神經網絡、中藥、西藥、地球上第一個行政機構朝廷政府是從中國黃河文明開始、虞夏商周、封神榜、姜太公、管仲樂毅、吳王闔閭Democrats、越王臥薪嘗膽、楚漢相爭、古代西大美女、中國象棋、西洋棋、鬼谷子孫臏龐涓、孫子兵法、諾亞方舟、春江鴨先知、隱馬爾科夫領域、GPX零的領域、萬物一物克一物、規律、大數定律等。
 
 [^12]: `r vembedr::embed_youtube('r2zH4JxQSYQ', width = 400, height = 225)`<br>>[*#筑地 #Judi #朱棣 #菜桌椅不是菠菜庄家 #菠菜 #Spanich #🇵🇭🇰🇭 #肺炎 #证券行叫SecurityFirm如同镖局 #邪教博彩庄家诈骗如同鸦片 #博彩庄家卡款铲单杀人如麻如同邪教屠杀人类罪<br>📌只要是博彩庄家靠卡款铲单骗取彩民客户的钱的博彩庄家就是列为诈骗犯罪集团；如果博彩庄家不卡款也不铲单一直亏钱造福所有彩民客户，就是列为慈善机构。<br>📌只要是博彩庄家或任何机构靠卡款铲单骗取彩民客户的钱导致死人的博彩庄家，就是列为谋杀屠杀人类罪。<br>📌只要是运用科学、统计学、数学公式击倒博彩庄家（或者任何科学、科技、技术、数学公式），就叫墨学；墨学俗称科学，工程师、程序员、天文学家、数学家、科学家、统计学家、物理学家、医学家、计量经济学家都是信徒，遍布地球并无国籍之区别<br>📌结论：所以我只能釜底抽薪一劳永逸，根除肺炎的根源🇵🇭🇰🇭博彩庄家金宝博Caspo，支持科学方程式的墨学，拯救全世界人类性命。<br><br>📌As long as bankers or sportsbookmakers cancel transaction or block withdrawal to make money categorized as criminal organization. Only the sportsbookmaker or banker lost money to the gamblers or customers categorized as charity organization for the sake of all residences / citizens / humen.<br>📌As long as bankers or sportsbookmakers block customer's withdrawal or cancel transaction to cause human die or sacrifice, categorized as killing humans' terrorist murdering organization.<br>📌As long as applied statistical or mathematic or any scientific formula categorized as Mohism/Moism. Programmers, mathematicians, statisticians, engineers, doctors, across the World.<br>Conclusion : That's why I only can rebel the origin of covid from Caspo/188Bet being 🇵🇭🇰🇭 and support scientific Moihism or Moism to safe the World and humans' life.*]{style='color:#F6A217'}<br>- [儒家、道家、佛家、法家、墨家如何区分，看后恍然大悟](https://www.sohu.com/a/325543608_483111)<br>- [诸子百家](https://baike.baidu.com/item/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6/16808)<br>- [关于儒家、墨家、道家、法家思想的异同](http://www.360doc.com/content/12/0907/21/7593597_234907351.shtml)<br>- [古希腊文明](https://baike.baidu.com/item/%E5%8F%A4%E5%B8%8C%E8%85%8A%E6%96%87%E6%98%8E/9671355)<br>欲知更多详情请查阅[GitHub: 图书馆 library](https://github.com/englianhu/library)<br><br>[*「「卍」字有兩種寫法，一種是右旋（卐），一種是左旋（卍）。高雄佛陀紀念館上方矗坐著「佛光大佛」*]{style="color:#F6A217"}*，胸口是一個左旋卍字（圖三）。希特勒親自設計的黨旗為紅底白圓心，中間嵌一個黑色右旋字。他在《我的奮鬥》書中說：“紅色象徵我們這個運動的社會意義，白色象徵民族主義思想。卐字象徵爭取雅利安人鬥爭勝利的使命。”由這句話可知，希特勒完全不了解右旋的佛學意義。」*<br><br>[*希特勒對右旋卐的了解應該是由日爾曼神話而來。今日好萊塢電影很夯的雷神索爾（Thor）其實是早期日爾曼民族共有的神祇，卐是他的槌子，直到今日，Thor符號還是白人至上主義的象徵符號。*]{style="color:#F6A217"}*右旋卐字的德語是Haken kreutz，亦意指「彎勾十字架」。右旋卐字也使用於波羅的海沿岸，稱之為Perkunas，拉脫維亞朋友克羅明博士（Janis Klovins）告訴我，一九一八年到一九三四年間，右旋卐字是該國空軍的標誌。」*<br><br>出处：[「卍」字左旋右旋大不同！寫反佛光變納粹…為何希特勒用這符號？難道跟佛教有關？](https://www.storm.mg/lifestyle/327499?page=1)
 
@@ -678,9 +678,9 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **[2021年12月 迄今]{style='color:Red'}：專業文憑，派森編程與統計學之金融分析**；（[考試啦](http://www.coursera.org) - [香港科技大學（HKUST）](https://hkust.edu.hk) <img src='诸子百家考工记/HKUST.png' height='16' align='center' valign='middle'/>）
+### **[2021年12月 迄今]{style='color:Red'}：專業文憑，派森編程與計數學之金融分析**；（[考試啦](http://www.coursera.org) - [香港科技大學（HKUST）](https://hkust.edu.hk) <img src='诸子百家考工记/HKUST.png' height='16' align='center' valign='middle'/>）
 
-- *課程：派森編程與統計學之金融分析*
+- *課程：派森編程與計數學之金融分析*
 - **貓城倉庫**：[Coursera - Python and Statistics for Financial Analysis](https://github.com/englianhu/Coursera-Mastering-Software-Development-in-R)
 
 <br>
@@ -708,16 +708,16 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **2021年5月 至 2021年7月：專業文憑，貝葉斯統計混合模型**；（[考試啦](http://www.coursera.org) - [加州大學（UC）](https://www.universityofcalifornia.edu) <img src='诸子百家考工记/UCSC.png' height='16' align='center' valign='middle'/>）
+### **2021年5月 至 2021年7月：專業文憑，貝葉斯計數混合尤物**；（[考試啦](http://www.coursera.org) - [加州大學（UC）](https://www.universityofcalifornia.edu) <img src='诸子百家考工记/UCSC.png' height='16' align='center' valign='middle'/>）
 
-- *課程：[貝葉斯統計混合模型（®編程）](https://www.coursera.org/account/accomplishments/records/Y6WGT58PAUAG)*
+- *課程：[貝葉斯計數混合尤物（®編程）](https://www.coursera.org/account/accomplishments/records/Y6WGT58PAUAG)*
 - **貓城倉庫** : [Coursera - Bayesian Statistics Mixture Models](https://github.com/englianhu/Coursera-Bayesian-Statistics-Mixture-Models)
 
 <br>
 
 ### **2021年1月 至 2021年1月：專業文憑，生物信息學: 導論與方法**；（[考試啦](http://www.coursera.org) - [北京大學（PKU）](https://www.pku.edu.cn) <img src='诸子百家考工记/大秦赋 - 北京大学.png' height='16' align='center' valign='middle'/>）
 
-- *課程：[生物信息學: 導論與方法（隱馬爾科夫模型）](https://www.coursera.org/account/accomplishments/records/ZS8ZVNU6LYL2)*
+- *課程：[生物信息學: 導論與方法（隱馬爾科夫尤物）](https://www.coursera.org/account/accomplishments/records/ZS8ZVNU6LYL2)*
 - **貓城倉庫** : [Coursera - Bioinformatics Introduction and Methods](https://github.com/englianhu/Coursera-Bioinformatics-Introduction-and-Methods)
 
 <br>
@@ -763,8 +763,8 @@ op <- options(gvis.plot.tag = 'chart')
 - *03 課程：[獲取和清理數據](https://www.coursera.org/account/accomplishments/records/Q5HBLbpBekrW43Jd)*
 - *04 課程：[探索性數據分析](https://www.coursera.org/account/accomplishments/records/4Gz8BmPsnuknW93A)*
 - *05 課程：[再循環科研](https://www.coursera.org/account/accomplishments/records/xpNfvxWs8uMMYrjs)*
-- *06 課程：[統計推斷](https://www.coursera.org/account/accomplishments/records/jXzs4bAFXZfJ3Dne)*
-- *07 課程：[回歸模型](https://www.coursera.org/account/accomplishments/records/Su7PgrMXVGYrU4cM)*
+- *06 課程：[計數推斷](https://www.coursera.org/account/accomplishments/records/jXzs4bAFXZfJ3Dne)*
+- *07 課程：[回歸尤物](https://www.coursera.org/account/accomplishments/records/Su7PgrMXVGYrU4cM)*
 - *08 課程：[機械實用化](https://www.coursera.org/account/accomplishments/records/j6DpQhLYeRj54dvS)*
 - *09 課程：[數據產品開發](https://www.coursera.org/account/accomplishments/records/ERvuyAZm6CG45EUS)*
 - *10 課程：[數據科學[頂點項目]{style="color:#15237A"}](https://www.coursera.org/account/accomplishments/records/TEBWXB4ZC5MB)*
@@ -808,7 +808,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **<s>2002月4月11日 至 2005年5月</s> 2002年4月11日 至 2003年10月11日：<s>大學本科，電腦科學繫流派A（專攻数理統計學）</s>**；（[拉曼學院（TARC）](https://www.tarc.edu.my) <img src='诸子百家考工记/TARC.png' width="36" align='center' valign='middle'/>）
+### **<s>2002月4月11日 至 2005年5月</s> 2002年4月11日 至 2003年10月11日：<s>大學本科，電腦科學繫流派A（專攻数理計數學）</s>**；（[拉曼學院（TARC）](https://www.tarc.edu.my) <img src='诸子百家考工记/TARC.png' width="36" align='center' valign='middle'/>）
 
 - *大壹*
 - *大贰*
@@ -821,8 +821,8 @@ op <- options(gvis.plot.tag = 'chart')
 
 ### **[2020年10月 迄今]{style='color:Red'}：網絡金融業，創辦人 ∩ 物主**；<img src='诸子百家考工记/Scibrokes.png' height='16' align='center' valign='middle'/>
 
-- *簡介：[**世博量化®**](https://www.scibrokes.com){style='color:RoyalBlue'}[^14]是一家在全球市場進行交易的量化投資管理公司，通過數理統計為投資者帶來高投資回報率。*
-- *工作明細：在金融市場中科研統計建模、風險管理與高頻自動演算量化交易和數據分析等，之後會到中國大陸發展。*
+- *簡介：[**世博量化®**](https://www.scibrokes.com){style='color:RoyalBlue'}[^14]是一家在全球市場進行交易的量化投資管理公司，通過數理計數為投資者帶來高投資回報率。*
+- *工作明細：在金融市場中科研計數建模、風險管理與高頻自動演算量化交易和數據分析等，之後會到中國大陸發展。*
 
 [^14]: [*世博量化®（官網）*](https://www.scibrokes.com)<br>[*世博量化®（貓城倉庫）*](https://github.com/scibrokes)<br>[*世博量化®（臉譜）*](https://facebook.com/scibrokes).
 
@@ -973,7 +973,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 - *使用`sparklyr`等應用採集日內數據、數據流。*
 - *高頻算法量化交易等等。*
-- *統計建模、交易策略、風險管理等等最優化以及回測。*
+- *計數建模、交易策略、風險管理等等最優化以及回測。*
 
 <br>
 
@@ -993,16 +993,16 @@ op <- options(gvis.plot.tag = 'chart')
 ### **貓城倉庫**：[**binary.com : Job Application - Quantitative Analyst（binary.com：申請量化交昜員崗位）**](https://github.com/englianhu/binary.com-interview-question)
 
 - *回測金融投註建模，投註策略和比較投資收益率。*
-- *回測自回歸模型、平滑模型、廣義自回歸條件異方差模型系列，包括凱利投註模型等等。*
+- *回測自回歸尤物、平滑尤物、廣義自回歸條件異方差尤物系列，包括凱利投註尤物等等。*
 - *彌補缺失值數據與回測高頻率交昜。*
 
 <br>
 
-### **貓城倉庫**：[**Betting Strategy and Model Validation（博彩交昜策略與模型驗證）**](https://github.com/scibrokes/Betting-Strategy-and-Model-Validation)
+### **貓城倉庫**：[**Betting Strategy and Model Validation（博彩交昜策略與尤物驗證）**](https://github.com/scibrokes/Betting-Strategy-and-Model-Validation)
 
 - *使用Selenium硒網頁應用程序測試工具和PhantomJS無頭銜瀏覽器引擎軟件採集網絡足球彩券與賽事數據。*
 - *自然語言分析採集來的足球賽事數據，自動匹配球隊隊名與對沖基金的註單賽事隊名。*
-- *運用凱利標準投註並調整不同的槓桿效應參數，回測[Application of Kelly Criterion model in Sportsbook Investment（在博彩行業中應用凱利標準模型進行投資）](#貓城倉庫application-of-kelly-criterion-model-in-sportsbook-investment在博彩行業中應用凱利標準模型進行投資)。*
+- *運用凱利標準投註並調整不同的槓桿效應參數，回測[Application of Kelly Criterion model in Sportsbook Investment（在博彩行業中應用凱利標準尤物進行投資）](#貓城倉庫application-of-kelly-criterion-model-in-sportsbook-investment在博彩行業中應用凱利標準尤物進行投資)。*
 
 <br>
 
@@ -1012,16 +1012,16 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **貓城倉庫**：[**Application of Kelly Criterion model in Sportsbook Investment（在博彩行業中應用凱利標準模型進行投資）**](https://github.com/scibrokes/kelly-criterion)
+### **貓城倉庫**：[**Application of Kelly Criterion model in Sportsbook Investment（在博彩行業中應用凱利標準尤物進行投資）**](https://github.com/scibrokes/kelly-criterion)
 
 - *回測[Odds Modelling and Testing Inefficiency of Sports-Bookmakers（賠率建模與測試體育博彩莊家的低效率）](#貓城倉庫odds-modelling-and-testing-inefficiency-of-sports-bookmakers賠率建模與測試體育博彩莊家的低效率)，而足球賽事數據採集於[WebDriver Dynamic Webpage Scrapping（網絡驅動程序與採集動態網頁信息）](#貓城倉庫webdriver-dynamic-webpage-scrapping網絡驅動程序與採集動態網頁信息)。*
-- *回測凱利標準模型，投註於拾家博彩公司的英國2011/12與2012/13賽季的賽事。*
+- *回測凱利標準尤物，投註於拾家博彩公司的英國2011/12與2012/13賽季的賽事。*
 
 <br>
 
-### **貓城倉庫**：[**Dixon-Coles1996（迪克遜-克爾斯1996統計模型）**](https://github.com/scibrokes/Dixon-Coles1996)
+### **貓城倉庫**：[**Dixon-Coles1996（棣遜-克爾斯一九九六計數尤物）**](https://github.com/scibrokes/Dixon-Coles1996)
 
-- *Dixon & Coles 1996 足球得分建模。*
+- *Dixon & Coles 1996 足球得分造物^[打造尤物]。*
 
 <br>
 
@@ -1040,26 +1040,26 @@ op <- options(gvis.plot.tag = 'chart')
 ### **貓城倉庫**：[**Odds Modelling and Testing Inefficiency of Sports-Bookmakers（賠率建模與測試低效率的體育博彩莊家）**](https://github.com/scibrokes/odds-modelling-and-testing-inefficiency-of-sports-bookmakers)
 
 - *手動收集[500WAN](http://www.500wan.com)、[BET007](http://www.bet007.com)與[NowGoal](http://info.nowgoal.com/en)情報網的足球賽事比分與贰拾玖家博彩公司的標準盤、亞洲盤、大小盤的賠率，所有數據包括從2006至2011的數據。*
-- *運用對角零通膨雙變量泊松加權時間序列模型，回測賠率建模、投註策略和比較投資收益率。*
+- *運用對角零通膨雙變量泊松加權時間序列尤物，回測賠率建模、投註策略和比較投資收益率。*
 
 <br>
 
-### [體育統計學社區](http://soccer.oksport.cn)
+### [體育計數學社區](http://soccer.oksport.cn)
 
-- **2009年 至 2013年**，*通過[互動力量](http://oksport.cn)建立個專業的體育賠率建模論壇 --- [體育統計學社區](http://soccer.oksport.cn)，奈何2013年在美國友邦保險公司當電銷時，到工商銀行開戶後，論壇就被中國網上公安屏蔽了。*
-- *一個人打理的論壇以足彩為主，其它彩票遊戲包括網遊為副，除了分享個人足彩賠率建模、一些職業玩家的玩彩心得、一些統計建模、一些統計軟件與電腦編程與代碼、風險管理、交昜策略、行業動態、嵌入比分網信息、行業動態、滾動新聞速報、分析與比較歐亞各足彩平臺與內部管理優缺勢（孫子兵法* --- **知己知彼百戰百勝**）、*招賢納士尋找誌同道合的朋友，還當代理與合作夥伴打廣告兼市場行銷（包括郵件營銷、QQ、到許多論壇網站推廣體育統計學），結果2013年在友邦保險工作時適逢在工商銀行開戶，被大陸網絡公安屏蔽了。*
+- **2009年 至 2013年**，*通過[互動力量](http://oksport.cn)建立個專業的體育賠率建模論壇 --- [體育計數學社區](http://soccer.oksport.cn)，奈何2013年在美國友邦保險公司當電銷時，到工商銀行開戶後，論壇就被中國網上公安屏蔽了。*
+- *一個人打理的論壇以足彩為主，其它彩票遊戲包括網遊為副，除了分享個人足彩賠率建模、一些職業玩家的玩彩心得、一些計數建模、一些計數軟件與電腦編程與代碼、風險管理、交昜策略、行業動態、嵌入比分網信息、行業動態、滾動新聞速報、分析與比較歐亞各足彩平臺與內部管理優缺勢（孫子兵法* --- **知己知彼百戰百勝**）、*招賢納士尋找誌同道合的朋友，還當代理與合作夥伴打廣告兼市場行銷（包括郵件營銷、QQ、到許多論壇網站推廣體育計數學），結果2013年在友邦保險工作時適逢在工商銀行開戶，被大陸網絡公安屏蔽了。*
 - *基於該論壇已屏蔽（已轉到金融行業，也不打算回博彩行業）。*
 
     - [谷歌捜貼](诸子百家考工记/oksportcn_01.png)
-    - [統計之都交流](诸子百家考工记/oksportcn_02.png)
+    - [計數之都交流](诸子百家考工记/oksportcn_02.png)
     - [佳禮論壇-捜貼](诸子百家考工记/oksportcn_03.png)
     - [數學建模社區-數學中國](诸子百家考工记/oksportcn_04.png)
 
 <br>
 
-### **貓城倉庫**：[**Apply Poisson regression on sports odds modelling（在體育賠率建模中運用柏松線性模型）**](https://github.com/englianhu/Apply-Poisson-Regression-on-Sports-Odds-Modelling)
+### **貓城倉庫**：[**Apply Poisson regression on sports odds modelling（在體育賠率建模中運用柏松線性尤物）**](https://github.com/englianhu/Apply-Poisson-Regression-on-Sports-Odds-Modelling)
 
-- *在足球賠率建模中運用單變量泊松模型。*
+- *在足球賠率建模中運用單變量泊松尤物。*
 
 <br><br>
 
@@ -1073,7 +1073,7 @@ op <- options(gvis.plot.tag = 'chart')
 #require('kableExtra', quietly = TRUE, warn.conflicts = FALSE)
 
 skill <- tibble(
-  '技能' = c('計量經濟學', '量化交昜', '®編程', '微軟辦公軟件', 'SQL語言', '派森編程語言', '數據分析', '客服工作', '體育博彩行業', '建立®文藝坊服務器', '統計學', '數據科學', '閃霓應用', '禮逆襲🐧操作繫統', '網頁應用程序接口', '閃爍大數據分析', '量化分析', '高級®編程', 'modeltime / tidyverts / prophet', 'tidyverse / tidymodels', '張量 / Pytorch', 'RStan系列', '瀏覽器驅動', 'FrontPage / 部署網站', 'Photoshop / Picsart'), 
+  '技能' = c('計量經濟學', '量化交昜', '®編程', '微軟辦公軟件', 'SQL語言', '派森編程語言', '數據分析', '客服工作', '體育博彩行業', '建立®文藝坊服務器', '計數學', '數據科學', '閃霓應用', '禮逆襲🐧操作繫統', '網頁應用程序接口', '閃爍大數據分析', '量化分析', '高級®編程', 'modeltime / tidyverts / prophet', 'tidyverse / tidymodels', '張量 / Pytorch', 'RStan系列', '瀏覽器驅動', 'FrontPage / 部署網站', 'Photoshop / Picsart'), 
   '程度' = c(9, 9, 9, 8, 3, 4, 9, 9, 7, 7, 6, 8, 8, 7, 6, 2, 8, 6, 7, 6, 7, 2, 4, 3, 5))
 skill <- tibble('序列' = 1:nrow(skill), skill)|> 
   as.data.table()
@@ -1203,7 +1203,7 @@ source('函数/skill2B.R', encoding = 'utf-8')
 - **2009年 至 2010年**，在西世康工作時，通過僑豐銀行和聯昌銀行（新），開始在香港和美國金融市場進行交易。
 - **2009年 至 2010年**，在西世康工作時，同事傑克蘇和我一塊兒到一些中華武館和健身中心咨詢，我在沙登一家中華武館學習洪拳和長拳。
 - **2009年 至 2010年**，在西世康工作時，經過[佳禮論壇的YY姐](https://c.cari.com.my/forum.php?mod=redirect&goto=findpost&ptid=1061770&pid=38938269&fromuid=2052094)介紹，在[新傳媒（新）](https://www.mediacorp.sg/en)和[HVD娛樂公司](https://my104588-hvd-holdings-sdn-bhd.contact.page/#gsc.tab=0)旗下當個業余演員，[跑龍套當演員]{style='color:RoyalBlue'}[^16]。
-- **2009年 至 2013年**，建立了個專業足彩賠率建模論壇[體育統計學社區](http://soccer.oksport.cn)。
+- **2009年 至 2013年**，建立了個專業足彩賠率建模論壇[體育計數學社區](http://soccer.oksport.cn)。
 - **2013年**，建立自個兒的®文藝坊服務器、學習採集網頁信息、飛往臺灣待了幾個月，期間找到一份外匯交昜公司的工作，不過沒多久就不幹了。
 - **2013年7月 至 2013年9月**，在安邦的友邦大廈的[友邦保險](https://www.aia.com.my/en/index.html) <img src='诸子百家考工记/AIA.png' height='16' align="center">當電銷員。
 - **2013年10月1號**，在[資信利](http://www.getronics.com) <img src='诸子百家考工记/getronics.png' height='16' align='center' valign='middle'/>工作期間，註冊了間公司[*世博量化®（官網）*](https://www.scibrokes.com) <img src='诸子百家考工记/Scibrokes.png' height='16' align="center">，同事葉林峰和劉偉謙時常會聊到我穿的外衣[財神挺臺灣夜總會]{style="color:#F6A217"}。

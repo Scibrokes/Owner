@@ -708,16 +708,16 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **2021年5月 至 2021年7月：专业文凭，贝叶斯统计混合模型**；（[考试啦](http://www.coursera.org) - [加州大学（UC）](https://www.universityofcalifornia.edu) <img src='诸子百家考工记/UCSC.png' height='16' align='center' valign='middle'/>）
+### **2021年5月 至 2021年7月：专业文凭，贝叶斯统计混合尤物**；（[考试啦](http://www.coursera.org) - [加州大学（UC）](https://www.universityofcalifornia.edu) <img src='诸子百家考工记/UCSC.png' height='16' align='center' valign='middle'/>）
 
-- *课程：[贝叶斯统计混合模型（®编程）](https://www.coursera.org/account/accomplishments/records/Y6WGT58PAUAG)*
+- *课程：[贝叶斯统计混合尤物（®编程）](https://www.coursera.org/account/accomplishments/records/Y6WGT58PAUAG)*
 - **猫城仓库** : [Coursera - Bayesian Statistics Mixture Models](https://github.com/englianhu/Coursera-Bayesian-Statistics-Mixture-Models)
 
 <br>
 
 ### **2021年1月 至 2021年1月：专业文凭，生物信息学: 导论与方法**；（[考试啦](http://www.coursera.org) - [北京大学（PKU）](https://www.pku.edu.cn) <img src='诸子百家考工记/大秦赋 - 北京大学.png' height='16' align='center' valign='middle'/>）
 
-- *课程：[生物信息学: 导论与方法（隐马尔科夫模型）](https://www.coursera.org/account/accomplishments/records/ZS8ZVNU6LYL2)*
+- *课程：[生物信息学: 导论与方法（隐马尔科夫尤物）](https://www.coursera.org/account/accomplishments/records/ZS8ZVNU6LYL2)*
 - **猫城仓库** : [Coursera - Bioinformatics Introduction and Methods](https://github.com/englianhu/Coursera-Bioinformatics-Introduction-and-Methods)
 
 <br>
@@ -764,7 +764,7 @@ op <- options(gvis.plot.tag = 'chart')
 - *04 课程：[探索性数据分析](https://www.coursera.org/account/accomplishments/records/4Gz8BmPsnuknW93A)*
 - *05 课程：[再循环科研](https://www.coursera.org/account/accomplishments/records/xpNfvxWs8uMMYrjs)*
 - *06 课程：[统计推断](https://www.coursera.org/account/accomplishments/records/jXzs4bAFXZfJ3Dne)*
-- *07 课程：[回归模型](https://www.coursera.org/account/accomplishments/records/Su7PgrMXVGYrU4cM)*
+- *07 课程：[回归尤物](https://www.coursera.org/account/accomplishments/records/Su7PgrMXVGYrU4cM)*
 - *08 课程：[机械实用化](https://www.coursera.org/account/accomplishments/records/j6DpQhLYeRj54dvS)*
 - *09 课程：[数据产品开发](https://www.coursera.org/account/accomplishments/records/ERvuyAZm6CG45EUS)*
 - *10 课程：[数据科学[更新项目]{style="color:#15237A"}](https://www.coursera.org/account/accomplishments/records/TEBWXB4ZC5MB)*
@@ -993,16 +993,16 @@ op <- options(gvis.plot.tag = 'chart')
 ### **猫城仓库**：[**binary.com : Job Application - Quantitative Analyst（binary.com：申请量化交易员岗位）**](https://github.com/englianhu/binary.com-interview-question)
 
 - *回测金融投注建模，投注策略和比较投资收益率。*
-- *回测自回归模型、平滑模型、广义自回归条件异方差模型系列，包括凯利投注模型等等。*
+- *回测自回归尤物、平滑尤物、广义自回归条件异方差尤物系列，包括凯利投注尤物等等。*
 - *弥补缺失值数据与回测高频率交易。*
 
 <br>
 
-### **猫城仓库**：[**Betting Strategy and Model Validation（博彩交易策略与模型验证）**](https://github.com/scibrokes/Betting-Strategy-and-Model-Validation)
+### **猫城仓库**：[**Betting Strategy and Model Validation（博彩交易策略与尤物验证）**](https://github.com/scibrokes/Betting-Strategy-and-Model-Validation)
 
 - *使用Selenium硒网页应用程序测试工具和PhantomJS无头衔浏览器引擎软件採集网络足球彩券与赛事数据。*
 - *自然语言分析採集来的足球赛事数据，自动匹配球队队名与对冲基金的注单赛事队名。*
-- *运用凯利标准投注并调整不同的杠杆效应参数，回测[Application of Kelly Criterion model in Sportsbook Investment（在博彩行业中应用凯利标准模型进行投资）](#猫城仓库application-of-kelly-criterion-model-in-sportsbook-investment在博彩行业中应用凯利标准模型进行投资)。*
+- *运用凯利标准投注并调整不同的杠杆效应参数，回测[Application of Kelly Criterion model in Sportsbook Investment（在博彩行业中应用凯利标准尤物进行投资）](#猫城仓库application-of-kelly-criterion-model-in-sportsbook-investment在博彩行业中应用凯利标准尤物进行投资)。*
 
 <br>
 
@@ -1012,16 +1012,16 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **猫城仓库**：[**Application of Kelly Criterion model in Sportsbook Investment（在博彩行业中应用凯利标准模型进行投资）**](https://github.com/scibrokes/kelly-criterion)
+### **猫城仓库**：[**Application of Kelly Criterion model in Sportsbook Investment（在博彩行业中应用凯利标准尤物进行投资）**](https://github.com/scibrokes/kelly-criterion)
 
 - *回测[Odds Modelling and Testing Inefficiency of Sports-Bookmakers（赔率建模与测试体育博彩庄家的低效率）](#猫城仓库odds-modelling-and-testing-inefficiency-of-sports-bookmakers赔率建模与测试体育博彩庄家的低效率)，而足球赛事数据採集于[WebDriver Dynamic Webpage Scrapping（网络驱动程序与採集动态网页信息）](#猫城仓库webdriver-dynamic-webpage-scrapping网络驱动程序与採集动态网页信息) 。*
-- *回测凯利标准模型，投注于十家博彩公司的英国2011/12与2012/13赛季的赛事。*
+- *回测凯利标准尤物，投注于十家博彩公司的英国2011/12与2012/13赛季的赛事。*
 
 <br>
 
-### **猫城仓库**：[**Dixon-Coles1996（迪克逊-克尔斯1996统计模型）**](https://github.com/scibrokes/Dixon-Coles1996)
+### **猫城仓库**：[**Dixon-Coles1996（棣逊-克尔斯一九九六计数|机数尤物）**](https://github.com/scibrokes/Dixon-Coles1996)
 
-- *Dixon & Coles 1996 足球得分建模。*
+- *Dixon & Coles 1996 足球得分造物^[打造尤物]。*
 
 <br>
 
@@ -1031,16 +1031,16 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **猫城仓库**：[**Soccer League Web Scraping（採集网上足球联赛信息）**](https://github.com/scibrokes/Soccer-League-Web-Scraping)
+### **猫城仓库**：[**Soccer League Web Scraping（採撷网上足球联赛信息）**](https://github.com/scibrokes/Soccer-League-Web-Scraping)
 
-- *採集静态网页足球赛事数据。*
+- *採撷静态网页足球赛事数据。*
 
 <br>
 
 ### **猫城仓库**：[**Odds Modelling and Testing Inefficiency of Sports-Bookmakers（赔率建模与测试低效率的体育博彩庄家）**](https://github.com/scibrokes/odds-modelling-and-testing-inefficiency-of-sports-bookmakers)
 
 - *手动收集[500WAN](http://www.500wan.com)、[BET007](http://www.bet007.com)与[NowGoal](http://info.nowgoal.com/en)情报网的足球赛事比分与二十九家博彩公司的标准盘、亚洲盘、大小盘的赔率，所有数据包括从2006至2011的数据。*
-- *运用对角零通膨双变量泊松加权时间序列模型，回测赔率建模、投注策略和比较投资收益率。*
+- *运用对角零通膨双变量泊松加权时间序列尤物，回测赔率建模、投注策略和比较投资收益率。*
 
 <br>
 
@@ -1057,9 +1057,9 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **猫城仓库**：[**Apply Poisson regression on sports odds modelling（在体育赔率建模中运用柏松线性模型）**](https://github.com/englianhu/Apply-Poisson-Regression-on-Sports-Odds-Modelling)
+### **猫城仓库**：[**Apply Poisson regression on sports odds modelling（在体育赔率建模中运用柏松线性尤物）**](https://github.com/englianhu/Apply-Poisson-Regression-on-Sports-Odds-Modelling)
 
-- *在足球赔率建模中运用单变量泊松模型。*
+- *在足球赔率建模中运用单变量泊松尤物。*
 
 <br><br>
 
