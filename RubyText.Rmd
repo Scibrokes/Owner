@@ -137,7 +137,7 @@ source('函数/读取程序包配套.R')
 ## Setup Options, Loading Required Libraries and Preparing Environment
 
 ## Loading the package 'BBmisc'
-if (suppressMessages(!require('BBmisc'))){
+if (suppressMessages(!require('BBmisc'))) {
   install.packages('BBmisc', dependencies = TRUE, INSTALL_opts = '--no-lock')
   suppressMessages(library('BBmisc'))
 }
@@ -186,7 +186,7 @@ names(knitr::knit_engines$get())
 #})
 
 opts_chunk$set(
-  engine='ruby', warning=FALSE, message=FALSE, error=TRUE, result = 'asis'
+  engine = 'ruby', warning = FALSE, message = FALSE, error = TRUE, result = 'asis'
     # engine.path = list(
     # python = '~/anaconda/bin/python',
     # ruby = '/usr/local/bin/ruby')
@@ -200,7 +200,6 @@ Sys.setenv(TZ = 'Asia/Shanghai')
 ## Set width
 ## options(knitr.table.format = 'html') will set all kableExtra tables to be 'html', otherwise need to set the parameter on every single table.
 options(warn = -1, width = 999, knitr.table.format = 'html')#, digits.secs = 6)
-
 ```
 
 ```{ruby}
