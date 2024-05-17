@@ -115,15 +115,23 @@ if(!suppressPackageStartupMessages(require('BBmisc'))) {
                    lib = .pth[1], INSTALL_opts = '--no-lock')
 }; suppressPackageStartupMessages(require('BBmisc'))
 
-## if(!suppressPackageStartupMessages(require('rmsfuns'))) {
-##   install.packages('rmsfuns', dependencies = TRUE, 
-##                    lib = .pth[1], INSTALL_opts = '--no-lock')
-## }; suppressPackageStartupMessages(require('rmsfuns'))
+if(!suppressPackageStartupMessages(require('rmsfuns'))) {
+   install.packages('rmsfuns', dependencies = TRUE, 
+                    lib = .pth[1], INSTALL_opts = '--no-lock')
+}; suppressPackageStartupMessages(require('rmsfuns'))
 
 if(!suppressPackageStartupMessages(require('drat'))) {
   install.packages('drat', dependencies = TRUE, 
                    lib = .pth[1], INSTALL_opts = '--no-lock')
 }; suppressPackageStartupMessages(require('drat'))
+
+if(!suppressPackageStartupMessages(require('rstan'))) {
+  install.packages('rstan', repos = c(
+                   'https://mc-stan.org/r-packages', 
+                   dependencies = TRUE, lib = .pth[1], 
+                   INSTALL_opts = '--no-lock', 
+                   getOption('repos')))
+}; suppressPakacgaesStartupMessages(require('rstan'))
 
 if(!suppressPackageStartupMessages(require('devtools'))) {
   install.packages('devtools', dependencies = TRUE, 
@@ -151,6 +159,9 @@ if(!suppressPackageStartupMessages(require('rhub'))) {
   ## https://github.com/r-hub/rhub
   remotes::install_github('r-hub/rhub')
 }; suppressPackageStartupMessages(require('rhub'))
+
+if(!require('runr')) devtools::install_github('yihui/runr')
+suppressPackageStartupMessages(require('runr'))
 
 if(!suppressPackageStartupMessages(require('startup'))) {
   ## https://github.com/HenrikBengtsson/startup
@@ -210,11 +221,12 @@ rm(文房四宝)
 
 ## https://stackoverflow.com/a/17486231/3806250
 #.First()
-.First <- function() {
-  Rdym::RdymEnable()
-  #suppressPackageStartupMessages(startup::install(path = '/home/englianhu'))
-  #suppressPackageStartupMessages(startup::startup(all = TRUE))
-}
+# 
+# .First <- function() {
+  # Rdym::RdymEnable()
+  # suppressPackageStartupMessages(startup::install(path = '/home/englianhu'))
+  # suppressPackageStartupMessages(startup::startup(all = TRUE))
+# }
 
 ## =================== 有一个梦，由我启动 =======================
 ## 电力线，显示系统读取速度均值和当前项目路径。
