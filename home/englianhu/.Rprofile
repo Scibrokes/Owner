@@ -131,7 +131,7 @@ if(!suppressPackageStartupMessages(require('rstan'))) {
                    dependencies = TRUE, lib = .pth[1], 
                    INSTALL_opts = '--no-lock', 
                    getOption('repos')))
-}; suppressPakacgaesStartupMessages(require('rstan'))
+}; suppressPackageStartupMessages(require('rstan'))
 
 if(!suppressPackageStartupMessages(require('devtools'))) {
   install.packages('devtools', dependencies = TRUE, 
