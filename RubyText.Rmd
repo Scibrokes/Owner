@@ -130,14 +130,14 @@ knitr::opts_chunk$set(
 ```{r libs, eval=FALSE}
 ## Setup Options, Loading Required Libraries and Preparing Environment
 ## Loading the packages and setting adjustment
-source('函数/libs.R')
+source('函数/读取程序包配套.R')
 ```
 
 ```{r setup, include=FALSE}
 ## Setup Options, Loading Required Libraries and Preparing Environment
 
 ## Loading the package 'BBmisc'
-if(suppressMessages(!require('BBmisc'))){
+if (suppressMessages(!require('BBmisc'))){
   install.packages('BBmisc', dependencies = TRUE, INSTALL_opts = '--no-lock')
   suppressMessages(library('BBmisc'))
 }
@@ -146,7 +146,7 @@ if (suppressMessages(!require('rmsfuns'))) {
   suppressMessages(library('rmsfuns'))
 }
 
-if(!require('REmap')) devtools::install_github('lchiffon/REmap')
+if (!require('REmap')) devtools::install_github('lchiffon/REmap')
 
 ## Loading multiple packages at once
 pkgs <- c('readr', 'plyr', 'dplyr', 'magrittr', 'tidyverse', 'devtools', 'remotes', 'zoo', 'lubridate', 'stringr', 'rvest', 'markdown', 'googleVis', 'knitr', 'rmarkdown', 'htmltools', 'knitr', 'kableExtra', 'formattable', 'echarts4r', 'radarchart', 'MASS', 'htmlwidgets', 'maps', 'REmap', 'ggmap', 'vembedr')
@@ -174,7 +174,7 @@ require('BBmisc')
 ## https://github.com/chiefbiiko/runr
 ## https://github.com/christian-million/runr
 ## https://github.com/yihui/runr 🇨🇳
-if(!require('runr')) devtools::install_github('yihui/runr')
+if (!require('runr')) devtools::install_github('yihui/runr')
 pkgs <- c('knitr', 'runr')
 lib(pkgs)
 
@@ -249,6 +249,10 @@ ruby -e "puts '<ruby>건설<rt>geonseol</rt>중<rt>jung</rt></ruby>'"
 <ruby>건설<rt>geonseol</rt>중<rt>jung</rt></ruby>
 
 ```{r error=TRUE}
+HTML('<ruby>건설<rp>(</rp><rt>geonseol</rt><rp>)</rp>중<rp>(</rp><rt>jung</rt><rp>)</rp></ruby> !')
+```
+
+```{r error=TRUE}
 shiny::runGitHub('multilingualShinyApp', 'chrislad')
 ```
 
@@ -260,7 +264,7 @@ runUrl('https://github.com/chrislad/multilingualShinyApp')
 
 ```{r error=TRUE}
 # install.packages("remotes")
-if(!require('dotnet')) remotes::install_github('bearloga/dotnet')
+if (!require('dotnet')) remotes::install_github('bearloga/dotnet')
 lib('dotnet')
 dotnet::register_engine()
 ```
