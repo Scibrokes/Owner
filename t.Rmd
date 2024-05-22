@@ -5,6 +5,8 @@ date: '2022-04-11'
 output: html_document
 ---
 
+![](诸子百家考工记/江夏堂（甲）.png)
+
 # 设定
 
 ## SCSS 设置
