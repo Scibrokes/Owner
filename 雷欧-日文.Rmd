@@ -1,7 +1,7 @@
 ---
-title: "[<span style='color:goldenrod'>リョウ、<ruby>黃<rp>(</rp><rt>こう</rt><rp>)</rp>聯<rp>(</rp><rt>れん</rt><rp>)</rp>富<rp>(</rp><rt>ふ/とみ</rt><rp>)</rp></ruby></span>](https://beta.rstudioconnect.com/content/3091/ryo-eng.html)"
+title: "[<span style='color:goldenrod'>リョウ、<ruby>黃<rp>(</rp><rt>こう</rt><rp>)</rp>聯<rp>(</rp><rt>れん</rt><rp>)</rp>富<rp>(</rp><rt>ふ/とみ</rt><rp>)</rp></ruby></span>](http://gitee.com/englianhu/owner)"
 subtitle: '<ruby>個<rp>(</rp><rt>こ</rt><rp>)</rp>人<rp>(</rp><rt>じん</rt><rp>)</rp>簡<rp>(</rp><rt>かん</rt><rp>)</rp>歷<rp>(</rp><rt>れき</rt><rp>)</rp></ruby>'
-author: "[<ruby>贏<rp>(</rp><rt>yíng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>黃<rp>(</rp><rt>huáng</rt><rp>)</rp>氏<rp>(</rp><rt>shì</rt><rp>)</rp>江<rp>(</rp><rt>jiānɡ</rt><rp>)</rp>夏<rp>(</rp><rt>xià</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp></ruby> ®γσ, ξηg Lιαη Ημ，<ruby>黃<rp>(</rp><rt>こう</rt><rp>)</rp>聯<rp>(</rp><rt>れん</rt><rp>)</rp>富<rp>(</rp><rt>ふ/とみ</rt><rp>)</rp></ruby>（リョウ）](https://englianhu.wordpress.com.com) <img src='诸子百家考工记/大秦赋 - 北京大学.png' height='20'><img src='诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png' height='20'>®"
+author: "[<ruby>贏<rp>(</rp><rt>yíng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>黃<rp>(</rp><rt>huáng</rt><rp>)</rp>氏<rp>(</rp><rt>shì</rt><rp>)</rp>江<rp>(</rp><rt>jiānɡ</rt><rp>)</rp>夏<rp>(</rp><rt>xià</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp></ruby> ®γσ, ξηg Lιαη Ημ，<ruby>黃<rp>(</rp><rt>こう</rt><rp>)</rp>聯<rp>(</rp><rt>れん</rt><rp>)</rp>富<rp>(</rp><rt>ふ/とみ</rt><rp>)</rp></ruby>（リョウ）](https://englianhu.wordpress.com.com) <img src='诸子百家考工记/江夏堂（甲）.png' height='16' align='center' valign='middle'><img src='诸子百家考工记/大秦赋 - 北京大学.png' height='20'><img src='诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png' height='20'>®"
 tags: [計量経済學, 量化圈, 娛樂圈, ®, 派森, ®文藝坊]
 date: '農曆一九八四年菊月廿八 甲子年甲戌月己醜日 屬鼠 週一 第卌三週'
 output:
@@ -174,10 +174,7 @@ resource_files:
 - 诸子百家考工记/mathchina_36x36.png
 - 诸子百家考工记/maths.png
 - 诸子百家考工记/MClub.png
-- 诸子百家考工记/Me byteDance.png
-- 诸子百家考工记/me light mode.png
-- 诸子百家考工记/me.png
-- 诸子百家考工记/me light mode.png
+- 诸子百家考工记/避暑山庄.png
 - 诸子百家考工记/medium.png
 - 诸子百家考工记/mindpearl01.png
 - 诸子百家考工记/mindpearl02.png
@@ -208,11 +205,6 @@ resource_files:
 - 诸子百家考工记/QQ.png
 - 诸子百家考工记/QQ_36x36.png
 - 诸子百家考工记/qi-pioneer-logo.png
-- 诸子百家考工记/quant_trader_adj.png
-- 诸子百家考工记/quantitative trader.png
-- 诸子百家考工记/quantitative trader 1.png
-- 诸子百家考工记/quantitative trader 2.png
-- 诸子百家考工记/quantitative_trader.png
 - 诸子百家考工记/Quora.png
 - 诸子百家考工记/Qzone.png
 - 诸子百家考工记/Qzone_36x36.png
@@ -383,7 +375,7 @@ resource_files:
 春秋战国《*礼记•经解*》<br>
 孔子曰：「君子慎始，差若毫厘，缪以千里。」
 
-> <span style='color:#FFEBCD; background-color:#991B00;'>**《禮記·經解》孔子曰：**</span><span style='color:#DimGrey; background-color:#D52600;'>*「君子慎始，差若毫厘，謬以千裏。」*</span>[^1]
+> <span style='color:#FFEBCD; background-color:#991B00;'>**《禮記•經解》孔子曰：**</span><span style='color:#DimGrey; background-color:#D52600;'>*「君子慎始，差若毫厘，謬以千裏。」*</span>[^1]
 
 *引用：[「快懂百科」《礼记•经解》](https://www.baike.com/wikiid/2225522569881832051?view_id=2tt3iw3blkq000)和[第一范文网：差之毫厘，谬以千里的故事](https://www.diyifanwen.com/chengyu/liuziyishangchengyugushi/2010051523105152347092749890.htm)和[「百度百科」春秋时期孔子作品《礼记•经解》](https://baike.baidu.com/item/%E7%A4%BC%E8%AE%B0%C2%B7%E7%BB%8F%E8%A7%A3/2523092)和[「當代中國」差之毫釐 謬以千里](https://www.ourchinastory.com/zh/2962/%E5%B7%AE%E4%B9%8B%E6%AF%AB%E9%87%90%20%E8%AC%AC%E4%BB%A5%E5%8D%83%E9%87%8C)*
 
@@ -617,8 +609,11 @@ op <- options(gvis.plot.tag = 'chart')
 
 ## <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>に就いて
 
+![](诸子百家考工记/江夏堂（甲）.png){width=400}
+
 | **<ruby>類<rp>(</rp><rt>るい</rt><rp>)</rp>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>** |                                                     **<ruby>明<rp>(</rp><rt>めい</rt><rp>)</rp>細<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>** |
 |:----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------:|
+| [<ruby>堂<rp>(</rp><rt>どう</rt><rp>)</rp>号<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby>]{style='color:RoyalBlue'}[^1] | 赢家黄氏江夏堂 |
 | [<ruby>姓<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>]{style='color:RoyalBlue'}[^2]         |                                                           [<ruby>黃<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>]{style='color:RoyalBlue'}[^3] |
 | [<ruby>名<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>]{style='color:RoyalBlue'}             |                       [<ruby>聯<rp>(</rp><rt>れん</rt><rp>)</rp>富<rp>(</rp><rt>ふ/とみ</rt><rp>)</rp></ruby>]{style='color:RoyalBlue'}[^4] |
 | [<ruby>字<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>]{style='color:RoyalBlue'}               |  [阿<ruby>虎<rp>(</rp><rt>hǔ</rt><rp>)</rp></ruby>🐯 ]{style='color:RoyalBlue'}[^5](<ruby>虎<rp>(</rp><rt>とら</rt><rp>)</rp></ruby>ちゃん) |
@@ -646,7 +641,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 [^4]: **《阿虎家譜》**<br>[*父母識乩童，華財鄭招添；<br>家父得十子，子名皆母起。<br>碧歷真、升旗山、豐富、霜巡；<br>本欲生八子，後得幼兒女。<br>甲子甲女也，母起字霹蓮；<br>乙子乙女也，母未曾起字。<br>丙子丙女也，母起字阿尿；<br>丁子甲男也，母未曾起字。<br>戊子乙男也，母起字老<ruby>旗<rp>(</rp><rt>🇹🇼閩曰：kî</rt><rp>)</rp></ruby>；<br>己子丙男也，母起字山<ruby>哪<rp>(</rp><rt>nā</rt><rp>)</rp></ruby>。<br>庚子丁男也，母未曾起字；<br>辛子戊男也，母起字阿<ruby>虎<rp>(</rp><rt>🐯</rt><rp>)</rp></ruby>。<br>壬子丁女也，母未曾起字；<br>癸子己男也，母未曾起字。<br>子稱父二叔，子稱母二嬸。*]{style="color:#F6A217"}<br><br>--- 筆者📝本人黃聯富<br><br>父母就經過友人介紹認識了一位查《三世書》的算命佬✍🏻華財(類似白骨精，外號“骨的”)，自幼家庭貧困不過不奢求啥，家人們一出世，華財就輯寫每個家庭成員類似自傳的一輩子運勢，可以解釋為《人生契約》，父母另一位好友《三太子廟》後改為《太子廟》的鄭招添，童年未7歲上小學前，爸媽時常帶我到村外六石裏路的鄭招添家（家與寺廟隔壁身兼打理人，類似1994年第一次到村裏一巷四哥同學鄭進祥的爸爸乩童（太上老君）外號稱阿明寺廟在他家對面、2001年中學轉校到瓜雪認識好友鄭淩旭同學古瘄）聊天。<br><br>1984年一出世，媽媽就稱我為阿虎，親朋戚友也這麽叫阿虎。時常聊起她小時候有兒歌哼：“馬來亞，好風光；景色多漂亮；沒天災人禍...”、“春天不是讀書天，夏日炎炎正好眠”、“耶律沙冷...”。媽媽原本要生八個孩子，碧歷真<s>霹靂針</s>、升旗山（起名“升旗山"因為有氣勢威風凜凜且兄弟間互相幫忙，沒說過和檳城旗幟與明智華小校徽一樣。），打算生了豐富後就不再生育，怎麽知道高齡生育，不曉得要起什麽名，就起了“霜”（後來妹妹的同學朋友說過：“啞巴吃黃蓮夠苦命了，還要雪上加霜。”）、之後再沒預料到再生一個庶子，希望家人都事業出門萬事順順利利也沒啥奢望，就起了個“巡”；而母親為了避免家人到村裏咖啡店找爸爸時與別人一樣叫爸爸，咖啡店的人和自己爸爸媽媽會不曉得是誰家孩子，所以媽媽就叫家裏兄弟姐妹一出世以來，就稱“爸爸”為“二叔”，稱“媽媽”為“二嬸”。<br><br>欲知更多詳情，可參閱[《雪隆江夏堂》 – 家譜](https://englianhu.wordpress.com/2022/02/22/%e3%80%8a%e9%9b%aa%e9%9a%86%e6%b1%9f%e5%a4%8f%e5%a0%82%e3%80%8b-%e5%ae%b6%e8%b0%b1)。
 
-[^5]: \- 參照以上**《阿虎家譜》**<br>-[《小虎🐯隊-2019精選集 (上)》🎼](https://youtu.be/lN2HqdKvRSs)<br>- ["狗"與"犬"有區別嗎？](https://baike.baidu.com/tashuo/browse/content?id=f5a54d49931410bdb8ec540c)：《爾雅·釋獸》載，[*「熊🐻虎🐯醜，其子狗。」*]{style="color:#F6A217"} "醜"意思是"類"，這句話的意思是：熊虎類的<ruby>崽<rp>(</rp><rt>zǎi</rt><rp>)</rp></ruby>稱為狗。清代大學者郝懿行解釋《爾雅》的書《爾雅義疏》，[*「今東齊、遼東人通呼虎🐯之子為羔，羔即狗之轉。」*]{style="color:#F6A217"}<br>- [中國哲學書電子化計劃：「<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>」](https://ctext.org/dictionary.pl?if=gb&char=%E8%B1%BF&remap=gb)：[*「<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>：熊🐻虎🐯之子。」*]{style="color:#F6A217"}
+[^5]: \- 參照以上**《阿虎家譜》**<br>-[《小虎🐯隊-2019精選集 (上)》🎼](https://youtu.be/lN2HqdKvRSs)<br>- ["狗"與"犬"有區別嗎？](https://baike.baidu.com/tashuo/browse/content?id=f5a54d49931410bdb8ec540c)：《爾雅•釋獸》載，[*「熊🐻虎🐯醜，其子狗。」*]{style="color:#F6A217"} "醜"意思是"類"，這句話的意思是：熊虎類的<ruby>崽<rp>(</rp><rt>zǎi</rt><rp>)</rp></ruby>稱為狗。清代大學者郝懿行解釋《爾雅》的書《爾雅義疏》，[*「今東齊、遼東人通呼虎🐯之子為羔，羔即狗之轉。」*]{style="color:#F6A217"}<br>- [中國哲學書電子化計劃：「<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>」](https://ctext.org/dictionary.pl?if=gb&char=%E8%B1%BF&remap=gb)：[*「<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>：熊🐻虎🐯之子。」*]{style="color:#F6A217"}
 
 [^6]: 2008年加入西世康首周培訓時，培訓師Tan Tee Wei(諧音：陳蒂薇)問我怎麽稱呼，有沒有昵名之類的，然後想了幾天後就自詡Ryo，就因為小學中學時期喜歡《街頭霸王》的<ruby>龍<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby>（龍 Ryu）和升龍拳、《拳王》的<ruby>草<rp>(</rp><rt>くさ</rt><rp>)</rp>薙<rp>(</rp><rt>なぎ</rt><rp>)</rp>京<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>（京 Kyo），因為「<ruby>拾<rp>(</rp><rt>🇹🇼閩曰：khioh</rt><rp>)</rp></ruby>」字感覺像“拾金不昧”、“遭人嫌棄的養子”、“不是親生的養子”（1983年出生的四哥聯豐嬰兒時期，家慈李仁曾送與大姨媽李英當兒子，祖母顏為得知趕緊到外祖母家載孫子回家。後來小姨媽李美蘭花錢RM8000為大姨媽買了個1988年出生的印度裔嬰兒當兒子。而小時候90年代追《包青天》有集「貍貓換太子」）；[*就不想用Ryu和Kyo，聯合起來自詡Ryo*]{style="color:#F6A217"}，剛好就和《拳王》（最初出現於1992年《龍虎の拳》的角色）中的<ruby>阪<rp>(</rp><rt>さか</rt><rp>)</rp>崎<rp>(</rp><rt>ざき</rt><rp>)</rp>亮<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby> Ryo命名（絕技“真・天地覇煌拳”以速度取勝，不過最喜歡豪鬼的"瞬獄殺”，類似目前科研的高頻量化交易），Ryo 朗朗上口，記得西世康Jason問過Ryo中文怎麽寫，而我淺笑回答可以自定義為“良”、“量”、“亮”等漢字而故意不定位，不使用中文漢字，而使用外來語リョウ，1997年想學佐治.索羅斯當個金融業大玩家，當時完全沒聽說過任何量化圈的人物，2005年在赫薩貿易工作時只知道老外很厲害使用電腦編程和數學和計數學交易掙錢卻沒導師無從學起，甚至不曉得俗稱“量化”，只知道以數學和計數學在交易市場掙錢。<br><br>2019年到樂發阿裏彩票工作時，公司只允許使用別名，表格上本想用「<ruby>叡<rp>(</rp><rt>ruì</rt><rp>)</rp></ruby>歐”卻忘了曹叡的叡字怎麽寫（就“叡”字少見，不過想到司馬掌權就不使用“叡”字）、然後“磊歐”為人“光明磊落”、“明人不做暗事”之意，正合個人的為人處事。從Caspo辭職回國就是立誌學好在拉曼學院修讀大學時所知道的計數學以數據的多寡加上計數建模在交易市場上掙錢，俗稱Dixon&Coles1997提及的“大數定律”與“極大似然估計”，而非2006年在🇸🇬新加坡喜來登和囂張🇸🇬歐陽金泰面試時誇誇其談。2008年至2012年在西世康工作一心只想科研數學、建立量化避險基金，不靠奉承；有天光頭上司Christopher欲提拔邀出席公司年宴當面，被我拒絕難堪後當面不知所措心慌。）不能朗朗上口、而“龍”字太普遍，然後就使用“雷歐”（考量到《飛躍青春》的王雷、🇸🇬新加坡行動黨⚡️、🇪🇺歐盟、最主要是同是量化避險基金“雷達利歐”簡稱為“雷歐”）翻譯原本的Ryo，然後同組有位“娟娟”（🇸🇬歐陽金泰妻子名叫“曉娟”）、“大龍”、“雷著”（2012年在馬電訊工作過濾海外轉播節目有出戲叫《飛躍情春》由長得像🇸🇬歐陽金泰的🇨🇳中國藝人王雷飾演，男主角的結局是悲情槍決死刑），和華財一樣超短光頭發型的雷著身份證姓名：王雷。“瑞歐”則是目前不速之客🇸🇪瑞典國鳥烏鴉時常飛來而命名。<br><br>2007年到 🇸🇬新加坡喜來登酒店大廳面試Caspo新寶工作時，歐陽金泰和歐陽金喜倆問:“有沒有一個比較容易記的名字、稱號或別名？”，當時回復：“沒有!”，然後在Caspo工作時，同事上司老板們都稱“Lian Hu”。
 
@@ -656,7 +651,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 [^9]: 2006年在特裏必斯，有位好哥兒們同事（同組後轉為隔壁桌出貨跟單部門、後來都從Caspo辭職後還一塊兒喝茶聊天找工作，而我到世西康工作）Chris Chen Peng Kok就喜歡稱<ruby>滸<rp>(</rp><rt>hǔ</rt><rp>)</rp>湖<rp>(</rp><rt>hú</rt><rp>)</rp></ruby>)。
 
-[^10]: 1997年上中學後，有位為人不拘泥於小節的好哥兒們同學陳友良[樣子就像改變全世界的蘋果公司創辦人斯蒂芬·喬佈斯/意大利足球明星範切斯特·托蒂](https://www.bilibili.com/video/BV1BN411o7ff)（中一中二不同班關系還不錯、中三同班同學好哥兒們。由於友良同學、偉明同學、進祥同學、表弟國添、堂哥順昌都有黑幫背景，平時上課時間都喜歡和友良一塊兒曠課暢談黑幫）中一時一認識就稱AHU (阿<ruby>滬<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>)，而日後的同事們都是一認識就稱AHU (阿<ruby>滬<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>)。
+[^10]: 1997年上中學後，有位為人不拘泥於小節的好哥兒們同學陳友良[樣子就像改變全世界的蘋果公司創辦人斯蒂芬•喬佈斯/意大利足球明星範切斯特•托蒂](https://www.bilibili.com/video/BV1BN411o7ff)（中一中二不同班關系還不錯、中三同班同學好哥兒們。由於友良同學、偉明同學、進祥同學、表弟國添、堂哥順昌都有黑幫背景，平時上課時間都喜歡和友良一塊兒曠課暢談黑幫）中一時一認識就稱AHU (阿<ruby>滬<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>)，而日後的同事們都是一認識就稱AHU (阿<ruby>滬<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>)。
 
 [^11]: 2010年左右在西世康工作，自從提交企劃書，巴西不能幫萬佛寺乩童張家坤（大約2002年中學畢業後認識，當時人稱《萬佛寺》的濟公師傅，經過二哥同學張誌強介紹二哥和媽媽認識後，二哥和媽媽再介紹給我認識，大約2002年第一次在《萬佛寺》問神時，乩童張家坤第一眼見到我就晴天霹靂跪地求饒扮女生說話）就開始說會爭取到立博交易部門。有天三姐拿著《人生契約》連同媽媽和我到華財家問神。（上文談及查《三世書》並輯寫✍🏻《人生契約》的乩童華財，打從1984年一出世就被批命），[*也就是長大後再次遇見華財後，華財眼眶紅紅滿眼是眼淚說吃乩童這行飯不容易得承擔責任。妹妹才開始在不知情的情況下稱「🇭🇰<ruby>富<rp>(</rp><rt>fū</rt><rp>)</rp>仔<rp>(</rp><rt>zái</rt><rp>)</rp></ruby>)」*]{style="color:#F6A217"}，家人也在不知情的情況下開始改口稱"爸爸"為「<ruby>老<rp>(</rp><rt>🇹🇼閩曰：lǎo</rt><rp>)</rp>爸<rp>(</rp><rt>🇹🇼閩曰：běi</rt><rp>)</rp></ruby>」（發音類似:劉備），從此就家事不順。<br><br>《聖經》記載著世界上只有一個神明，自從西世康辭職再找萬佛寺乩童張家坤時，當時見面他說剩一個人、另一次說會死、另一次說腦袋裏空白啥都想不到、再另一次說得行善捐款之類每次說法不同，許多奇奇怪怪的話，然後我就開始摸索，在Mindpearl工作時視頻有人查出骨哥華財的法力在十秒內可以查詢到任何事物（而2007年在Caspo時，《離島特警》亡命之徒Billy仔🇸🇬歐陽金泰說他自己：「如果遲三秒，命仔會被奪走！」），直到7LiveAsia時才聽Kevin說:"如果要相信張家坤，就要相信到劉華財死掉為止才結束，世上只有一個神明，一山不能容二虎。"，後來Juno閑聊時：」你需要先死掉才能找到工作「完全不明白，微博有人發過動態圖的帖子就是一男一女各在兩座山上，中間隔著懸崖，一直有男生像精子一樣跨不過懸崖到對岸獲得美人歸而喪命，而最後一位男的成功跨過懸崖男女倆在一起時，女的卻掉下懸崖死了只剩一個人。後來被中邪的家人（自從在Fujixerox工作時，當時每天上班見到經理長得像乩童張家坤的Jacky Chai Yun Cheah當小醜，只有乩童張家坤和劉華財同步的話，乩童張家坤或劉華財就會成了小醜或失心瘋，直到辭職那天他就會雙眼通紅滿眼是眼淚，在Mindpearl辭職那天人事部經理也一樣雙眼通紅滿眼眼淚。當時為了測試7LiveAsia之說，以身試法說RHU花園的乩童劉華財我死掉為止才能重生，結果到RHU花園的乩童家驗證後見到劉華財失心瘋胡言亂語躲躲藏藏還出門逃跑，還下家人降頭，在被綁架的前幾周胸口痛得死去活來，被綁架的前幾天差點像Brad余素偉說過出門會消失不見）綁架到療養院，管理員聊起《換命之說》才知道何謂換命，結果死了兩個人（一個像當時報警瓜雪一位警長蔡細歷不受理、也像Christopher的爸爸；另一位像乩童張家坤）和邪不能勝正才出來後。自從諸事不順未到7LiveAsia前一直要張家坤死而以身試法在臉譜使用張家坤姓名，之後一位長得像乩童張家坤🇹🇼臺籍呂聯富臉譜公然發帖保一家大小後，2017年在柔佛工作時一曲[《剛好遇見你》🎼](https://www.youtube.com/watch?v=aa2AhDaK_iY)讓家慈往生成為先慈，成了劉張鬥法的犧牲品，而🇨🇳中國以國母葬禮儀式，遠在🇨🇳大勢舉國哀悼（當時網上還有許多媒體直播視頻，🇨🇳隆重舉辦國喪儀式）；一曲[《改寫人生》🎼](https://www.youtube.com/watch?v=wbyLBHPDuNI&ab_channel=%E8%9E%ADCHIMUSIC)訴盡《三打白骨精》中的人妖白骨精華財和《萬佛寺》乩童張家坤、《西靈宮》齊天大聖、《眾仙洞》大師兄的恩怨與替死鬼... 無心插柳柳成蔭，個人博文會記載以前的經歷和計數推算，事出必有因、一些玄學、道學、佛法、聖經、可蘭經、前因後果、奇門遁甲、三黃五帝、The Narnia、魔戒三部曲、盤古女媧、兵馬俑、幽靈、魔鬼、天界、人間、地獄、數學、春秋戰國、夢裏會周公、西遊記、天文地理文學古詩屈原數學物理瘟疫朝代興衰全都有關系、神經網絡、中藥、西藥、地球上第一個行政機構朝廷政府是從中國黃河文明開始、虞夏商周、封神榜、姜太公、管仲樂毅、吳王闔閭Democrats、越王臥薪嘗膽、楚漢相爭、古代西大美女、中國象棋、西洋棋、鬼谷子孫臏龐涓、孫子兵法、諾亞方舟、春江鴨先知、隱馬爾科夫領域、GPX零的領域、萬物一物克一物、規律、大數定律等。
 
@@ -1228,7 +1223,7 @@ source('函数/skill2B.R', encoding = 'utf-8')
 
 > Simons left academia in 1978 to start what became Renaissance Technologies, an early pioneer in quantitative, or model-based, trading, primarily in commodities and currencies; the Medallion Fund he managed there is one of the world's most successful hedge funds. Forbes has listed him among the top 100 richest people in the world, and he has been called "the world's smartest billionaire."
 
-[詹姆斯·西蒙斯]{style='color:RoyalBlue'}[^17]が量化圈の成功人士だから、皆さんは勉強はずだ。此頃自分の量化避険基金[**世博量化®**](https://www.scibrokes.com){style='color:RoyalBlue'}設立を學んで、閃霓応用に依って高周波算法量化自動交易系統を配置してる。自分の®文藝坊服務器建設興趣が有る人々は此処に[安裝 ®StudioとShiny服務器](https://github.com/scibrokes/setup-rstudio-server) <img src='诸子百家考工记/rstudio.png' width="24"/>参照して、量化交易の熱意者達は[englianhu\@gmail.com](mailto:englianhu@gmail.com){.email}に依って本人に聯系する。
+[詹姆斯•西蒙斯]{style='color:RoyalBlue'}[^17]が量化圈の成功人士だから、皆さんは勉強はずだ。此頃自分の量化避険基金[**世博量化®**](https://www.scibrokes.com){style='color:RoyalBlue'}設立を學んで、閃霓応用に依って高周波算法量化自動交易系統を配置してる。自分の®文藝坊服務器建設興趣が有る人々は此処に[安裝 ®StudioとShiny服務器](https://github.com/scibrokes/setup-rstudio-server) <img src='诸子百家考工记/rstudio.png' width="24"/>参照して、量化交易の熱意者達は[englianhu\@gmail.com](mailto:englianhu@gmail.com){.email}に依って本人に聯系する。
 
 [^17]: \- [How I Built The Best Trading Algorithm - Jim Simons](https://youtu.be/IZeo-Vj4dco)<br>- [传奇对冲基金之王:数学家西蒙斯](https://finance.sina.com.cn/money/fund/20151014/174523474580.shtml)<br>- [Jim Simons THE MAN WHO SOLVED THE MARKET by Greg Zuckerman](https://youtu.be/scHYR_ALl1c)<br>- [“World’s Smartest Billionaire:” James Simons is Cal Alumnus of the Year for 2016](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/world-s-smartest-billionaire-james-simons-cal-alumnus)
 

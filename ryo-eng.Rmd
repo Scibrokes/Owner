@@ -1,7 +1,7 @@
 ---
-title: "[<span style='color:goldenrod'>®γσ, ξηg Lιαη Ημ</span>](https://beta.rstudioconnect.com/content/3091/ryo-eng.html)"
+title: "[<span style='color:goldenrod'>®γσ, ξηg Lιαη Ημ</span>](http://gitee.com/englianhu/owner)"
 subtitle: 'Personal Profile'
-author: "[®γσ, ξηg Lιαη Ημ](https://englianhu.github.io) <img src='诸子百家考工记/大秦赋 - 北京大学.png' height='16' align='center' valign='middle'> <img src='诸子百家考工记/ENG.png' height='16' align='center' valign='middle'> <img src='诸子百家考工记/me light mode.jpg' height='16' align='center' valign='middle'>®"
+author: "[®γσ, ξηg Lιαη Ημ](https://englianhu.wordpress.com.com) <img src='诸子百家考工记/大秦赋 - 北京大学.png' height='16' align='center' valign='middle'> <img src='诸子百家考工记/江夏堂（甲）.png' height='16' align='center' valign='middle'> <img src='诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png' height='16' align='center' valign='middle'>®"
 tags: [Econometrics, Quantitative, Artis, ®, Python, ®Studio]
 date: '22-Oct-1984'
 output:
@@ -45,25 +45,25 @@ output:
     css: CSSBackgrounds.css
 always_allow_html: yes
 resource_files:
-- 诸子百家考工记/188bet.jpg
+- 诸子百家考工记/188bet.png
 - 诸子百家考工记/20160910_121813.gif
 - 诸子百家考工记/360doc.png
-- 诸子百家考工记/7live.jpg
-- 诸子百家考工记/7live_36x36.jpg
-- 诸子百家考工记/aaa1.jpg
-- 诸子百家考工记/aaa2.jpg
-- 诸子百家考工记/aaaa.jpg
+- 诸子百家考工记/7live.png
+- 诸子百家考工记/7live_36x36.png
+- 诸子百家考工记/aaa1.png
+- 诸子百家考工记/aaa2.png
+- 诸子百家考工记/aaaa.png
 - 诸子百家考工记/aboutme.png
 - 诸子百家考工记/aboutme_36x36.png
-- 诸子百家考工记/academia.jpg
+- 诸子百家考工记/academia.png
 - 诸子百家考工记/AIA.png
-- 诸子百家考工记/ali.jpg
-- 诸子百家考工记/ali_36x36.jpg
-- 诸子百家考工记/alibaba1.jpg
-- 诸子百家考工记/alibaba2.jpg
+- 诸子百家考工记/ali.png
+- 诸子百家考工记/ali_36x36.png
+- 诸子百家考工记/alibaba1.png
+- 诸子百家考工记/alibaba2.png
 - 诸子百家考工记/anr.png
 - 诸子百家考工记/anr_36x36.png
-- 诸子百家考工记/apple.jpg
+- 诸子百家考工记/apple.png
 - 诸子百家考工记/Arduino.png
 - 诸子百家考工记/AskUbuntu.png
 - 诸子百家考工记/bettingforum.png
@@ -75,20 +75,20 @@ resource_files:
 - 诸子百家考工记/bitbucket.png
 - 诸子百家考工记/bitbucket_36x36.png
 - 诸子百家考工记/cari.png
-- 诸子百家考工记/caspo.jpg
+- 诸子百家考工记/caspo.png
 - 诸子百家考工记/centOS.png
 - 诸子百家考工记/centOS_36x36.png
-- 诸子百家考工记/Chris_Evans_Captain_America.jpg
-- 诸子百家考工记/cos.jpg
-- 诸子百家考工记/cos_36x36.jpg
+- 诸子百家考工记/Chris_Evans_Captain_America.png
+- 诸子百家考工记/cos.png
+- 诸子百家考工记/cos_36x36.png
 - 诸子百家考工记/coursera.png
 - 诸子百家考工记/coursera_36x36.png
 - 诸子百家考工记/csdn.png
 - 诸子百家考工记/csdn_36x36.png
 - 诸子百家考工记/csdn2.png
-- 诸子百家考工记/dashencaicai2.jpg
+- 诸子百家考工记/dashencaicai2.png
 - 诸子百家考工记/discord1.png
-- 诸子百家考工记/discord2.jpg
+- 诸子百家考工记/discord2.png
 - 诸子百家考工记/Discuss.png
 - 诸子百家考工记/disqus.png
 - 诸子百家考工记/disqus_36x36.png
@@ -99,186 +99,178 @@ resource_files:
 - 诸子百家考工记/Dynasty_Hotel_Tang.png
 - 诸子百家考工记/ENG.png
 - 诸子百家考工记/Esquire_Kitchen.png
-- 诸子百家考工记/facebook.jpg
-- 诸子百家考工记/facebook_36x36.jpg
-- 诸子百家考工记/facebook2.jpg
-- 诸子百家考工记/facebook2_36x36.jpg
+- 诸子百家考工记/facebook.png
+- 诸子百家考工记/facebook_36x36.png
+- 诸子百家考工记/facebook2.png
+- 诸子百家考工记/facebook2_36x36.png
 - 诸子百家考工记/FB.jpeg
 - 诸子百家考工记/FossCom1.png
 - 诸子百家考工记/FossCom2.png
 - 诸子百家考工记/fuji-xerox.png
-- 诸子百家考工记/gblinks.JPG
+- 诸子百家考工记/gblinks.png
 - 诸子百家考工记/getronics.png
-- 诸子百家考工记/github.jpg
-- 诸子百家考工记/github_36x36.jpg
+- 诸子百家考工记/github.png
+- 诸子百家考工记/github_36x36.png
 - 诸子百家考工记/github2.png
 - 诸子百家考工记/github2_36x36.png
-- 诸子百家考工记/github3.jpg
-- 诸子百家考工记/github3_36x36.jpg
+- 诸子百家考工记/github3.png
+- 诸子百家考工记/github3_36x36.png
 - 诸子百家考工记/Github_Pages.png
 - 诸子百家考工记/Golden-Royal.png
 - 诸子百家考工记/gplus.png
 - 诸子百家考工记/gplus_36x36.png
 - 诸子百家考工记/guokr.jpeg
 - 诸子百家考工记/HKUST.png
-- 诸子百家考工记/hong.jpg
-- 诸子百家考工记/hot.jpg
-- 诸子百家考工记/idealseed.jpg
+- 诸子百家考工记/hong.png
+- 诸子百家考工记/hot.png
+- 诸子百家考工记/idealseed.png
 - 诸子百家考工记/IG1.png
 - 诸子百家考工记/IG2.png
 - 诸子百家考工记/IG3.png
 - 诸子百家考工记/IG4.png
 - 诸子百家考工记/IG5.png
-- 诸子百家考工记/Illinois.jpg
+- 诸子百家考工记/Illinois.png
 - 诸子百家考工记/instagram.png
 - 诸子百家考工记/instagram_36x36.png
-- 诸子百家考工记/instagram2.jpg
-- 诸子百家考工记/instagram2_36x36.jpg
-- 诸子百家考工记/instagram3.jpg
-- 诸子百家考工记/instagram3_36x36.jpg
+- 诸子百家考工记/instagram2.png
+- 诸子百家考工记/instagram2_36x36.png
+- 诸子百家考工记/instagram3.png
+- 诸子百家考工记/instagram3_36x36.png
 - 诸子百家考工记/InventKDE1.png
 - 诸子百家考工记/InventKDE2.png
 - 诸子百家考工记/iq.png
 - 诸子百家考工记/jckl.png
 - 诸子百家考工记/JEES.gif
-- 诸子百家考工记/JFKL.jpg
+- 诸子百家考工记/JFKL.png
 - 诸子百家考工记/jg.png
 - 诸子百家考工记/jg_36x36.png
 - 诸子百家考工记/JG1.png
 - 诸子百家考工记/JG2.png
-- 诸子百家考工记/jhu.jpg
+- 诸子百家考工记/jhu.png
 - 诸子百家考工记/JianShu.png
-- 诸子百家考工记/joey_jeans.jpg
+- 诸子百家考工记/joey_jeans.png
 - 诸子百家考工记/KuaiShou.png
-- 诸子百家考工记/ladbrokes.jpg
-- 诸子百家考工记/library.jpg
-- 诸子百家考工记/library2.jpg
-- 诸子百家考工记/library3.jpg
+- 诸子百家考工记/ladbrokes.png
+- 诸子百家考工记/library.png
+- 诸子百家考工记/library2.png
+- 诸子百家考工记/library3.png
 - 诸子百家考工记/linkedin.png
 - 诸子百家考工记/linkedin_36x36.png
 - 诸子百家考工记/linkedIn.jpeg
-- 诸子百家考工记/LinuxConfig1.jpg
+- 诸子百家考工记/LinuxConfig1.png
 - 诸子百家考工记/LinuxConfig2.png
-- 诸子百家考工记/LQ.jpg
-- 诸子百家考工记/LQ_36x36.jpg
-- 诸子百家考工记/LQ2.jpg
-- 诸子百家考工记/LQ2_36x36.jpg
+- 诸子百家考工记/LQ.png
+- 诸子百家考工记/LQ_36x36.png
+- 诸子百家考工记/LQ2.png
+- 诸子百家考工记/LQ2_36x36.png
 - 诸子百家考工记/ltree.png
 - 诸子百家考工记/madio.png
-- 诸子百家考工记/manpower.jpg
-- 诸子百家考工记/mas.jpg
-- 诸子百家考工记/math & stats.jpg
-- 诸子百家考工记/math-3d-hd-wallpaper.jpg
-- 诸子百家考工记/math-theme-03.jpg
-- 诸子百家考工记/mathchina.jpg
-- 诸子百家考工记/mathchina_36x36.jpg
-- 诸子百家考工记/maths.jpg
+- 诸子百家考工记/manpower.png
+- 诸子百家考工记/mas.png
+- 诸子百家考工记/math & stats.png
+- 诸子百家考工记/math-3d-hd-wallpaper.png
+- 诸子百家考工记/math-theme-03.png
+- 诸子百家考工记/mathchina.png
+- 诸子百家考工记/mathchina_36x36.png
+- 诸子百家考工记/maths.png
 - 诸子百家考工记/MClub.png
-- 诸子百家考工记/Me byteDance.jpg
-- 诸子百家考工记/me light mode.jpg
-- 诸子百家考工记/me.JPG
-- 诸子百家考工记/me light mode.jpg
+- 诸子百家考工记/避暑山庄.png
 - 诸子百家考工记/medium.png
-- 诸子百家考工记/mindpearl01.jpg
-- 诸子百家考工记/mindpearl02.jpg
-- 诸子百家考工记/my-passport-size-photo.jpg
+- 诸子百家考工记/mindpearl01.png
+- 诸子百家考工记/mindpearl02.png
+- 诸子百家考工记/my-passport-size-photo.png
 - 诸子百家考工记/no-sex-at-the-moment.png
 - 诸子百家考工记/NYIF.jpeg
 - 诸子百家考工记/NYU.png
 - 诸子百家考工记/nyu.png
-- 诸子百家考工记/oda-army.jpg
+- 诸子百家考工记/oda-army.png
 - 诸子百家考工记/OKru.png
 - 诸子百家考工记/oksportcn_01.png
 - 诸子百家考工记/oksportcn_02.png
 - 诸子百家考工记/oksportcn_03.png
 - 诸子百家考工记/oksportcn_04.png
 - 诸子百家考工记/Orchard.png
-- 诸子百家考工记/PAAC.jpg
+- 诸子百家考工记/PAAC.png
 - 诸子百家考工记/Peking University 02.png
 - 诸子百家考工记/phabricator.png
 - 诸子百家考工记/pixnet.png
-- 诸子百家考工记/plotly.jpg
-- 诸子百家考工记/plotly_36x36.jpg
-- 诸子百家考工记/PLounge.jpg
-- 诸子百家考工记/PLounge_36x36.jpg
+- 诸子百家考工记/plotly.png
+- 诸子百家考工记/plotly_36x36.png
+- 诸子百家考工记/PLounge.png
+- 诸子百家考工记/PLounge_36x36.png
 - 诸子百家考工记/prestige.png
 - 诸子百家考工记/qi-pioneer-logo.png
 - 诸子百家考工记/QQ wb.png
 - 诸子百家考工记/QQ wb_36x36.png
-- 诸子百家考工记/QQ.jpg
-- 诸子百家考工记/QQ_36x36.jpg
+- 诸子百家考工记/QQ.png
+- 诸子百家考工记/QQ_36x36.png
 - 诸子百家考工记/qi-pioneer-logo.png
-- 诸子百家考工记/quant_trader_adj.jpg
-- 诸子百家考工记/quantitative trader.jpg
-- 诸子百家考工记/quantitative trader 1.jpg
-- 诸子百家考工记/quantitative trader 2.jpg
-- 诸子百家考工记/quantitative_trader.jpg
 - 诸子百家考工记/Quora.png
 - 诸子百家考工记/Qzone.png
 - 诸子百家考工记/Qzone_36x36.png
 - 诸子百家考工记/RB.png
-- 诸子百家考工记/rcrown.jpg
+- 诸子百家考工记/rcrown.png
 - 诸子百家考工记/Reddit.png
-- 诸子百家考工记/retailsshop.jpg
+- 诸子百家考工记/retailsshop.png
 - 诸子百家考工记/RG.png
-- 诸子百家考工记/rnable.jpg
-- 诸子百家考工记/rnable_36x36.jpg
-- 诸子百家考工记/rstudio.jpg
+- 诸子百家考工记/rnable.png
+- 诸子百家考工记/rnable_36x36.png
+- 诸子百家考工记/rstudio.png
 - 诸子百家考工记/RStudioCom1.png
 - 诸子百家考工记/RStudioCom2.png
-- 诸子百家考工记/RT1.jpg
-- 诸子百家考工记/RT2.jpg
-- 诸子百家考工记/RT3.jpg
-- 诸子百家考工记/RXforum.jpg
-- 诸子百家考工记/RXforum_36x36.jpg
-- 诸子百家考工记/RYO-Photo.jpg
-- 诸子百家考工记/RYO.jpg
+- 诸子百家考工记/RT1.png
+- 诸子百家考工记/RT2.png
+- 诸子百家考工记/RT3.png
+- 诸子百家考工记/RXforum.png
+- 诸子百家考工记/RXforum_36x36.png
+- 诸子百家考工记/RYO-Photo.png
+- 诸子百家考工记/RYO.png
 - 诸子百家考工记/RYU.png
-- 诸子百家考工记/SBR.jpg
-- 诸子百家考工记/SBR_36x36.jpg
+- 诸子百家考工记/SBR.png
+- 诸子百家考工记/SBR_36x36.png
 - 诸子百家考工记/Scibrokes.png
-- 诸子百家考工记/scb_logo.jpg
-- 诸子百家考工记/scb_logo2.jpg
+- 诸子百家考工记/scb_logo.png
+- 诸子百家考工记/scb_logo2.png
 - 诸子百家考工记/scb-logo3.png
 - 诸子百家考工记/scb-logo3rs.png
-- 诸子百家考工记/Scibrokes®-TonyStark®.jpg
+- 诸子百家考工记/Scibrokes®-TonyStark®.png
 - 诸子百家考工记/Scibrokes-TonyStark.png
-- 诸子百家考工记/scicom.jpg
+- 诸子百家考工记/scicom.png
 - 诸子百家考工记/SE.png
-- 诸子百家考工记/ShirotoNorimichi.jpg
-- 诸子百家考工记/ShirotoNorimichi2.jpg
-- 诸子百家考工记/skype.jpg
-- 诸子百家考工记/skype_36x36.jpg
-- 诸子百家考工记/social.jpg
-- 诸子百家考工记/social_36x34.jpg
-- 诸子百家考工记/SocialMedia.jpg
-- 诸子百家考工记/SOF.jpg
-- 诸子百家考工记/starlizard.jpg
-- 诸子百家考工记/stats.jpg
+- 诸子百家考工记/ShirotoNorimichi.png
+- 诸子百家考工记/ShirotoNorimichi2.png
+- 诸子百家考工记/skype.png
+- 诸子百家考工记/skype_36x36.png
+- 诸子百家考工记/social.png
+- 诸子百家考工记/social_36x34.png
+- 诸子百家考工记/SocialMedia.png
+- 诸子百家考工记/SOF.png
+- 诸子百家考工记/starlizard.png
+- 诸子百家考工记/stats.png
 - 诸子百家考工记/Steam.png
 - 诸子百家考工记/talkstats.png
 - 诸子百家考工记/talkstats_36x36.png
-- 诸子百家考工记/TARC.jpg
-- 诸子百家考工记/telebiz.jpg
+- 诸子百家考工记/TARC.png
+- 诸子百家考工记/telebiz.png
 - 诸子百家考工记/Thumbs.db
-- 诸子百家考工记/tm.jpg
+- 诸子百家考工记/tm.png
 - 诸子百家考工记/TonyStark.png
 - 诸子百家考工记/tsujiki-mart.png
 - 诸子百家考工记/Tumblr.png
 - 诸子百家考工记/Tumblr1.png
 - 诸子百家考工记/Tumblr2.jpeg
-- 诸子百家考工记/Tumblr3.jpg
+- 诸子百家考工记/Tumblr3.png
 - 诸子百家考工记/twitter.png
 - 诸子百家考工记/twitter_36x36.png
-- 诸子百家考工记/u-drive-media.jpg
+- 诸子百家考工记/u-drive-media.png
 - 诸子百家考工记/u-of-i-urbana-2.png
 - 诸子百家考工记/UCSC.jpeg
-- 诸子百家考工记/ucsc.jpg
-- 诸子百家考工记/um.jpg
-- 诸子百家考工记/UoP-logo.jpg
-- 诸子百家考工记/UST.jpg
+- 诸子百家考工记/ucsc.png
+- 诸子百家考工记/um.png
+- 诸子百家考工记/UoP-logo.png
+- 诸子百家考工记/UST.png
 - 诸子百家考工记/uwants.png
-- 诸子百家考工记/vimeo.jpg
+- 诸子百家考工记/vimeo.png
 - 诸子百家考工记/vk.png
 - 诸子百家考工记/Wechat.png
 - 诸子百家考工记/Wechat1.png
@@ -290,21 +282,21 @@ resource_files:
 - 诸子百家考工记/Wechat1.png
 - 诸子百家考工记/Wechat2.png
 - 诸子百家考工记/xerox.png
-- 诸子百家考工记/xueba.jpg
-- 诸子百家考工记/xueba1.jpg
-- 诸子百家考工记/xueba2.jpg
+- 诸子百家考工记/xueba.png
+- 诸子百家考工记/xueba1.png
 - 诸子百家考工记/xueba2.png
-- 诸子百家考工记/xueba3.jpg
+- 诸子百家考工记/xueba2.png
+- 诸子百家考工记/xueba3.png
 - 诸子百家考工记/Yandex.png
 - 诸子百家考工记/YouTube.jpeg
-- 诸子百家考工记/zeef.jpg
-- 诸子百家考工记/zeef_36x36.jpg
+- 诸子百家考工记/zeef.png
+- 诸子百家考工记/zeef_36x36.png
 - 诸子百家考工记/ZhiHu.png
 - 诸子百家考工记/zoom.jpeg
-- 诸子百家考工记/βεst Jοεγ 7.jpg
-- 诸子百家考工记/βεst Jοεγ 8.jpg
+- 诸子百家考工记/βεst Jοεγ 7.png
+- 诸子百家考工记/βεst Jοεγ 8.png
 - 诸子百家考工记/βεst Jοεγ 胸有大痣.png
-- 诸子百家考工记/βεst Jοεγ.jpg
+- 诸子百家考工记/βεst Jοεγ.png
 - 诸子百家考工记/中国区划.gif
 - 诸子百家考工记/美国省区旗.png
 - 诸子百家考工记/βεst Jοεγ 胸有大痣.png
@@ -344,10 +336,10 @@ resource_files:
 - 博物院/DataCamp - Introduction to R.pdf
 - 博物院/DataCamp - Kaggle R Tutorial on Machine Learning.pdf
 - 博物院/Google Analytics.pdf
-- 博物院/JLPT Certificate.jpg
-- 博物院/Scicom Appreciation Certificate.jpg
-- 博物院/Scicom CS Workshop.jpg
-- 博物院/SPM Certificate.jpg
+- 博物院/JLPT Certificate.png
+- 博物院/Scicom Appreciation Certificate.png
+- 博物院/Scicom CS Workshop.png
+- 博物院/SPM Certificate.png
 - 博物院/Ryo Eng_Introduction to Machine Learning for Trading_certificate.pdf
 - 博物院/Ryo Eng_Quantitative Trading Strategies and Models_certificate.pdf
 - 博物院/Ryo, Eng Lian Hu_Trading using Options Sentiment Indicators_certificate.pdf
@@ -382,7 +374,7 @@ $®γσ$, $ξηg\ Lιαη\ Ημ$
 春秋战国《*礼记•经解*》<br>
 孔子曰：『君子慎始，差若毫厘，缪以千里。』
 
-> <span style='color:#FFEBCD; background-color:#D2B48C;'>**《礼记·经解》孔子曰：**</span><span style='color:#A9A9A9'; background-color:#696969;'>*「君子慎始。差若毫厘，谬以千里。」*</span>[^1]
+> <span style='color:#FFEBCD; background-color:#D2B48C;'>**《礼记•经解》孔子曰：**</span><span style='color:#A9A9A9'; background-color:#696969;'>*「君子慎始。差若毫厘，谬以千里。」*</span>[^1]
 
 *引用：[「快懂百科」《礼记•经解》](https://www.baike.com/wikiid/2225522569881832051?view_id=2tt3iw3blkq000)和[第一范文网：差之毫厘，谬以千里的故事](https://www.diyifanwen.com/chengyu/liuziyishangchengyugushi/2010051523105152347092749890.htm)和[「百度百科」春秋时期孔子作品《礼记•经解》](https://baike.baidu.com/item/%E7%A4%BC%E8%AE%B0%C2%B7%E7%BB%8F%E8%A7%A3/2523092)和[「當代中國」差之毫釐 謬以千里](https://www.ourchinastory.com/zh/2962/%E5%B7%AE%E4%B9%8B%E6%AF%AB%E9%87%90%20%E8%AC%AC%E4%BB%A5%E5%8D%83%E9%87%8C)*
 
@@ -580,24 +572,27 @@ op <- options(gvis.plot.tag = 'chart')
 
 ## About Me
 
+![](诸子百家考工记/江夏堂（甲）.png){width=400}
+
 | **Title**                                    |                                                                                                                                                                       **Details** |
 |:---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [Family Name]{style='color:RoyalBlue'}[^2]   |                                                                                                                                                [ξηg]{style='color:RoyalBlue'}[^3] |
-| [Given Name]{style='color:RoyalBlue'}        |                                                                                                                                            [Lιαη Ημ]{style='color:RoyalBlue'}[^4] |
+| [Clan Hall Insignia / Ancestral Hall Insignia]{style='color:RoyalBlue'}[^2] |                                             [☯️τ Chinese Zodiac Jiangxia / ☯️τ Chinese Jiangxia / ☯️τ 赢家黄氏江夏堂]{style='color:RoyalBlue'}[^3] |
+| [Family Name]{style='color:RoyalBlue'}[^4]   |                                                                                                                                                [ξηg]{style='color:RoyalBlue'}[^5] |
+| [Given Name]{style='color:RoyalBlue'}        |                                                                                                                                            [Lιαη Ημ]{style='color:RoyalBlue'}[^6] |
 | [Courtesy Name]{style='color:RoyalBlue'}     |                                                                                         [阿<ruby>虎<rp>(</rp><rt>hǔ</rt><rp>)</rp></ruby>🐯 ]{style='color:RoyalBlue'}[^5](Tiger) |
-| [Pseudonym]{style='color:RoyalBlue'}         |                                                                                                                                              [$®γσ$]{style='color:RoyalBlue'}[^6] |
-| [Alais Name]{style='color:RoyalBlue'}        |                                                                                                                                    [🎎Ryusuke Kenji]{style='color:RoyalBlue'}[^7] |
-| [Nickname]{style='color:RoyalBlue'}          | [Mr. Hu (Mr. <ruby>沪<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>)]{style='color:RoyalBlue'}[^8] / [HuHu (<ruby>浒<rp>(</rp><rt>hǔ</rt><rp>)</rp>湖<rp>(</rp><rt>hú</rt><rp>)</rp></ruby>)]{style='color:RoyalBlue'}[^9] / [AHU (阿沪)]{style='color:RoyalBlue'}[^10] / [FuZai (🇭🇰Cantonese: <ruby>富<rp>(</rp><rt>fū</rt><rp>)</rp>仔<rp>(</rp><rt>zái</rt><rp>)</rp></ruby>)]{style='color:RoyalBlue'}[^11] |
-| Date of Birth (Gregorian Calendar)           |                                                                                                                                             (Zodiac: Libra ⚖) 22th-October-1984 |
+| [Pseudonym]{style='color:RoyalBlue'}         |                                                                                                                                              [$®γσ$]{style='color:RoyalBlue'}[^8] |
+| [Alais Name]{style='color:RoyalBlue'}        |                                                                                                                                    [🎎Ryusuke Kenji]{style='color:RoyalBlue'}[^9] |
+| [Nickname]{style='color:RoyalBlue'}          | [Mr. Hu (Mr. <ruby>沪<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>)]{style='color:RoyalBlue'}[^10] / [HuHu (<ruby>浒<rp>(</rp><rt>hǔ</rt><rp>)</rp>湖<rp>(</rp><rt>hú</rt><rp>)</rp></ruby>)]{style='color:RoyalBlue'}[^11] / [AHU (阿沪)]{style='color:RoyalBlue'}[^12] / [FuZai (🇭🇰Cantonese: <ruby>富<rp>(</rp><rt>fū</rt><rp>)</rp>仔<rp>(</rp><rt>zái</rt><rp>)</rp></ruby>)]{style='color:RoyalBlue'}[^13] |
+| Date of Birth (Gregorian Calendar)           |                                                                                                                                              (Zodiac: Libra ⚖) 22th-October-1984 |
 | Birthday Horoscope (Chinese Calendar)        |                                                                                        (Chinese Zodiac: Mouse 🐭) Year 1984（甲子鼠年🐭）September 28th （丑牛时🐮）time (Monday) |
 | Age                                          |          `r interval(dmy('22-10-1984', tz = 'Asia/Shanghai'), now(tzone = 'Asia/Shanghai')) |> {\(.) as.period(., .unit=years)}() |> {\(.) str_replace(., '(?<=d).{1,}$', '')}()` |
 | Mobile Phone Number                          |                                                                                                                                           🇲🇾 [+6-017-6482776](tel:+60176482776) |
-| Other Mobile Phone Number                    | 🇲🇾 [+6-014-6082776](tel:+60146082776) / 🇹🇼 <s>[+886-098-9104576](tel:+8860989104576)</s> / 🇨🇳 <s>[+86-148-00318130](tel:+8614800318130)</s> / 🇵🇭 <s>[+63-956-1935095](tel:+639561935095)</s> / 🇬🇧 <u>[+44-xxxxxxxxxx](tel:+44xxxxxxxxx)</u> / 🇭🇰 <u>[+852-57-004008](tel:+85257004008)</u> |
+| Other Mobile Phone Number                    | 🇹🇼 [+886-098-9104576](tel:+8860989104576) / 🇨🇳 [+86-148-00318130](tel:+8614800318130) / 🇵🇭 <s>[+63-956-1935095](tel:+639561935095)</s> / 🇬🇧 <s>[+44-xxxxxxxxxx](tel:+44xxxxxxxxx)</s> / 🇭🇰 <u>[+852-57-004008](tel:+85257004008)</u> |
 | Email Address (Mailbox)                      |                                                                                                                                                               englianhu@gmail.com |
-| Others Mailbox                               |   englianhu@hotmail.com / englianhu@yahoo.com / <s>ryusukekenji@gmail.com</s> / <s>ryusukekenji@hotmail.com</s> / <s>lianhu_10@hotmail.com</s> / <s>cyber_englianhu@yahoo.com</s> |
+| Others Mailbox                               |   englianhu@hotmail.com / englianhu@yahoo.com / englianhu@baidu.com / englianhu@qq.com / <s>ryusukekenji@gmail.com</s> / <s>ryusukekenji@hotmail.com</s> / <s>lianhu_10@hotmail.com</s> / <s>cyber_englianhu@yahoo.com</s> |
 | Nationality                                  |                                                                                                                                                                    🇲🇾 Malaysian |
 | Place of Birth                               |                                                                                                                                                Tanjong Karang, Selangor, Malaysia |
-| Religion                                     |                                                                                          [墨μ **Mohism**, ☸ρ Confucianism, ☯️τ Taoism, 卍 Buddha]{style='color:RoyalBlue'}[^12] |
+| Religion                                     |                                                                                           [墨μ **Mohism**, ☸ρ Confucianism, ☯️τ Taoism, 卍 Buddha]{style='color:RoyalBlue'}[^12] |
 | Race                                         |                                                                                                                                                                  🇹🇼🇨🇳 Chinese |
 | Ancestral Home                               |                                                                                                                 🇹🇼🇨🇳 [Chinese Fujian Yong Chun]{style='color:RoyalBlue'}[^13] |
 | Mother Tongue                                |                                                                                                                                           🇹🇼🇨🇳 Taiwanese / Hokkien / Mandarin |
@@ -609,7 +604,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 [^4]: **《阿虎家谱》**<br>[*父母识乩童，华财郑招添；<br>家父得十子，子名皆母起。<br>碧历真、升旗山、丰富、霜巡；<br>本欲生八子，后得幼儿女。<br>甲子甲女也，母起字霹莲；<br>乙子乙女也，母未曾起字。<br>丙子丙女也，母起字阿尿；<br>丁子甲男也，母未曾起字。<br>戊子乙男也，母起字老<ruby>旗<rp>(</rp><rt>🇹🇼闽曰：kî</rt><rp>)</rp></ruby>；<br>己子丙男也，母起字山<ruby>哪<rp>(</rp><rt>nā</rt><rp>)</rp></ruby>。<br>庚子丁男也，母未曾起字；<br>辛子戊男也，母起字阿<ruby>虎<rp>(</rp><rt>🐯</rt><rp>)</rp></ruby>。<br>壬子丁女也，母未曾起字；<br>癸子己男也，母未曾起字。<br>子称父二叔，子称母二婶。*]{style="color:#F6A217"}<br><br>--- 笔者📝本人黄联富<br><br>父母就经过友人介绍认识了一位查《三世书》的算命佬✍🏻华财(类似白骨精，外号“骨的”)，自幼家庭贫困不过不奢求啥，家人们一出世，华财就辑写每个家庭成员类似自传的一辈子运势，可以解释为《人生契约》，父母另一位好友《三太子庙》后改为《太子庙》的郑招添，童年未7岁上小学前，爸妈时常带我到村外六石里路的郑招添家（家与寺庙隔壁身兼打理人，类似1994年第一次到村里一巷四哥同学郑进祥的爸爸乩童（太上老君）外号称阿明寺庙在他家对面、2001年中学转校到瓜雪认识好友郑凌旭同学古瘄）聊天。<br><br>1984年一出世，妈妈就称我为阿虎，亲朋戚友也这么叫阿虎。时常聊起她小时候有儿歌哼：“马来亚，好风光；景色多漂亮；没天灾人祸...”、“春天不是读书天，夏日炎炎正好眠”、“耶律沙冷...”。妈妈原本要生八个孩子，碧历真<s>霹雳针</s>、升旗山（起名“升旗山”因为有气势威风凛凛且兄弟间互相帮忙，没说过和槟城旗帜与明智华小校徽一样。），打算生了丰富后就不再生育，怎么知道高龄生育，不晓得要起什么名，就起了“霜”（后来妹妹的同学朋友说过：“哑巴吃黄莲够苦命了，还要雪上加霜。”）、之后再没预料到再生一个庶子，希望家人都事业出门万事顺顺利利也没啥奢望，就起了个“巡”；而母亲为了避免家人到村里咖啡店找爸爸时与别人一样叫爸爸，咖啡店的人和自己爸爸妈妈会不晓得是谁家孩子，所以妈妈就叫家里兄弟姐妹一出世以来，就称“爸爸”为“二叔”，称“妈妈”为“二婶”。<br><br>欲知更多详情，可参阅[《雪隆江夏堂》 – 家谱](https://englianhu.wordpress.com/2022/02/22/%e3%80%8a%e9%9b%aa%e9%9a%86%e6%b1%9f%e5%a4%8f%e5%a0%82%e3%80%8b-%e5%ae%b6%e8%b0%b1)。
 
-[^5]: \- 参照以上**《阿虎家谱》**<br>-[《小虎🐯队-2019精选集 (上)》🎼](https://youtu.be/lN2HqdKvRSs)<br>- ["狗"与"犬"有区别吗？](https://baike.baidu.com/tashuo/browse/content?id=f5a54d49931410bdb8ec540c)：《尔雅·释兽》载，[*「熊🐻虎🐯丑，其子狗。」*]{style="color:#F6A217"} “丑”意思是“类”，这句话的意思是：熊虎类的<ruby>崽<rp>(</rp><rt>zǎi</rt><rp>)</rp></ruby>称为狗。清代大学者郝懿行解释《尔雅》的书《尔雅义疏》，[*「今东齐、辽东人通呼虎🐯之子为羔，羔即狗之转。」*]{style="color:#F6A217"}<br>- [中国哲学书电子化计划：“<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>”](https://ctext.org/dictionary.pl?if=gb&char=%E8%B1%BF&remap=gb)：[*「<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>：熊🐻虎🐯之子。」*]{style="color:#F6A217"} describe how to term small bear🐻 and tiger🐯 in Chinese language. For example: calf🐮 is small cow🐮.
+[^5]: \- 参照以上**《阿虎家谱》**<br>-[《小虎🐯队-2019精选集 (上)》🎼](https://youtu.be/lN2HqdKvRSs)<br>- ["狗"与"犬"有区别吗？](https://baike.baidu.com/tashuo/browse/content?id=f5a54d49931410bdb8ec540c)：《尔雅•释兽》载，[*「熊🐻虎🐯丑，其子狗。」*]{style="color:#F6A217"} “丑”意思是“类”，这句话的意思是：熊虎类的<ruby>崽<rp>(</rp><rt>zǎi</rt><rp>)</rp></ruby>称为狗。清代大学者郝懿行解释《尔雅》的书《尔雅义疏》，[*「今东齐、辽东人通呼虎🐯之子为羔，羔即狗之转。」*]{style="color:#F6A217"}<br>- [中国哲学书电子化计划：“<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>”](https://ctext.org/dictionary.pl?if=gb&char=%E8%B1%BF&remap=gb)：[*「<ruby>豿<rp>(</rp><rt>gǒu</rt><rp>)</rp></ruby>：熊🐻虎🐯之子。」*]{style="color:#F6A217"} describe how to term small bear🐻 and tiger🐯 in Chinese language. For example: calf🐮 is small cow🐮.
 
 [^6]: 2008年加入西世康首周培训时，培训师Tan Tee Wei(谐音：陈蒂薇)问我怎么称呼，有没有昵名之类的，然后想了几天后就自诩Ryo，就因为小学中学时期喜欢《街头霸王》的<ruby>龍<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby>（龙 Ryu）和升龙拳、《拳王》的<ruby>草<rp>(</rp><rt>くさ</rt><rp>)</rp>薙<rp>(</rp><rt>なぎ</rt><rp>)</rp>京<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>（京 Kyo），因为“<ruby>拾<rp>(</rp><rt>🇹🇼闽曰：khioh</rt><rp>)</rp></ruby>”字感觉像“拾金不昧”、“遭人嫌弃的养子”、“不是亲生的养子”（1983年出生的四哥联丰婴儿时期，家慈李仁曾送与大姨妈李英当儿子，祖母颜为得知赶紧到外祖母家载孙子回家。后来小姨妈李美兰花钱RM8000为大姨妈买了个1988年出生的印度裔婴儿当儿子。而小时候90年代追《包青天》有集“狸猫换太子”）；[*就不想用Ryu和Kyo，联合起来自诩Ryo*]{style="color:#F6A217"}，刚好就和《拳王》（最初出现于1992年《龍虎の拳》的角色）中的<ruby>坂<rp>(</rp><rt>さか</rt><rp>)</rp>崎<rp>(</rp><rt>ざき</rt><rp>)</rp>亮<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby> Ryo命名（绝技“真・天地覇煌拳”以速度取胜，不过最喜欢豪鬼的“瞬狱杀”，类似目前科研的高频量化交易），Ryo 朗朗上口，记得西世康Jason问过Ryo中文怎么写，而我浅笑回答可以自定义为“良”、“量”、“亮”等汉字而故意不定位，不使用中文汉字，而使用外来语リョウ，1997年想学佐治.索罗斯当个金融业大玩家，当时完全没听说过任何量化圈的人物，2005年在HexaCommerce工作时只知道老外很厉害使用电脑编程和数学和统计学交易挣钱却没导师无从学起，甚至不晓得俗称“量化”，只知道以数学和统计学在交易市场挣钱。<br><br>2019年到乐发阿里彩票工作时，公司只允许使用别名，表格上本想用“<ruby>叡<rp>(</rp><rt>ruì</rt><rp>)</rp></ruby>欧”却忘了曹叡的叡字怎么写（就“叡”字少见，不过想到司马掌权就不使用“叡”字）、然后“磊欧”（为人“光明磊落”、“明人不做暗事”之意，正合个人的为人处事。从Caspo辞职回国就是立志学好在拉曼学院修读大学时所知道的统计学以数据的多寡加上统计建模在交易市场上挣钱，俗称Dixon&Coles1997提及的“大数定律”与“极大似然估计”，而非2006年在🇸🇬新加坡喜来登和嚣张🇸🇬欧阳金泰面试时夸夸其谈。2008年至2012年在西世康工作一心只想科研数学、建立量化避险基金，不靠奉承；有天光头上司Christopher欲提拔邀出席公司年宴当面，被我拒绝难堪后当面不知所措心慌。）不能朗朗上口、而“龙”字太普遍，然后就使用“雷欧”（考量到《飞跃青春》的王雷、🇸🇬新加坡行动党⚡️、🇪🇺欧盟、最主要是同是量化避险基金“雷达利欧”简称为“雷欧”）翻译原本的Ryo，然后同组有位“娟娟”（🇸🇬欧阳金泰妻子名叫“晓娟”）、“大龙”、“雷着”（2012年在马电讯工作过滤海外转播节目有出戏叫《飞跃情春》由长得像🇸🇬欧阳金泰的🇨🇳中国艺人王雷饰演，男主角的结局是悲情枪决死刑），和华财一样超短光头发型的雷着身份证姓名：王雷。“瑞欧”则是目前不速之客🇸🇪瑞典国鸟乌鸦时常飞来而命名。<br><br>2007年到 🇸🇬新加坡喜来登酒店大厅面试Caspo新宝工作时，欧阳金泰和欧阳金喜俩问:“有没有一个比较容易记的名字、称号或别名？”，当时回复：“没有!”，然后在Caspo工作时，同事上司老板们都称“Lian Hu”。
 
@@ -625,7 +620,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 [^12]: `r vembedr::embed_youtube('r2zH4JxQSYQ', width = 400, height = 225)`<br>>[*#筑地 #Judi #朱棣 #菜桌椅不是菠菜庄家 #菠菜 #Spanich #🇵🇭🇰🇭 #肺炎 #证券行叫SecurityFirm如同镖局 #邪教博彩庄家诈骗如同鸦片 #博彩庄家卡款铲单杀人如麻如同邪教屠杀人类罪<br>📌只要是博彩庄家靠卡款铲单骗取彩民客户的钱的博彩庄家就是列为诈骗犯罪集团；如果博彩庄家不卡款也不铲单一直亏钱造福所有彩民客户，就是列为慈善机构。<br>📌只要是博彩庄家或任何机构靠卡款铲单骗取彩民客户的钱导致死人的博彩庄家，就是列为谋杀屠杀人类罪。<br>📌只要是运用科学、统计学、数学公式击倒博彩庄家（或者任何科学、科技、技术、数学公式），就叫墨学；墨学俗称科学，工程师、程序员、天文学家、数学家、科学家、统计学家、物理学家、医学家、计量经济学家都是信徒，遍布地球并无国籍之区别<br>📌结论：所以我只能釜底抽薪一劳永逸，根除肺炎的根源🇵🇭🇰🇭博彩庄家金宝博Caspo，支持科学方程式的墨学，拯救全世界人类性命。<br><br>📌As long as bankers or sportsbookmakers cancel transaction or block withdrawal to make money categorized as criminal organization. Only the sportsbookmaker or banker lost money to the gamblers or customers categorized as charity organization for the sake of all residences / citizens / humen.<br>📌As long as bankers or sportsbookmakers block customer's withdrawal or cancel transaction to cause human die or sacrifice, categorized as killing humans' terrorist murdering organization.<br>📌As long as applied statistical or mathematic or any scientific formula categorized as Mohism/Moism. Programmers, mathematicians, statisticians, engineers, doctors, across the World.<br>Conclusion : That's why I only can rebel the origin of covid from Caspo/188Bet being 🇵🇭🇰🇭 and support scientific Moihism or Moism to safe the World and humans' life.*]{style='color:#F6A217'}<br>- [儒家、道家、佛家、法家、墨家如何区分，看后恍然大悟](https://www.sohu.com/a/325543608_483111)<br>- [诸子百家](https://baike.baidu.com/item/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6/16808)<br>- [关于儒家、墨家、道家、法家思想的异同](http://www.360doc.com/content/12/0907/21/7593597_234907351.shtml)<br>- [古希腊文明](https://baike.baidu.com/item/%E5%8F%A4%E5%B8%8C%E8%85%8A%E6%96%87%E6%98%8E/9671355)<br>欲知更多详情请查阅[GitHub: 图书馆 library](https://github.com/englianhu/library)<br><br>[*「「卍」字有兩種寫法，一種是右旋（卐），一種是左旋（卍）。高雄佛陀紀念館上方矗坐著「佛光大佛」*]{style="color:#F6A217"}*，胸口是一個左旋卍字（圖三）。希特勒親自設計的黨旗為紅底白圓心，中間嵌一個黑色右旋字。他在《我的奮鬥》書中說：“紅色象徵我們這個運動的社會意義，白色象徵民族主義思想。卐字象徵爭取雅利安人鬥爭勝利的使命。”由這句話可知，希特勒完全不了解右旋的佛學意義。」*<br><br>[*希特勒對右旋卐的了解應該是由日爾曼神話而來。今日好萊塢電影很夯的雷神索爾（Thor）其實是早期日爾曼民族共有的神祇，卐是他的槌子，直到今日，Thor符號還是白人至上主義的象徵符號。*]{style="color:#F6A217"}*右旋卐字的德語是Haken kreutz，亦意指「彎勾十字架」。右旋卐字也使用於波羅的海沿岸，稱之為Perkunas，拉脫維亞朋友克羅明博士（Janis Klovins）告訴我，一九一八年到一九三四年間，右旋卐字是該國空軍的標誌。」*<br><br>出处：[「卍」字左旋右旋大不同！寫反佛光變納粹…為何希特勒用這符號？難道跟佛教有關？](https://www.storm.mg/lifestyle/327499?page=1)
 
-[^13]: \- Tips: *Ancient named [<ruby>会<rp>(</rp><rt>kuài</rt><rp>)</rp>稽<rp>(</rp><rt>jī</rt><rp>)</rp></ruby>郡（Kuaiji County）](https://baike.baidu.com/item/%E4%BC%9A%E7%A8%BD%E9%83%A1/3625217), now named [永春县（Yongchun County）](https://baike.baidu.com/item/%E6%B0%B8%E6%98%A5%E5%8E%BF).*<br>- **《史记·勾践世家》**载，[*「夏帝少康之庶子无余封于会稽（现今浙江省绍兴市一带），为越国之始祖。」*]{style="color:#F6A217"}<br>- 会稽人王充在《论衡·书虚篇》中引吴君高之语：[*「会稽本山名。夏禹巡狩，会计于此山，因以郡名，故曰会稽。」*]{style="color:#F6A217"}
+[^13]: \- Tips: *Ancient named [<ruby>会<rp>(</rp><rt>kuài</rt><rp>)</rp>稽<rp>(</rp><rt>jī</rt><rp>)</rp></ruby>郡（Kuaiji County）](https://baike.baidu.com/item/%E4%BC%9A%E7%A8%BD%E9%83%A1/3625217), now named [永春县（Yongchun County）](https://baike.baidu.com/item/%E6%B0%B8%E6%98%A5%E5%8E%BF).*<br>- **《史记•勾践世家》**载，[*「夏帝少康之庶子无余封于会稽（现今浙江省绍兴市一带），为越国之始祖。」*]{style="color:#F6A217"}<br>- 会稽人王充在《论衡•书虚篇》中引吴君高之语：[*「会稽本山名。夏禹巡狩，会计于此山，因以郡名，故曰会稽。」*]{style="color:#F6A217"}
 
 <br><br>
 
@@ -648,7 +643,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **Oct-2018 to Nov-2021 : Professional Certificate, Mastering Software Development in ® Specialization**; ([Cousera](http://www.coursera.org) - [Johns Hopkins University (JHU)](https://www.jhu.edu) <img src='诸子百家考工记/jhu.jpg' width="60" align='center' valign='middle'/>)
+### **Oct-2018 to Nov-2021 : Professional Certificate, Mastering Software Development in ® Specialization**; ([Cousera](http://www.coursera.org) - [Johns Hopkins University (JHU)](https://www.jhu.edu) <img src='诸子百家考工记/jhu.png' width="60" align='center' valign='middle'/>)
 
 - *01 Course title : [The ® Programming Environment](https://www.coursera.org/account/accomplishments/records/B4FEKWK27Q6R)*
 - *02 Course title : [Advanced ® Programming](https://www.coursera.org/account/accomplishments/records/W8FRFA3F5AYC)*
@@ -685,14 +680,14 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **<s>Apr-2016 to Jul-2019</s> Apr-2016 to Jun-2016 : <s>Becholar Degree, Computer Science</s>**; ([University of the People (UoP)](https://www.uopeople.edu) <img src='诸子百家考工记/UoP-logo.jpg' width="56" align='center' valign='middle'/>)
+### **<s>Apr-2016 to Jul-2019</s> Apr-2016 to Jun-2016 : <s>Becholar Degree, Computer Science</s>**; ([University of the People (UoP)](https://www.uopeople.edu) <img src='诸子百家考工记/UoP-logo.png' width="56" align='center' valign='middle'/>)
 
 - <s>*Course title : Computer Science*</s>
 - **Github Repo** : [UoP Computer Science](https://github.com/englianhu/UoP-computer-science)
 
 <br>
 
-### **Jun-2016 to Aug-2016 : <s>Professional Certificate, Improving Business Finances and Operations Specialization</s>**; ([Cousera](http://www.coursera.org) - [University of Illinois (UI)](https://illinois.edu) <img src='诸子百家考工记/Illinois.jpg' height='16' align='center' valign='middle'/>)
+### **Jun-2016 to Aug-2016 : <s>Professional Certificate, Improving Business Finances and Operations Specialization</s>**; ([Cousera](http://www.coursera.org) - [University of Illinois (UI)](https://illinois.edu) <img src='诸子百家考工记/Illinois.png' height='16' align='center' valign='middle'/>)
 
 - <s>*01 Course title : Managerial Accounting: Cost Behaviors, Systems, and Analysis*</s>
 - *02 Course title : [Managerial Accounting: Tools for Facilitating and Guiding Business Decisions](https://www.coursera.org/account/accomplishments/records/AYYS2MB3ETD6)*
@@ -706,7 +701,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **Apr-2016 to Aug-2016 : <s>Professional Certificate, Data Mining Specialization</s>**; ([Cousera](http://www.coursera.org) - [University of Illinois (UI)](https://illinois.edu) <img src='诸子百家考工记/Illinois.jpg' height='16' align='center' valign='middle'/>)
+### **Apr-2016 to Aug-2016 : <s>Professional Certificate, Data Mining Specialization</s>**; ([Cousera](http://www.coursera.org) - [University of Illinois (UI)](https://illinois.edu) <img src='诸子百家考工记/Illinois.png' height='16' align='center' valign='middle'/>)
 
 - *01 Course title : [Data Visualization](https://www.coursera.org/account/accomplishments/records/THXLR367Y3PR)*
 - *02 Course title : [Text Retrieval and Search Engines](https://www.coursera.org/account/accomplishments/records/9MK37PQWCWCU)*
@@ -719,7 +714,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **Apr-2014 to May-2016 : Professional Certificate, Data Science Specialization**; ([Cousera](http://www.coursera.org) - [Johns Hopkins University (JHU)](https://www.jhu.edu) <img src='诸子百家考工记/jhu.jpg' width="60" align='center' valign='middle'/>)
+### **Apr-2014 to May-2016 : Professional Certificate, Data Science Specialization**; ([Cousera](http://www.coursera.org) - [Johns Hopkins University (JHU)](https://www.jhu.edu) <img src='诸子百家考工记/jhu.png' width="60" align='center' valign='middle'/>)
 
 - *01 Course title : [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/records/AjMdkzyHyA2JWRRL)*
 - *02 Course title : [® Programming](https://www.coursera.org/account/accomplishments/records/VBB2XUA29B)*
@@ -736,7 +731,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **Jun-2015 to Aug-2015 : <s>Professional Certificate, Python for Everybody Specialization</s>**; ([Cousera](http://www.coursera.org) - [University of Michigan (UM)](https://www.umich.edu) <img src='诸子百家考工记/um.jpg' height='16' align='center' valign='middle'/>)
+### **Jun-2015 to Aug-2015 : <s>Professional Certificate, Python for Everybody Specialization</s>**; ([Cousera](http://www.coursera.org) - [University of Michigan (UM)](https://www.umich.edu) <img src='诸子百家考工记/um.png' height='16' align='center' valign='middle'/>)
 
 - *01 Course title : [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/records/GA4cGW59ETHAevCa)*
 - <s>*02 Course title : Python Data Structures*</s>
@@ -748,30 +743,30 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **XXX-2004 to XXX-2004 : <s>Certified Accounting Technician (CAT) Qualification</s>**; ([ACCA](https://www.accaglobal.com/ca/en/help/students-cat.html) - [PAAC Business Institute (PAAC)](http://www.paac.edu.my) <img src='诸子百家考工记/PAAC.jpg' width="12" align='center' valign='middle'/>)
+### **XXX-2004 to XXX-2004 : <s>Certified Accounting Technician (CAT) Qualification</s>**; ([ACCA](https://www.accaglobal.com/ca/en/help/students-cat.html) - [PAAC Business Institute (PAAC)](http://www.paac.edu.my) <img src='诸子百家考工记/PAAC.png' width="12" align='center' valign='middle'/>)
 
 - *01 Course title : FAU Foundations in Audit*
 - *02 Course title : FTX Foundations in Taxation*
 - *03 Course title : FFM Foundations in Financial Management*
 
-    - 17-Mar-2004: [*ACCA - Recording Financial Transactions*](https://raw.githubusercontent.com/scibrokes/owner/master/documents/ACCA%20-%20Recording%20Financial%20Transactions.jpg)
-    - 18-Mar-2004: [*ACCA - Information for Management Control*](https://raw.githubusercontent.com/scibrokes/owner/master/documents/ACCA%20-%20Accounting%20for%20Costs.jpg)
-    - 21-Jun-2004: [*ACCA - Maintaining Financial Records*](https://raw.githubusercontent.com/scibrokes/owner/master/documents/ACCA%20-%20Maintaining%20Financial%20Records.jpg)
-    - 22-Jun-2004: [*ACCA - Accounting for Costs*](https://raw.githubusercontent.com/scibrokes/owner/master/documents/ACCA%20-%20Information%20for%20Management%20Control.jpg)
+    - 17-Mar-2004: [*ACCA - Recording Financial Transactions*](https://raw.githubusercontent.com/scibrokes/owner/master/documents/ACCA%20-%20Recording%20Financial%20Transactions.png)
+    - 18-Mar-2004: [*ACCA - Information for Management Control*](https://raw.githubusercontent.com/scibrokes/owner/master/documents/ACCA%20-%20Accounting%20for%20Costs.png)
+    - 21-Jun-2004: [*ACCA - Maintaining Financial Records*](https://raw.githubusercontent.com/scibrokes/owner/master/documents/ACCA%20-%20Maintaining%20Financial%20Records.png)
+    - 22-Jun-2004: [*ACCA - Accounting for Costs*](https://raw.githubusercontent.com/scibrokes/owner/master/documents/ACCA%20-%20Information%20for%20Management%20Control.png)
 
 <br>
 
-### **22-Dec-2002 to 29-Jun-2003 : Professional Certificate, Japanese Language Profeciency Test (JLPT)**; Home Tuition ([JLPT](http://www.jlpt.jp/index.html) - [Japan Foundation](https://www.jpf.go.jp) <img src='诸子百家考工记/jpf.jpg' width='30' align='center' valign='middle'/> and [Japan Educational Exchanges and Services (JEES)](http://www.jees.or.jp/index.htm) <img src='诸子百家考工记/JEES.gif' width="68" align='center' valign='middle'/>) and [Japanese Language Society of Malaysia (JLSM)](https://www.jlsm.org) <img src='诸子百家考工记/JLSM.jpg' width="12" align='center' valign='middle'/>
+### **22-Dec-2002 to 29-Jun-2003 : Professional Certificate, Japanese Language Profeciency Test (JLPT)**; Home Tuition ([JLPT](http://www.jlpt.jp/index.html) - [Japan Foundation](https://www.jpf.go.jp) <img src='诸子百家考工记/jpf.png' width='30' align='center' valign='middle'/> and [Japan Educational Exchanges and Services (JEES)](http://www.jees.or.jp/index.htm) <img src='诸子百家考工记/JEES.gif' width="68" align='center' valign='middle'/>) and [Japanese Language Society of Malaysia (JLSM)](https://www.jlsm.org) <img src='诸子百家考工记/JLSM.png' width="12" align='center' valign='middle'/>
 
-- 7-Dec-2003 : [**JLPT - Level III Certificate**](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20III%20-%20Certificate.jpg) *being Kuala Lumpur*
-- 5-Dec-2004 : [**JLPT - Level II**](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20II%20-%202004.jpg) *being Kuala Lumpur* [[**Failed**]{style='color:Red'}](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20II%20-%202004%20Failed.jpg)
-- 4-Dec-2005 : [**JLPT - Level I**](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20I%20-%202005.jpg) *being Kuala Lumpur* [[**Failed**]{style='color:Red'}](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20I%20-%202005%20Failed.jpg)
-- 3-Dec-2006 : [**JLPT - Level I**](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20I%20-%202006.jpg) *being Manila* [**Failed**]{style='color:Red'}
-- A member of [Japan Foundation Kuala Lumpur](http://www.jfkl.org.my) <img src='诸子百家考工记/JFKL.jpg' width="36" align='center' valign='middle'/> since year 2003.
+- 7-Dec-2003 : [**JLPT - Level III Certificate**](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20III%20-%20Certificate.png) *being Kuala Lumpur*
+- 5-Dec-2004 : [**JLPT - Level II**](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20II%20-%202004.png) *being Kuala Lumpur* [[**Failed**]{style='color:Red'}](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20II%20-%202004%20Failed.png)
+- 4-Dec-2005 : [**JLPT - Level I**](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20I%20-%202005.png) *being Kuala Lumpur* [[**Failed**]{style='color:Red'}](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20I%20-%202005%20Failed.png)
+- 3-Dec-2006 : [**JLPT - Level I**](https://raw.githubusercontent.com/scibrokes/owner/master/documents/JLPT%20Level%20I%20-%202006.png) *being Manila* [**Failed**]{style='color:Red'}
+- A member of [Japan Foundation Kuala Lumpur](http://www.jfkl.org.my) <img src='诸子百家考工记/JFKL.png' width="36" align='center' valign='middle'/> since year 2003.
 
 <br>
 
-### **<s>11-Apr-2002 to May-2005</s> 11-Apr-2002 to 11-Oct-2003 : <s>Becholar Degree, Computer Science Combination A Stream (Major in Statistics)</s>**; ([TAR College (TARC)](https://www.tarc.edu.my) <img src='诸子百家考工记/TARC.jpg' width="36" align='center' valign='middle'/>)
+### **<s>11-Apr-2002 to May-2005</s> 11-Apr-2002 to 11-Oct-2003 : <s>Becholar Degree, Computer Science Combination A Stream (Major in Statistics)</s>**; ([TAR College (TARC)](https://www.tarc.edu.my) <img src='诸子百家考工记/TARC.png' width="36" align='center' valign='middle'/>)
 
 - *Freshman*
 - *Sophomore*
@@ -791,22 +786,22 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **Nov-2019 to Jul-2020 : Online Gambling, Marketing Executive**; (employed by [Ali Lottery & YiHaoCai under Lefa (Oriental Group)](https://rpubs.com/englianhu/goucai) <img src='诸子百家考工记/ali.jpg' width="16" align='center' valign='middle'/>)
+### **Nov-2019 to Jul-2020 : Online Gambling, Marketing Executive**; (employed by [Ali Lottery & YiHaoCai under Lefa (Oriental Group)](https://rpubs.com/englianhu/goucai) <img src='诸子百家考工记/ali.png' width="16" align='center' valign='middle'/>)
 
 - *Summary : Oriental Group is a Chinese business group.*
 - *Job Task : Work in Clark (Philippines) as an online marketing service executive (employed by Chinese and all Chinese but few foreigners) for half-year and then switch to be a data analyst in anti-fraud, products & P&L department.*
 
 <br>
 
-### **Nov-2017 to May-2018 : Online Gambling, Customer Service**; (employed by [Aristocrat & Residence](http://www.aristocrat-rh.com) <img src='诸子百家考工记/anr.png' height='16' align='center' valign='middle'/>) (2nd job employed by [7LiveAsia](https://www.7liveasia88.com) <img src='诸子百家考工记/7live.jpg' height='16' align='center' valign='middle'/>)
+### **Nov-2017 to May-2018 : Online Gambling, Customer Service**; (employed by [Aristocrat & Residence](http://www.aristocrat-rh.com) <img src='诸子百家考工记/anr.png' height='16' align='center' valign='middle'/>) (2nd job employed by [7LiveAsia](https://www.7liveasia88.com) <img src='诸子百家考工记/7live.png' height='16' align='center' valign='middle'/>)
 
 - *Job Task : Work in Sihanoukville (Cambodia) as a customer service executive in ALIFA Lottery (employed by Chinese and all Chinese and few Cambodians but our project mostly Malaysian) but some times need to handle anti-fraud for 5 months. 2nd job in Bavet (borderline between Cambodia & Vietnam) with 7LiveAsia with Indonesians for 1 month.*
 
 <br>
 
-### **May-2016 to Dec-2016 : E-commerce, Customer Service**; (employed by [Manpower Human Resource Sdn Bhd](http://www.manpower.com.my) <img src='诸子百家考工记/manpower.jpg' width="24" align='center' valign='middle'/> and deployed by [Mindpearl](https://www.mindpearl.com) <img src='诸子百家考工记/mindpearl02.jpg' width="22" align='center' valign='middle'/>)
+### **May-2016 to Dec-2016 : E-commerce, Customer Service**; (employed by [Manpower Human Resource Sdn Bhd](http://www.manpower.com.my) <img src='诸子百家考工记/manpower.png' width="24" align='center' valign='middle'/> and deployed by [Mindpearl](https://www.mindpearl.com) <img src='诸子百家考工记/mindpearl02.png' width="22" align='center' valign='middle'/>)
 
-- *Job Task : Work in Subang Jaya (Malaysia) as a customer service executive in UOA Business Park 13A/14 floor Mindpearl office but handle [Malaysia Airlines](https://www.malaysiaairlines.com/my/en.html) <img src='诸子百家考工记/mas.jpg' width="36" align='center' valign='middle'/> customers, need to handle Malaysia Airlines customers (mostly Asia Pacific, other branch handle European etc). General enquiry, new booking, booking amendment. Colleagues mostly Chinese, Malaysian, Japanese, Korean, American etc.*
+- *Job Task : Work in Subang Jaya (Malaysia) as a customer service executive in UOA Business Park 13A/14 floor Mindpearl office but handle [Malaysia Airlines](https://www.malaysiaairlines.com/my/en.html) <img src='诸子百家考工记/mas.png' width="36" align='center' valign='middle'/> customers, need to handle Malaysia Airlines customers (mostly Asia Pacific, other branch handle European etc). General enquiry, new booking, booking amendment. Colleagues mostly Chinese, Malaysian, Japanese, Korean, American etc.*
 
 <br>
 
@@ -824,7 +819,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **Feb-2015 to Apr-2015 : E-commerce, Fraud Prevention**; (employed by [IdealSeed Resources Sdn Bhd](http://www.idealseed.com) <img src='诸子百家考工记/idealseed.jpg' width="12" align='center' valign='middle'/> and deployed by [Apple Inc.](http://www.apple.com) <img src='诸子百家考工记/apple.jpg' width="12" align='center' valign='middle'/>)
+### **Feb-2015 to Apr-2015 : E-commerce, Fraud Prevention**; (employed by [IdealSeed Resources Sdn Bhd](http://www.idealseed.com) <img src='诸子百家考工记/idealseed.png' width="12" align='center' valign='middle'/> and deployed by [Apple Inc.](http://www.apple.com) <img src='诸子百家考工记/apple.png' width="12" align='center' valign='middle'/>)
 
 - *Job Task : Working in [Xerox](https://www.xerox.com)<img src='诸子百家考工记/xerox.png' width="36" align='center' valign='middle'/> office. Handling inbound and outbound calls, check and approve/reject customers' ordered transactions.*
 
@@ -837,7 +832,7 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **Nov-2013 to Mar-2014 : Online Gambling, Team Leader ∩ Trader**; (employed by [SBSolutionCorp Ltd](http://www.sbet.com) for trading while [GB-links Ltd](http://www.gb-links.com) <img src='诸子百家考工记/gblinks.jpg' width='32' align='center' valign='middle'/>) provides IT and platform support
+### **Nov-2013 to Mar-2014 : Online Gambling, Team Leader ∩ Trader**; (employed by [SBSolutionCorp Ltd](http://www.sbet.com) for trading while [GB-links Ltd](http://www.gb-links.com) <img src='诸子百家考工记/gblinks.png' width='32' align='center' valign='middle'/>) provides IT and platform support
 
 - *Summary : GB-links Ltd being Hong Kong Kow Long Honghom, Hong Kongnese Bosses*
 - *Job Task : Train newbie and manage few members to update scores and bets settlement.*
@@ -858,43 +853,43 @@ op <- options(gvis.plot.tag = 'chart')
 
 <br>
 
-### **Nov-2012 to May-2013 : MASS Media, Broadcast Compliance Editor**; (employed by [UDrive Media Sdn Bhd](http://www.udrive-media.com) <img src='诸子百家考工记/u-drive-media.jpg' width="100" align='center' valign='middle'/>)
+### **Nov-2012 to May-2013 : MASS Media, Broadcast Compliance Editor**; (employed by [UDrive Media Sdn Bhd](http://www.udrive-media.com) <img src='诸子百家考工记/u-drive-media.png' width="100" align='center' valign='middle'/>)
 
 - *Summary : TM is a bluechip company in Malaysia.*
-- *Job Task : Watching and filtering video streaming from abroad prior to play in our country. [TM Bhd](https://tm.com.my/#/explore) Telekom Malaysia <img src='诸子百家考工记/tm.jpg' width="24" align='center' valign='middle'/> project*
+- *Job Task : Watching and filtering video streaming from abroad prior to play in our country. [TM Bhd](https://tm.com.my/#/explore) Telekom Malaysia <img src='诸子百家考工记/tm.png' width="24" align='center' valign='middle'/> project*
 
 <br>
 
-### **Mar-2008 to Jul-2012 : Business Process Outsourcing (BPO) Company, Customer Service**; (employed by [Scicom (MSC) Bhd](http://www.scicom-intl.com) <img src='诸子百家考工记/scicom.jpg' width='30' align='center' valign='middle'/>)
+### **Mar-2008 to Jul-2012 : Business Process Outsourcing (BPO) Company, Customer Service**; (employed by [Scicom (MSC) Bhd](http://www.scicom-intl.com) <img src='诸子百家考工记/scicom.png' width='30' align='center' valign='middle'/>)
 
 - *Summary : Work for English.*
-- *Job Task : Handling inbound and outbound calls, livechat, feedback, all deposit, withdrawal, phone bets' transactions and also train newbies. Sometimes need to do translation and also analysis job tasks. [Ladbrokes PLC](http://www.ladbrokesplc.com)'s <img src='诸子百家考工记/ladbrokes.jpg' width="26" align='center' valign='middle'/> project*
-- Awarded [Customer Service Workshop](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Scicom%20CS%20Workshop.jpg)
-- Awarded [(Ladbrokes) Appreciation Certificate](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Scicom%20Appreciation%20Certificate.jpg)
+- *Job Task : Handling inbound and outbound calls, livechat, feedback, all deposit, withdrawal, phone bets' transactions and also train newbies. Sometimes need to do translation and also analysis job tasks. [Ladbrokes PLC](http://www.ladbrokesplc.com)'s <img src='诸子百家考工记/ladbrokes.png' width="26" align='center' valign='middle'/> project*
+- Awarded [Customer Service Workshop](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Scicom%20CS%20Workshop.png)
+- Awarded [(Ladbrokes) Appreciation Certificate](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Scicom%20Appreciation%20Certificate.png)
 
 <br>
 
-### **Jul-2006 to Jun-2007 : Online Gambling, Trainer ∩ Trader**; (employed by [Caspo Inc.](http://www.callcenterbeat.com/caspo-philippines) <img src='诸子百家考工记/caspo.jpg' width="34" align='center' valign='middle'/>)
+### **Jul-2006 to Jun-2007 : Online Gambling, Trainer ∩ Trader**; (employed by [Caspo Inc.](http://www.callcenterbeat.com/caspo-philippines) <img src='诸子百家考工记/caspo.png' width="34" align='center' valign='middle'/>)
 
 - *Summary : Caspo is an online gaming group owned by Singaporean and Taiwanese, similar with [Taiwanese Cinema 《黑金》(The Island of Greed)](https://www.bilibili.com/video/BV1Gv411y7ED).*
 - *Job Task : Provides training to newbies includes sportsbook trading and live scout. In charges to analyse the P&L reports of SB1 and SB2, need to trading as well, translate and also analysis job tasks.*
 
 <br>
 
-### **Nov-2005 to Jul-2006 : Online Gambling, Team Leader ∩ Senior Trader**; (employed by [Telebiz Sdn Bhd](http://www.telebizness.com) <img src='诸子百家考工记/telebiz.jpg' width="36" align='center' valign='middle'/>)
+### **Nov-2005 to Jul-2006 : Online Gambling, Team Leader ∩ Senior Trader**; (employed by [Telebiz Sdn Bhd](http://www.telebizness.com) <img src='诸子百家考工记/telebiz.png' width="36" align='center' valign='middle'/>)
 
 - *Summary : Telebiz is an online gaming group with a sister company MG-SC which develop online gaming platform, owned by Malaysian and co-operate with Hong Kongnese, Australian etc*
 - *Job Task : Provides training to newbies on sportsbook trading purchasing stocks, update scores for bets financial settlement, writing training manuals. Handle live-matches on corners (includes R&D on the match odds), translate and also analysis job tasks (compare the market matches and odds price etc).*
 
 <br>
 
-### **Jul-2005 to Oct-2005 : Online Financial Market, Trader ∩ Agent**; (employed by Hexa Commerce Sdn Bhd cooperate with Prestigen Profits Limited <img src='诸子百家考工记/Prestigen-02.jpg' width="12" align='center' valign='middle'/>)
+### **Jul-2005 to Oct-2005 : Online Financial Market, Trader ∩ Agent**; (employed by Hexa Commerce Sdn Bhd cooperate with Prestigen Profits Limited <img src='诸子百家考工记/Prestigen-02.png' width="12" align='center' valign='middle'/>)
 
 - *Summary : Prestigen Profits Limited (New Zealand) --- Asia Pacific is a Forex market investment company.*
 - *Job Task : One series service on marketing, R&D, risk management, trading, training etc in Forex market to generate ROI for investors.*
-- Attachment: ®️ [Prestigen Profits Limited - Authorization to Hexa Commerce Sdn Bhd](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Prestigen%20Profits%20Limited%20-%20Authorization%20to%20Hexa%20Commerce.jpg)
-- Attachment: [Prestigen Profits Limited - Certificate of Incorporation](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Prestigen%20Profits%20Limited%20-%20Cert%20of%20Inc.jpg)
-- Attachment: [Hexa Commerce Sdn Bhd - Company Certificate](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Prestigen%20Profits%20Limited%20-%20HexaCommerce.jpg)
+- Attachment: ®️ [Prestigen Profits Limited - Authorization to Hexa Commerce Sdn Bhd](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Prestigen%20Profits%20Limited%20-%20Authorization%20to%20Hexa%20Commerce.png)
+- Attachment: [Prestigen Profits Limited - Certificate of Incorporation](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Prestigen%20Profits%20Limited%20-%20Cert%20of%20Inc.png)
+- Attachment: [Hexa Commerce Sdn Bhd - Company Certificate](https://raw.githubusercontent.com/scibrokes/owner/master/documents/Prestigen%20Profits%20Limited%20-%20HexaCommerce.png)
 
 <br>
 
@@ -1155,7 +1150,7 @@ source('函数/skill2B.R', encoding = 'utf-8')
 - **Feb-2006**, When I working in Telebiz, study part time Korean language class in Ampang Korean Village, and learn Taekwondo at a Korean Martial Art center within the Ampang Korean Village area.
 - **Jul-2006**, When I working in Telebiz and went to Singapore to interview with Auyok Kim Tye and Auyok Kim Hwee in Sheraton Hotel lobby, few weeks later Auyok Kim Hwee rush to contact me to look for Amy who bought a ticket for me to flight to Phillipines, I flight to Philippines within few days without resignation.
 - **Jul-2006 to Dec-2006**, When I working in Caspo Inc, inquiry some Japanese language center and also Korean language center,and then register the advanced level --- JLPT Level I at [Japan Foundation Manila](https://jfmo.org.ph), and take the exam at [Dela Salle University Manila](https://www.dlsu.edu.ph) in Dec-2006.
-- **Jan-2007 to Apr 2007**, Studying [German language part time class](https://raw.githubusercontent.com/scibrokes/owner/master/documents/GOTHE-Institute.jpg) at [Goethe Institut Philippinen](https://www.goethe.de/ins/ph/en/spr/kur/all.html) when I working in Caspo Inc, Manila.
+- **Jan-2007 to Apr 2007**, Studying [German language part time class](https://raw.githubusercontent.com/scibrokes/owner/master/documents/GOTHE-Institute.png) at [Goethe Institut Philippinen](https://www.goethe.de/ins/ph/en/spr/kur/all.html) when I working in Caspo Inc, Manila.
 - **Jul-2006 to Apr-2007**, When I working in Caspo Inc, William Chen always invite me to learn Muay Thai (and also Japanese Aikido, Korean Hapkido) while the Thai Martial Art center being ground floor of office (PBCom Tower).
 - **Aug-2007 to Mar-2008**, Eldest brother setup a stall as hawker, work with brothers in a Carlsberg Restaurant MingChu Equine Park, the owner of the restaurant is a Taiwanese lady named Mingchu.
 - **2009 to 2010**, When I working in Scicom, start trading in United States and Hong Kong financial market with OSK security firm and also CIMB (Singapore).
@@ -1186,13 +1181,13 @@ Because of noted that George Soros's mom know multilingual and there has a lot o
 
 > Simons left academia in 1978 to start what became Renaissance Technologies, an early pioneer in quantitative, or model-based, trading, primarily in commodities and currencies; the Medallion Fund he managed there is one of the world's most successful hedge funds. Forbes has listed him among the top 100 richest people in the world, and he has been called "the world's smartest billionaire."
 
-[James Simons]{style='color:RoyalBlue'}[^17] is the successful investor in quantitative hedge fund whom we need to learn. I am currently learn to setup own quantitative hedge fund company [**Sςιβrοκεrs Trαdιηg®**](https://www.scibrokes.com){style='color:RoyalBlue'} and using shiny to deploy a High-Frequency-Algorithmic-Auto-Trading-System. You are welcome to own yours by refer to my [安装®StudioとShiny服务器](https://github.com/Scibrokes/setup-rstudio-server) <img src='诸子百家考工记/rstudio.jpg' width="24"/>. You are welcome to contact me at [englianhu\@gmail.com](mailto:englianhu@gmail.com){.email}.
+[James Simons]{style='color:RoyalBlue'}[^17] is the successful investor in quantitative hedge fund whom we need to learn. I am currently learn to setup own quantitative hedge fund company [**Sςιβrοκεrs Trαdιηg®**](https://www.scibrokes.com){style='color:RoyalBlue'} and using shiny to deploy a High-Frequency-Algorithmic-Auto-Trading-System. You are welcome to own yours by refer to my [安装®StudioとShiny服务器](https://github.com/Scibrokes/setup-rstudio-server) <img src='诸子百家考工记/rstudio.png' width="24"/>. You are welcome to contact me at [englianhu\@gmail.com](mailto:englianhu@gmail.com){.email}.
 
 [^17]: \- [How I Built The Best Trading Algorithm - Jim Simons](https://youtu.be/IZeo-Vj4dco)<br>- [传奇对冲基金之王:数学家西蒙斯](https://finance.sina.com.cn/money/fund/20151014/174523474580.shtml)<br>- [Jim Simons THE MAN WHO SOLVED THE MARKET by Greg Zuckerman](https://youtu.be/scHYR_ALl1c)<br>- [“World’s Smartest Billionaire:” James Simons is Cal Alumnus of the Year for 2016](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/world-s-smartest-billionaire-james-simons-cal-alumnus)
 
 Kindly refer to my personal blogs for more information about me.
 
-- [WordPress](https://englianhu.wordpress.com) <img src='诸子百家考工记/wordpress.jpg' width="16"/>
+- [WordPress](https://englianhu.wordpress.com) <img src='诸子百家考工记/wordpress.png' width="16"/>
 - [Blogspot](https://englianhu.blogspot.com) <img src='诸子百家考工记/blogspot.png' width="16"/>
 - [GitHub Blog](https://englianhu.github.io) <img src='诸子百家考工记/Github_Pages.png' width="16"/> ([GitHub Repo Source Code](https://github.com/englianhu/englianhu.github.io))
 - [JianShu（简书）](https://www.jianshu.com/u/4565fc707969) <img src='诸子百家考工记/JianShu.png' width="16"/>
@@ -1280,10 +1275,10 @@ knitrREmap(wmap, local = FALSE)
 ## Social Network
 
 <a href='https://www.coursera.org/user/617ad9f360f8fa19031b59c9af23b799'><img src='诸子百家考工记/coursera.png' width='48'/></a>
-<a href='https://www.facebook.com/englianhu'><img src='诸子百家考工记/facebook2.jpg' width='48'/></a>
+<a href='https://www.facebook.com/englianhu'><img src='诸子百家考工记/facebook2.png' width='48'/></a>
 <a href='https://instagram.com/englianhu'><img src='诸子百家考工记/IG4.png' width='48'/></a>
 <a href='https://jp.linkedin.com/in/englianhu'><img src='诸子百家考工记/linkedin.png' width='48'/></a>
-<a href='skype:englianhu?call'><img src='诸子百家考工记/skype.jpg' width='48'/></a>
+<a href='skype:englianhu?call'><img src='诸子百家考工记/skype.png' width='48'/></a>
 <a href='https://plus.google.com/+黄联富'><img src='诸子百家考工记/gplus.png' width='48'/></a>
 <a href='https://twitter.com/englianhu'><img src='诸子百家考工记/twitter.png' width='48'/></a>
 <a href='https://about.me/englianhu'><img src='诸子百家考工记/aboutme.png' width='48'/></a>
@@ -1292,7 +1287,7 @@ knitrREmap(wmap, local = FALSE)
 <a href='https://www.wechat.com/englianhu'><img src='诸子百家考工记/Wechat.png' width='48'/></a>
 <a href='http://t.qq.com/englianhu'><img src='诸子百家考工记/QQ wb.png' width='48'/></a>
 <a href='http://user.qzone.qq.com/2837330579'><img src='诸子百家考工记/Qzone.png' width='48'/></a>
-<a href='https://scibrokes.zeef.com/ryo.eng'><img src='诸子百家考工记/zeef.jpg' width='48'/></a>
+<a href='https://scibrokes.zeef.com/ryo.eng'><img src='诸子百家考工记/zeef.png' width='48'/></a>
 <a href='https://disqus.com/by/englianhu'><img src='诸子百家考工记/disqus.png' width='48'/></a>
 <a href='https://www.douyin.com/user/MS4wLjABAAAAgnpmCWEdda8Wauzuo_MTsC-UjxjbRlUNUSkA55Ecot75KfHulPYUuYTXts0uzPS7'><img src='诸子百家考工记/DouYin.png' width='48'/></a>
 <a href='http://kuaishou.com/'><img src='诸子百家考工记/KuaiShou.png' width='48'/></a>
@@ -1303,39 +1298,39 @@ knitrREmap(wmap, local = FALSE)
 <a href='https://c.cari.com.my/home.php?mod=space&uid=2052094'><img src='诸子百家考工记/cari.png' width='48'/></a>
 <a href='https://www.uwants.com/space.php?action=viewpro&view=home_view&uid=5834381'><img src='诸子百家考工记/uwants.png' width='48'/></a>
 <a href='https://www.quora.com/profile/Ryo-Eng'><img src='诸子百家考工记/Quora.png' width='48'/></a>
-<a href='https://discord.com'><img src='诸子百家考工记/discord2.jpg' width='48'/></a>
-<a href='https://stackoverflow.com/users/3806250/r%ce%b3%cf%83-%ce%be%ce%b7g-l%ce%b9%ce%b1%ce%b7-%ce%97%ce%bc'><img src='诸子百家考工记/SOF.jpg' width='48'/></a>
+<a href='https://discord.com'><img src='诸子百家考工记/discord2.png' width='48'/></a>
+<a href='https://stackoverflow.com/users/3806250/r%ce%b3%cf%83-%ce%be%ce%b7g-l%ce%b9%ce%b1%ce%b7-%ce%97%ce%bc'><img src='诸子百家考工记/SOF.png' width='48'/></a>
 <a href='https://stackexchange.com/users/4703258/r%ce%b3%cf%83-%ce%be%ce%b7g-l%ce%b9%ce%b1%ce%b7-%ce%97%ce%bc'><img src='诸子百家考工记/SE.png' width='48'/></a>
 <a href='https://www.zhihu.com/people/englianhu'><img src='诸子百家考工记/ZhiHu.png' width='48'/></a>
-<a href='https://xiaohongshu.com'><img src='诸子百家考工记/hong.jpg' width='48'/></a>
+<a href='https://xiaohongshu.com'><img src='诸子百家考工记/hong.png' width='48'/></a>
 <a href='https://www.jianshu.com/u/4565fc707969'><img src='诸子百家考工记/JianShu.png' width='48'/></a>
 <a href='https://www.researchgate.net/profile/Rgs-Lian-Hu-Eng'><img src='诸子百家考工记/RG.png' width='48'/></a>
-<a href='https://pku.academia.edu/englianhu'><img src='诸子百家考工记/academia.jpg' width='48'/></a>
-<a href='https://englianhu.wordpress.com'><img src='诸子百家考工记/wordpress.jpg' width='48'/></a>
+<a href='https://pku.academia.edu/englianhu'><img src='诸子百家考工记/academia.png' width='48'/></a>
+<a href='https://englianhu.wordpress.com'><img src='诸子百家考工记/wordpress.png' width='48'/></a>
 <a href='https://englianhu.github.io'><img src='诸子百家考工记/Github_Pages.png' width='48'/></a>
 <a href='https://www.youtube.com/c/黄联富'><img src='诸子百家考工记/YouTube.jpeg' width='48'/></a>
-<a href='https://vimeo.com/englianhu'><img src='诸子百家考工记/vimeo.jpg' width='48'/></a>
+<a href='https://vimeo.com/englianhu'><img src='诸子百家考工记/vimeo.png' width='48'/></a>
 <a href='https://space.bilibili.com/690266950'><img src='诸子百家考工记/BiliBili.png' width='48'/></a>
 <a href='https://www.iq.com'><img src='诸子百家考工记/iq.png' width='48'/></a>
 <a href='https://www.vk.com/englianhu'><img src='诸子百家考工记/vk.png' width='48'/></a>
 <a href='https://ok.ru/englianhu'><img src='诸子百家考工记/OKru.png' width='48'/></a>
 <a href='https://www.yandex.com'><img src='诸子百家考工记/Yandex.png' width='48'/></a>
-<a href='https://www.tumblr.com/blog/englianhu'><img src='诸子百家考工记/Tumblr3.jpg' width='48'/></a>
+<a href='https://www.tumblr.com/blog/englianhu'><img src='诸子百家考工记/Tumblr3.png' width='48'/></a>
 <a href='https://mlog.club/user/6960'><img src='诸子百家考工记/MClub.png' width='48'/></a>
-<a href='https://github.com/englianhu'><img src='诸子百家考工记/github.jpg' width='48'/></a>
+<a href='https://github.com/englianhu'><img src='诸子百家考工记/github.png' width='48'/></a>
 <a href='https://bitbucket.org/englianhu'><img src='诸子百家考工记/bitbucket.png' width='48'/></a>
-<a href='https://plot.ly/~englianhu'><img src='诸子百家考工记/plotly.jpg' width='48'/></a>
-<a href='http://r.789695.n4.nabble.com/template/NamlServlet.jtp?macro=user_nodes&user=379689'><img src='诸子百家考工记/rnable.jpg' width='48'/></a>
+<a href='https://plot.ly/~englianhu'><img src='诸子百家考工记/plotly.png' width='48'/></a>
+<a href='http://r.789695.n4.nabble.com/template/NamlServlet.jtp?macro=user_nodes&user=379689'><img src='诸子百家考工记/rnable.png' width='48'/></a>
 <a href='http://www.talkstats.com/member.php/107100-englianhu'><img src='诸子百家考工记/talkstats.png' width='48'/></a>
 <a href='http://blog.csdn.net/github_25731367'><img src='诸子百家考工记/csdn2.png' width='48'/></a>
-<a href='http://www.linuxquestions.org/questions/user/englianhu-1019212/'><img src='诸子百家考工记/LQ.jpg' width='48'/></a>
+<a href='http://www.linuxquestions.org/questions/user/englianhu-1019212/'><img src='诸子百家考工记/LQ.png' width='48'/></a>
 <a href='http://www.biostatistic.net/?120034'><img src='诸子百家考工记/biostatistic.png' width='48'/></a>
-<a href='http://cos.name/cn/profile/englianhu'><img src='诸子百家考工记/cos.jpg' width='48'/></a>
+<a href='http://cos.name/cn/profile/englianhu'><img src='诸子百家考工记/cos.png' width='48'/></a>
 <a href='http://bbs.pinggu.org/home.php?mod=space&uid=5794471'><img src='诸子百家考工记/JG1.png' width='48'/></a>
 <a href='http://www.madio.net/archiver'><img src='诸子百家考工记/madio.png' width='48'/></a>
-<a href='http://www.mathchina.com/bbs'><img src='诸子百家考工记/mathchina.jpg' width='48'/></a>
+<a href='http://www.mathchina.com/bbs'><img src='诸子百家考工记/mathchina.png' width='48'/></a>
 <a href='https://www.centos.org/forums/search.php?author_id=100465&sr=posts'><img src='诸子百家考工记/centOS.png?raw=true" width='48'/></a>
-<a href='https://forum.linuxconfig.org/u/englianhu'><img src='诸子百家考工记/LinuxConfig1.jpg' width='48'/></a>
+<a href='https://forum.linuxconfig.org/u/englianhu'><img src='诸子百家考工记/LinuxConfig1.png' width='48'/></a>
 <a href='https://www.reddit.com/user/englianhu'><img src='诸子百家考工记/medium.png' width='48'/></a>
 <a href='https://medium.com/@englianhu'><img src='诸子百家考工记/Reddit.png' width='48'/></a>
 <a href='https://itsfoss.community/u/englianhu'><img src='诸子百家考工记/FossCom1.png' width='48'/></a>
@@ -1346,8 +1341,8 @@ knitrREmap(wmap, local = FALSE)
 <a href='https://steamcommunity.com/id/englianhu'><img src='诸子百家考工记/Steam.png' width='48'/></a>
 <a href='https://community.rstudio.com'><img src='诸子百家考工记/RStudioCom1.png' width='48'/></a>
 <a href='http://www.betting-forum.com/members/englianhu.10020'><img src='诸子百家考工记/bettingforum.png' width='48'/></a>
-<a href='http://https://forum.punterslounge.com/profile/94378-ryoeng'><img src='诸子百家考工记/PLounge.jpg' width='48'/></a>
-<a href='http://www.sportsbookreview.com/forum'><img src='诸子百家考工记/SBR.jpg' width='48'/></a>
+<a href='http://https://forum.punterslounge.com/profile/94378-ryoeng'><img src='诸子百家考工记/PLounge.png' width='48'/></a>
+<a href='http://www.sportsbookreview.com/forum'><img src='诸子百家考工记/SBR.png' width='48'/></a>
 <a href='https://community.rebelbetting.com/u/englianhu'><img src='诸子百家考工记/RB.png' width='48'/></a>
 <a href='https://home.cnblogs.com/u/englianhu'><img src='诸子百家考工记/CNBlogs 1.png' width='48'/></a>
 <a href='https://www.bookstack.cn/user/englianhu'><img src='诸子百家考工记/bookstack.png' width='48'/></a>

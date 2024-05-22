@@ -79,7 +79,7 @@
 | 字                                 |                                                                                                                             阿<ruby>虎<rp>(</rp><rt>hǔ</rt><rp>)</rp></ruby>🐯  |
 | 号                                 |                                                                                                                                                                   雷欧 ∪ 瑞欧  |   
 | 虚拟名                             |                                                                                                                                                                      🎎龙介建次 |
-| 别名                               | 阿虎、Mr. <ruby>沪<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>、<ruby>浒<rp>(</rp><rt>hǔ</rt><rp>)</rp>湖<rp>(</rp><rt>hú</rt><rp>)</rp></ruby>、阿沪、<ruby>富<rp>(</rp><rt>fū</rt><rp>)</rp>仔<rp>(</rp><rt>zái</rt><rp>)</rp></ruby>（🇭🇰粤） |
+| 别名                               | Mr. <ruby>沪<rp>(</rp><rt>hù</rt><rp>)</rp></ruby>、<ruby>浒<rp>(</rp><rt>hǔ</rt><rp>)</rp>湖<rp>(</rp><rt>hú</rt><rp>)</rp></ruby>、阿沪、<ruby>富<rp>(</rp><rt>fū</rt><rp>)</rp>仔<rp>(</rp><rt>zái</rt><rp>)</rp></ruby>（🇭🇰粤） |
 | 生日（阳历）                       |                                                                                                                                         （星座：天秤⚖ ）一九八四年十月二十二日 |
 | 生辰八字（农历）                   |                                                                                                                  （生肖：鼠 🐭）一九八四甲子(鼠🐭)年九月廿八丑（牛🐮）时 (周一) |
 | 年龄                               |        38岁 |
