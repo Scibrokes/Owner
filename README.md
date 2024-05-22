@@ -7,10 +7,12 @@
 
 ## 公司简介
 
+<img src='诸子百家考工记/红旗礼逆袭，量化对冲.png' width='400' align='center' valign='middle'/>
+
 世博量化® Sςιβrοκεrs Trαdιηg®是一家以数理统计投资于金融行业，挣取高回酬。
 <br>创办人：艺人背景 ®γσ ξηg
 <br>englianhu@gmail.com
-<br>北京大学校友 <img src='诸子百家考工记/coursera.png' height='16' class='center'/> <img src='诸子百家考工记/Peking University 02.png' height='16' class='center'/>
+<br>北京大学校友 <img src='诸子百家考工记/coursera.png' height='16' class='center'/> <img src='诸子百家考工记/大秦赋 - 北京大学.png' height='16' class='center'/>
 
 <br>
 
@@ -18,7 +20,11 @@
 
 ### 个人履历表
 
+<img src='诸子百家考工记/段奕宏、朱珠主演的电视剧《大秦赋》信陵君是个扶姐魔！.gif' width='400' align='center' valign='middle'/>
+
 **最新版本**
+
+<img src='诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png' height='120' align='center' valign='middle'/><img src='诸子百家考工记/Picsart_23-10-24_13-06-17-062.png' height='120' align='center' valign='middle'/>
 
 多语言简历（闪霓互动式应用）shinyCV [®γσ, ξηg Lιαη Ημ]() ------ *更新于xxxxxxxxx*
 
@@ -30,7 +36,7 @@
 
 **文物 / 旧档案**
 
-<img src='诸子百家考工记/20181028_225629.gif' width='240'/>
+<img src='诸子百家考工记/20181028_225629.gif' width='400'/>
 
 - 多语言简历（闪霓互动式应用）shinyCV [®γσ, Eng Lian Hu](https://beta.rstudioconnect.com/content/4352)
 
@@ -55,16 +61,11 @@
 
 ## 简历
 
-<img src='诸子百家考工记/quantitative trader 1.jpg' width='120' align='center' valign='middle'/>
+<img src='诸子百家考工记/避暑山庄.png' width='120' align='center' valign='middle'/>
 
-®γσ, ξηg Lιαη Ημ
+赢家黄氏江夏堂，联富 (®γσ, ξηg Lιαη Ημ)
 
-<audio src='文艺坊曲库/小松拓也 - 不知道方向 Takuya Komatsu (原创) - (Better Ownself).mp3' autoplay controls loop>
-
-</audio>
-
-### 关于我
-
+<audio src='诸子百家诗经与古诗源/小松拓也 - 不知道方向 Takuya Komatsu (原创) - (Better Ownself).mp3' autoplay controls loop></audio>
 
 ## 关于我
 
@@ -80,9 +81,9 @@
 | 生辰八字（农历）                   |                                                                                                                  （生肖：鼠 🐭）一九八四甲子(鼠🐭)年九月廿八丑（牛🐮）时 (周一) |
 | 年龄                               |        38岁 |
 | 行动电话号码                       |                                                                                                                                         🇲🇾 [+6-017-6482776](tel:+60176482776) |
-| 其它行动电话号码                   | 🇲🇾 [+6-014-6082776](tel:+60146082776) / 🇹🇼 <s>[+886-098-9104576](tel:+8860989104576)</s> / 🇨🇳 <s>[+86-148-00318130](tel:+8614800318130)</s> / 🇵🇭 <s>[+63-956-1935095](tel:+639561935095)</s> / 🇬🇧 <u>[+44-xxxxxxxxxx](tel:+44xxxxxxxxx)</u> / 🇭🇰 <u>[+852-57-004008](tel:+85257004008)</u> |
+| 其它行动电话号码                   | 🇹🇼 <s>[+886-098-9104576](tel:+8860989104576)</s> / 🇨🇳 <s>[+86-148-00318130](tel:+8614800318130)</s> / 🇵🇭 <s>[+63-956-1935095](tel:+639561935095)</s> / 🇬🇧 <s>[+44-xxxxxxxxxx](tel:+44xxxxxxxxx)</s> / 🇭🇰 <u>[+852-57-004008](tel:+85257004008)</u> |
 | 邮址（电邮）                       |                                                                                                                                                             englianhu@gmail.com |
-| 其它电邮                           | englianhu@hotmail.com / englianhu@yahoo.com / <s>ryusukekenji@gmail.com</s> / <s>ryusukekenji@hotmail.com</s> / <s>lianhu_10@hotmail.com</s> / <s>cyber_englianhu@yahoo.com</s> |
+| 其它电邮                           | englianhu@hotmail.com / englianhu@yahoo.com / <s>cyber_englianhu@baidu.com</s> / <s>cyber_englianhu@qq.com</s> / <s>ryusukekenji@gmail.com</s> / <s>ryusukekenji@hotmail.com</s> / <s>lianhu_10@hotmail.com</s> / <s>cyber_englianhu@yahoo.com</s> |
 | 国籍                               |                                                                                                                                                                 🇲🇾 马来西亚人 |
 | 出生地                             |                                                                                                                                                    丹戎加弄，雪兰莪州，马来西亚 |
 | 宗教                               |                                                                                                        μ 墨学, ☸ρ 儒学, ☯️**τ 道教**, 卍 佛教 |
