@@ -9,6 +9,8 @@
 
 <img src='诸子百家考工记/红旗礼逆袭，量化对冲.png' width='400' align='center' valign='middle'/>
 
+<img src='诸子百家考工记/江夏堂（甲）.png' width='120' align='center' valign='middle'/>
+
 世博量化® Sςιβrοκεrs Trαdιηg®是一家以数理统计投资于金融行业，挣取高回酬。
 <br>创办人：艺人背景 ®γσ ξηg
 <br>englianhu@gmail.com
@@ -24,7 +26,7 @@
 
 **最新版本**
 
-<img src='诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png' height='120' align='center' valign='middle'/><img src='诸子百家考工记/Picsart_23-10-24_13-06-17-062.png' height='120' align='center' valign='middle'/>
+<img src='诸子百家考工记/江夏堂（甲）.png' height='120' align='center' valign='middle'/><img src='诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png' height='120' align='center' valign='middle'/><img src='诸子百家考工记/Picsart_23-10-24_13-06-17-062.png' height='120' align='center' valign='middle'/>
 
 多语言简历（闪霓互动式应用）shinyCV [®γσ, ξηg Lιαη Ημ]() ------ *更新于xxxxxxxxx*
 
@@ -64,6 +66,8 @@
 <img src='诸子百家考工记/避暑山庄.png' width='120' align='center' valign='middle'/>
 
 赢家黄氏江夏堂，联富 (®γσ, ξηg Lιαη Ημ)
+
+<img src='诸子百家考工记/江夏堂（甲）.png' width='120' align='center' valign='middle'/>
 
 <audio src='诸子百家诗经与古诗源/小松拓也 - 不知道方向 Takuya Komatsu (原创) - (Better Ownself).mp3' autoplay controls loop></audio>
 

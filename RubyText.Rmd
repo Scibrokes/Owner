@@ -1,8 +1,8 @@
 ---
 title: "<span style='color:goldenrod'>RMarkdown导入/引用外来编程语</span>"
 subtitle: '外来编程语'
-author: "[雷欧 ∪ 瑞欧，黄联富](https://englianhu.github.io) <img src='文艺坊图库/ENG.png'
-  height='16' align='center' valign='middle'> <img src='文艺坊图库/me light mode.jpg'
+author: "[雷欧 ∪ 瑞欧，黄联富](https://englianhu.github.io) <img src='文诸子百家考工记/ENG.png'
+  height='16' align='center' valign='middle'> <img src='诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png'
   height='16' align='center' valign='middle'>®"
 tags: [计量经济学, 量化圈, 娱乐圈, ®, Python, ®Studio]
 date: "13-Apr-2022"
@@ -22,6 +22,8 @@ output:
 ---
 
 runtime: shiny
+
+![](诸子百家考工记/江夏堂（甲）.png)
 
 # 设定
 
@@ -370,5 +372,5 @@ public static async Task<string> PostWebAsync(string url, string idata) {
 
 ---
 
-[<img src='文艺坊图库/Scibrokes.png' height='16'/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src='文艺坊图库/Scibrokes.png' height='16'/> 世博量化®](http://www.scibrokes.com)企业知识产权®及版权®所有，盗版必究。**</span>
+[<img src='诸子百家考工记/世博量化.png' height='16'/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src='诸子百家考工记/世博量化.png' height='16'/> 世博量化®](http://www.scibrokes.com)企业知识产权®及版权®所有，盗版必究。**</span>
