@@ -110,22 +110,22 @@ Sys.setenv(RETICULATE_PYTHON = '/home/englianhu/anaconda3/bin/python3',
 
 suppressPackageStartupMessages(require('utils'))
 
-if(!suppressPackageStartupMessages(require('BBmisc'))) {
+if (!suppressPackageStartupMessages(require('BBmisc'))) {
   install.packages('BBmisc', dependencies = TRUE, 
                    lib = .pth[1], INSTALL_opts = '--no-lock')
 }; suppressPackageStartupMessages(require('BBmisc'))
 
-if(!suppressPackageStartupMessages(require('rmsfuns'))) {
+if (!suppressPackageStartupMessages(require('rmsfuns'))) {
    install.packages('rmsfuns', dependencies = TRUE, 
                     lib = .pth[1], INSTALL_opts = '--no-lock')
 }; suppressPackageStartupMessages(require('rmsfuns'))
 
-if(!suppressPackageStartupMessages(require('drat'))) {
+if (!suppressPackageStartupMessages(require('drat'))) {
   install.packages('drat', dependencies = TRUE, 
                    lib = .pth[1], INSTALL_opts = '--no-lock')
 }; suppressPackageStartupMessages(require('drat'))
 
-if(!suppressPackageStartupMessages(require('rstan'))) {
+if (!suppressPackageStartupMessages(require('rstan'))) {
   install.packages('rstan', repos = c(
                    'https://mc-stan.org/r-packages', 
                    dependencies = TRUE, lib = .pth[1], 
@@ -133,14 +133,14 @@ if(!suppressPackageStartupMessages(require('rstan'))) {
                    getOption('repos')))
 }; suppressPackageStartupMessages(require('rstan'))
 
-if(!suppressPackageStartupMessages(require('devtools'))) {
+if (!suppressPackageStartupMessages(require('devtools'))) {
   install.packages('devtools', dependencies = TRUE, 
                    lib = .pth[1], INSTALL_opts = '--no-lock')
   devtools::install_github('r-lib/devtools')
 }; suppressPackageStartupMessages(require('devtools'))
 conflicted::conflicts_prefer(devtools::check, .quiet = TRUE)
 
-if(!suppressPackageStartupMessages(require('Ipaper'))) {
+if (!suppressPackageStartupMessages(require('Ipaper'))) {
   devtools::install_github('kongdd/Ipaper')
   #devtools::install_git('https://gitee.com/adv-r/Ipaper')
   # or from gz file
@@ -150,56 +150,56 @@ if(!suppressPackageStartupMessages(require('Ipaper'))) {
 conflicted::conflicts_prefer(plyr::ldply, .quiet = TRUE)
 conflicted::conflicts_prefer(Ipaper::is_empty, .quiet = TRUE)
 
-if(!suppressPackageStartupMessages(require('miniCRAN'))) {
+if (!suppressPackageStartupMessages(require('miniCRAN'))) {
   ## https://andrie.github.io/miniCRAN/articles/miniCRAN-introduction.html
   devtools::install_github('andrie/miniCRAN')
 }; suppressPackageStartupMessages(require('miniCRAN'))
 
-if(!suppressPackageStartupMessages(require('rhub'))) {
+if (!suppressPackageStartupMessages(require('rhub'))) {
   ## https://github.com/r-hub/rhub
   remotes::install_github('r-hub/rhub')
 }; suppressPackageStartupMessages(require('rhub'))
 
-if(!require('runr')) devtools::install_github('yihui/runr')
+if (!require('runr')) devtools::install_github('yihui/runr')
 suppressPackageStartupMessages(require('runr'))
 
-if(!suppressPackageStartupMessages(require('startup'))) {
+if (!suppressPackageStartupMessages(require('startup'))) {
   ## https://github.com/HenrikBengtsson/startup
   remotes::install_github('HenrikBengtsson/startup', ref = 'develop')
 }; suppressPackageStartupMessages(require('startup'))
 
-if(!suppressPackageStartupMessages(require('Rdym'))) {
+if (!suppressPackageStartupMessages(require('Rdym'))) {
   devtools::install_github('wrathematics/Rdym')
 }; suppressPackageStartupMessages(require('Rdym'))
 
 ## https://www.jumpingrivers.com/blog/customising-your-rprofile/
-if(!suppressPackageStartupMessages(require('rprofile'))) {
+if (!suppressPackageStartupMessages(require('rprofile'))) {
   remotes::install_github('csgillespie/rprofile')
 }; suppressPackageStartupMessages(require('rprofile'))
 
-if(!suppressPackageStartupMessages(require('prompt'))) {
+if (!suppressPackageStartupMessages(require('prompt'))) {
   # Used for nice prompts
   remotes::install_github('gaborcsardi/prompt')
 }; suppressPackageStartupMessages(require('prompt'))
 
-if(!suppressPackageStartupMessages(require('colorout'))) {
+if (!suppressPackageStartupMessages(require('colorout'))) {
   # Used for nice colours in the terminal; not for Windows
   remotes::install_github('jalvesaq/colorout')
 }; suppressPackageStartupMessages(require('colorout'))
 
-if(!suppressPackageStartupMessages(require('tidyverse'))) {
+if (!suppressPackageStartupMessages(require('tidyverse'))) {
   devtools::install_github('tidyverse/tidyverse')
 }; suppressPackageStartupMessages(require('tidyverse'))
 
-if(!suppressPackageStartupMessages(require('lubridate'))) {
+if (!suppressPackageStartupMessages(require('lubridate'))) {
   devtools::install_github('tidyverse/lubridate')
 }; suppressPackageStartupMessages(require('lubridate'))
 
-if(!suppressPackageStartupMessages(require('prettycode'))) {
+if (!suppressPackageStartupMessages(require('prettycode'))) {
   devtools::install_github('https://github.com/r-lib/prettycode')
 }; suppressPackageStartupMessages(require('prettycode'))
 
-if(!suppressPackageStartupMessages(require('openxlsx2'))) {
+if (!suppressPackageStartupMessages(require('openxlsx2'))) {
   remotes::install_github('JanMarvin/openxlsx2')
 }; suppressPackageStartupMessages(require('openxlsx2'))
 
