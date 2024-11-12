@@ -74,4 +74,4 @@ Sys.setenv(RETICULATE_PYTHON = '/home/englianhu/anaconda3/bin/python3',
   #remotes::install_github('radiant-rstats/radiant.update', upgrade = 'never')
   #radiant.update::radiant.update()
   #install.packages('cmdstanr', repos = c('https://mc-stan.org/r-packages', getOption('repos')))
-})
+# })
